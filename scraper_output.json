@@ -1313,29 +1313,19 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-24T20:00:00Z",
+    "hora_utc": "2026-04-24T20:00Z",
     "logo": "img/ar.png",
-    "liga": "Liga Profesional",
+    "liga": "Primera División",
     "equipos": "Deportivo Riestra vs Independiente",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Fanatiz 1",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnpremium",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-        "calidad": "720p"
-      },
       {
         "nombre": "ESPN Premium",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+premium&code=ar&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-24T20:45:00Z",
@@ -1412,7 +1402,7 @@
     "logo": "img/cl.png",
     "liga": "Liga de Primera",
     "equipos": "Unión La Calera vs Coquimbo Unido",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Max 2",
@@ -1462,7 +1452,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Lanús vs Central Córdoba SdE",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 3",
@@ -1492,7 +1482,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Estudiantes Río Cuarto vs Rosario Central",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 4",
@@ -1517,7 +1507,7 @@
     "logo": "img/ar.png",
     "liga": "Primera División",
     "equipos": "Torque vs Boston River",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+1",
