@@ -8,10 +8,10 @@ from collections import defaultdict
 # ============================================
 
 COUNTRY_IMAGES = {
-    'spain': 'img/esp.png',
+    'spain': 'img/es.png',
     'england': 'img/en.png',
     'italy': 'img/it.png',
-    'germany': 'img/ale.png',
+    'germany': 'img/de.png',
     'france': 'img/fr.png',
     'netherlands': 'img/nl.png',
     'portugal': 'img/pt.png',
@@ -30,19 +30,20 @@ COUNTRY_IMAGES = {
     'nba': 'img/nba.png',
     'mlb': 'img/mlb.png',
     'wwe': 'img/wwe.png',
+    'ufc': 'img/ufc.png',
     'default': 'img/default.png'
 }
 
-# Mapeo de ligas a países (para cuando no hay país definido)
+# Mapeo de ligas a países
 LEAGUE_TO_COUNTRY = {
-    'LaLiga': 'spain', 'La Liga': 'spain', 'LaLiga:': 'spain',
-    'Premier League': 'england', 'Premier League:': 'england', 'championship': 'england',
-    'Bundesliga': 'germany', 'Bundesliga 2:': 'germany', 'DFB Pokal': 'germany',
+    'LaLiga': 'spain', 'La Liga': 'spain', 'LaLiga 2:': 'spain',
+    'Premier League': 'england', 'Premier League:': 'england', 'Championship': 'england',
+    'Bundesliga': 'germany', 'Bundesliga 2': 'germany', 'DFB Pokal': 'germany',
     'Serie A': 'italy', 'Serie A:': 'italy',
-    'Ligue 1': 'france',
-    'ligue 2': 'france',
+    'Ligue 1': 'france', 'Ligue 2': 'france',
     'Eredivisie': 'netherlands',
     'Primeira Liga': 'portugal', 'Taça de Portugal': 'portugal', 'Copa de Portugal': 'portugal',
+    'Liga MX': 'mexico',
     'Liga 1': 'peru', 'Primera Division': 'peru',
     'Copa do Brasil': 'brazil', 'Brasileirão': 'brazil',
     'Liga Profesional': 'argentina', 'Primera División': 'argentina', 'Futbol Argentino': 'argentina',
@@ -77,13 +78,11 @@ def load_teams():
 TEAMS_DB = load_teams()
 
 # ============================================
-# DETECCIÓN DE DEPORTE POR LIGA (NUEVO)
+# DETECCIÓN DE DEPORTE POR LIGA
 # ============================================
 
 def get_sport_from_liga(liga):
-    """Detecta el deporte basado en el nombre de la liga"""
     liga_lower = liga.lower()
-    
     if 'nba' in liga_lower:
         return 'nba'
     if 'mlb' in liga_lower:
@@ -92,22 +91,16 @@ def get_sport_from_liga(liga):
         return 'nfl'
     if 'wwe' in liga_lower:
         return 'wwe'
-    # Por defecto, fútbol (soccer)
     return 'soccer'
 
 def validate_sport_by_liga(team1, team2, liga):
-    """Valida usando la liga como referencia principal"""
     sport = get_sport_from_liga(liga)
-    
-    # Si la liga es MLB, NBA, NFL o WWE, siempre son compatibles
     if sport in ['mlb', 'nba', 'nfl', 'wwe']:
         return True
     
-    # Para fútbol (soccer), verificar que no sea un equipo de otro deporte
     team1_lower = team1.lower()
     team2_lower = team2.lower()
     
-    # Palabras clave de otros deportes
     nba_keywords = ['lakers', 'warriors', 'celtics', 'bulls', 'heat', 'bucks', 'suns', 'nuggets', 
                     'mavericks', 'spurs', 'blazers', 'trail blazers', 'knicks', 'nets', 'raptors']
     mlb_keywords = ['tigers', 'red sox', 'orioles', 'guardians', 'blue jays', 'twins', 'rays',
@@ -145,28 +138,60 @@ def normalize(text):
     return text
 
 # ============================================
-# BUSCAR EQUIPO
+# BUSCAR EQUIPO (MODIFICADO CON DESAMBIGUACIÓN POR LIGA)
 # ============================================
 
-def find_team(query):
+def find_team(query, liga=None):
     if not TEAMS_DB:
         return {'name': query, 'country': 'unknown', 'confidence': 0}
     
     normalized_query = normalize(query)
-    best_match = None
-    best_score = 0
     
+    # Obtener país esperado de la liga (si se proporcionó)
+    expected_country = None
+    if liga:
+        expected_country = LEAGUE_TO_COUNTRY.get(liga, None)
+    
+    # PRIMERO: Buscar equipos que coincidan con el país de la liga
+    if expected_country:
+        for slug, team in TEAMS_DB.items():
+            if team.get('country') == expected_country:
+                if normalize(team['name']) == normalized_query:
+                    return {'name': team['name'], 'country': team['country'], 'confidence': 1.0}
+                for alias in team.get('aliases', []):
+                    if normalize(alias) == normalized_query:
+                        return {'name': team['name'], 'country': team['country'], 'confidence': 0.95}
+        
+        # Búsqueda parcial en equipos del país correcto
+        best_match = None
+        best_score = 0
+        for slug, team in TEAMS_DB.items():
+            if team.get('country') == expected_country:
+                if (normalize(team['name']) in normalized_query or 
+                    normalized_query in normalize(team['name'])):
+                    score = 0.85
+                    if score > best_score:
+                        best_score = score
+                        best_match = {'name': team['name'], 'country': team['country'], 'confidence': score}
+        
+        if best_match:
+            return best_match
+    
+    # SEGUNDO: Buscar en todos los equipos (sin filtro de país)
     for slug, team in TEAMS_DB.items():
         if normalize(team['name']) == normalized_query:
-            return {'name': team['name'], 'country': team['country'], 'confidence': 1.0}
-        
+            return {'name': team['name'], 'country': team['country'], 'confidence': 0.9}
         for alias in team.get('aliases', []):
             if normalize(alias) == normalized_query:
-                return {'name': team['name'], 'country': team['country'], 'confidence': 0.95}
-        
+                return {'name': team['name'], 'country': team['country'], 'confidence': 0.85}
+    
+    # Búsqueda parcial final
+    best_match = None
+    best_score = 0
+    for slug, team in TEAMS_DB.items():
         if (normalize(team['name']) in normalized_query or 
             normalized_query in normalize(team['name'])):
-            score = 0.8
+            score = 0.7
             if score > best_score:
                 best_score = score
                 best_match = {'name': team['name'], 'country': team['country'], 'confidence': score}
@@ -206,17 +231,16 @@ def resolve_match(match_text, liga=''):
     team1_name = parts[0].strip()
     team2_name = parts[1].strip()
     
-    team1 = find_team(team1_name)
-    team2 = find_team(team2_name)
+    # Pasar la liga a find_team para desambiguar
+    team1 = find_team(team1_name, liga)
+    team2 = find_team(team2_name, liga)
     
-    # 🔥 VALIDAR POR LIGA (NUEVO)
     if not validate_sport_by_liga(team1['name'], team2['name'], liga):
         print(f"⚠️ Deporte incompatible: {team1['name']} vs {team2['name']} - ignorando")
         return None
     
     same_country = (team1['country'] != 'unknown' and team1['country'] == team2['country'])
     
-    # Asignar imagen
     if same_country and team1['country'] != 'unknown':
         image = COUNTRY_IMAGES.get(team1['country'], COUNTRY_IMAGES['default'])
     else:
@@ -230,7 +254,7 @@ def resolve_match(match_text, liga=''):
         'same_country': same_country,
         'confidence': round((team1['confidence'] + team2['confidence']) / 2, 2),
         'image': image,
-        'sport': get_sport_from_liga(liga)  # Usar la liga para el deporte
+        'sport': get_sport_from_liga(liga)
     }
 
 # ============================================
