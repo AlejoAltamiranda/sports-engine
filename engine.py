@@ -52,6 +52,7 @@ LEAGUE_TO_COUNTRY = {
     'Liga Pro': 'ecuador',
     'Turkish Cup': 'turkey', 'Süper Lig': 'turkey',
     'Pro League': 'arabia', 
+    'MLS': 'usa', 'Major League Soccer': 'usa',
     'MLB': 'mlb', 'NBA': 'nba', 'WWE': 'wwe', 'UFC': 'ufc',
 }
 
