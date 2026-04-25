@@ -1822,7 +1822,7 @@
     "logo": "img/ar.png",
     "liga": "Primera División",
     "equipos": "Racing Club vs Barracas Central",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Arena 2 Premium",
@@ -1852,7 +1852,7 @@
     "logo": "img/cl.png",
     "liga": "Primera Division",
     "equipos": "Audax Italiano vs Deportes Limache",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "TNT Sports",
@@ -2106,61 +2106,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Platense vs San Lorenzo",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 6",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz6",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnpremium",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Racing Club vs Barracas Central",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 7",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz7",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Tntsports",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T00:30:00Z",
-    "logo": "img/cl.png",
-    "liga": "Liga de Primera",
-    "equipos": "Audax Italiano vs Deportes Limache",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Max 1",
-        "url": "https://streamtpnew.com/global1.php?stream=max1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
   },
   {
     "hora_utc": "2026-04-26T02:30:00Z",
