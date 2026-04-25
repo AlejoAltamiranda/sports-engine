@@ -1791,6 +1791,156 @@
     "name": "Sheffield Wednesday",
     "aliases": ["sheffield wed", "sheffield wednesday", "owls"],
     "country": "england"
+  },
+  "san_jose_earthquakes": {
+    "name": "San Jose Earthquakes",
+    "aliases": ["san jose earthquakes", "earthquakes", "san jose"],
+    "country": "usa"
+  },
+  "vancouver_whitecaps": {
+    "name": "Vancouver Whitecaps",
+    "aliases": ["vancouver whitecaps", "whitecaps", "vancouver"],
+    "country": "usa"
+  },
+  "los_angeles_fc": {
+    "name": "Los Angeles FC",
+    "aliases": ["los angeles fc", "lafc", "la fc"],
+    "country": "usa"
+  },
+  "minnesota_united": {
+    "name": "Minnesota United",
+    "aliases": ["minnesota united", "minnesota", "the loons"],
+    "country": "usa"
+  },
+  "seattle_sounders": {
+    "name": "Seattle Sounders",
+    "aliases": ["seattle sounders", "sounders", "seattle"],
+    "country": "usa"
+  },
+  "real_salt_lake": {
+    "name": "Real Salt Lake",
+    "aliases": ["real salt lake", "rsl", "salt lake"],
+    "country": "usa"
+  },
+  "colorado_rapids": {
+    "name": "Colorado Rapids",
+    "aliases": ["colorado rapids", "rapids", "colorado"],
+    "country": "usa"
+  },
+  "fc_dallas": {
+    "name": "FC Dallas",
+    "aliases": ["fc dallas", "dallas", "fcd"],
+    "country": "usa"
+  },
+  "houston_dynamo": {
+    "name": "Houston Dynamo",
+    "aliases": ["houston dynamo", "dynamo", "houston"],
+    "country": "usa"
+  },
+  "san_diego_fc": {
+    "name": "San Diego FC",
+    "aliases": ["san diego fc", "san diego", "sdfc"],
+    "country": "usa"
+  },
+  "la_galaxy": {
+    "name": "LA Galaxy",
+    "aliases": ["la galaxy", "galaxy", "los angeles galaxy"],
+    "country": "usa"
+  },
+  "portland_timbers": {
+    "name": "Portland Timbers",
+    "aliases": ["portland timbers", "timbers", "portland"],
+    "country": "usa"
+  },
+  "austin_fc": {
+    "name": "Austin FC",
+    "aliases": ["austin fc", "austin", "atx"],
+    "country": "usa"
+  },
+  "st_louis_city": {
+    "name": "St. Louis City",
+    "aliases": ["st louis city", "st. louis city", "st louis"],
+    "country": "usa"
+  },
+  "sporting_kansas_city": {
+    "name": "Sporting Kansas City",
+    "aliases": ["sporting kansas city", "sporting kc", "kansas city"],
+    "country": "usa"
+  },
+  "nashville_sc": {
+    "name": "Nashville SC",
+    "aliases": ["nashville sc", "nashville", "nsc"],
+    "country": "usa"
+  },
+  "inter_miami": {
+    "name": "Inter Miami",
+    "aliases": ["inter miami", "miami", "inter miami cf"],
+    "country": "usa"
+  },
+  "new_england_revolution": {
+    "name": "New England Revolution",
+    "aliases": ["new england revolution", "revolution", "new england"],
+    "country": "usa"
+  },
+  "chicago_fire": {
+    "name": "Chicago Fire",
+    "aliases": ["chicago fire", "fire", "chicago"],
+    "country": "usa"
+  },
+  "charlotte_fc": {
+    "name": "Charlotte FC",
+    "aliases": ["charlotte fc", "charlotte", "crown"],
+    "country": "usa"
+  },
+  "toronto_fc": {
+    "name": "Toronto FC",
+    "aliases": ["toronto fc", "toronto", "tfc"],
+    "country": "usa"
+  },
+  "nycfc": {
+    "name": "New York City FC",
+    "aliases": ["new york city fc", "nycfc", "new york city"],
+    "country": "usa"
+  },
+  "new_york_red_bulls": {
+    "name": "New York Red Bulls",
+    "aliases": ["new york red bulls", "red bulls", "ny red bulls"],
+    "country": "usa"
+  },
+  "columbus_crew": {
+    "name": "Columbus Crew",
+    "aliases": ["columbus crew", "crew", "columbus"],
+    "country": "usa"
+  },
+  "dc_united": {
+    "name": "DC United",
+    "aliases": ["dc united", "dcu", "washington"],
+    "country": "usa"
+  },
+  "fc_cincinnati": {
+    "name": "FC Cincinnati",
+    "aliases": ["fc cincinnati", "cincinnati", "fcc"],
+    "country": "usa"
+  },
+  "orlando_city": {
+    "name": "Orlando City",
+    "aliases": ["orlando city", "orlando", "lions"],
+    "country": "usa"
+  },
+  "cf_montreal": {
+    "name": "CF Montreal",
+    "aliases": ["cf montreal", "montreal", "impact"],
+    "country": "usa"
+  },
+  "philadelphia_union": {
+    "name": "Philadelphia Union",
+    "aliases": ["philadelphia union", "union", "philadelphia"],
+    "country": "usa"
+  },
+  "atlanta_united": {
+    "name": "Atlanta United",
+    "aliases": ["atlanta united", "atlanta", "atl utd", "five stripes"],
+    "country": "usa"
   }
 
 }
