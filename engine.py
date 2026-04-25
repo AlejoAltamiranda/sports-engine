@@ -52,7 +52,7 @@ LEAGUE_TO_COUNTRY = {
     'Liga Pro': 'ecuador',
     'Turkish Cup': 'turkey', 'Süper Lig': 'turkey',
     'Pro League': 'arabia', 
-    'MLB': 'mlb', 'NBA': 'nba', 'WWE': 'wwe',
+    'MLB': 'mlb', 'NBA': 'nba', 'WWE': 'wwe', 'UFC': 'ufc',
 }
 
 SEPARATORS = [' vs ', ' v ', ' - ', ' vs. ', ' versus ']
