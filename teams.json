@@ -410,7 +410,7 @@
   },
   "la_calera": {
     "name": "Unión La Calera",
-    "aliases": ["la calera", "union la calera"],
+    "aliases": ["la calera", "union la calera", "u la calera"],
     "country": "chile"
   },
   "limache": {
@@ -1670,6 +1670,127 @@
     "name": "Juventud de Las Piedras",
     "aliases": ["juventud", "juventud piedras"],
     "country": "uruguay"
+  },
+
+    "coventry": {
+    "name": "Coventry City",
+    "aliases": ["coventry", "coventry city", "sky blues"],
+    "country": "england"
+  },
+  "millwall": {
+    "name": "Millwall",
+    "aliases": ["millwall", "lions"],
+    "country": "england"
+  },
+  "ipswich": {
+    "name": "Ipswich Town",
+    "aliases": ["ipswich", "ipswich town", "tractor boys"],
+    "country": "england"
+  },
+  "southampton": {
+    "name": "Southampton",
+    "aliases": ["southampton", "saints"],
+    "country": "england"
+  },
+  "middlesbrough": {
+    "name": "Middlesbrough",
+    "aliases": ["middlesbrough", "boro"],
+    "country": "england"
+  },
+  "wrexham": {
+    "name": "Wrexham",
+    "aliases": ["wrexham", "red dragons"],
+    "country": "england"
+  },
+  "hull": {
+    "name": "Hull City",
+    "aliases": ["hull", "hull city", "tigers"],
+    "country": "england"
+  },
+  "derby": {
+    "name": "Derby County",
+    "aliases": ["derby", "derby county", "rams"],
+    "country": "england"
+  },
+  "norwich": {
+    "name": "Norwich City",
+    "aliases": ["norwich", "norwich city", "canaries"],
+    "country": "england"
+  },
+  "birmingham": {
+    "name": "Birmingham City",
+    "aliases": ["birmingham", "birmingham city", "blues"],
+    "country": "england"
+  },
+  "swansea": {
+    "name": "Swansea City",
+    "aliases": ["swansea", "swansea city", "swans"],
+    "country": "england"
+  },
+  "bristol_city": {
+    "name": "Bristol City",
+    "aliases": ["bristol city", "robins"],
+    "country": "england"
+  },
+  "qpr": {
+    "name": "Queens Park Rangers",
+    "aliases": ["qpr", "queens park rangers", "hoops"],
+    "country": "england"
+  },
+  "sheffield_utd": {
+    "name": "Sheffield United",
+    "aliases": ["sheffield utd", "sheffield united", "blades"],
+    "country": "england"
+  },
+  "watford": {
+    "name": "Watford",
+    "aliases": ["watford", "horns"],
+    "country": "england"
+  },
+  "preston": {
+    "name": "Preston North End",
+    "aliases": ["preston", "preston north end", "lilywhites"],
+    "country": "england"
+  },
+  "stoke": {
+    "name": "Stoke City",
+    "aliases": ["stoke", "stoke city", "potters"],
+    "country": "england"
+  },
+  "blackburn": {
+    "name": "Blackburn Rovers",
+    "aliases": ["blackburn", "blackburn rovers", "rovers"],
+    "country": "england"
+  },
+  "portsmouth": {
+    "name": "Portsmouth",
+    "aliases": ["portsmouth", "pompey"],
+    "country": "england"
+  },
+  "west_brom": {
+    "name": "West Bromwich Albion",
+    "aliases": ["west brom", "west bromwich albion", "baggies"],
+    "country": "england"
+  },
+  "charlton": {
+    "name": "Charlton Athletic",
+    "aliases": ["charlton", "charlton athletic", "addicks"],
+    "country": "england"
+  },
+  "oxford_utd": {
+    "name": "Oxford United",
+    "aliases": ["oxford", "oxford utd", "oxford united", "us"],
+    "country": "england"
+  },
+  "leicester": {
+    "name": "Leicester City",
+    "aliases": ["leicester", "leicester city", "foxes"],
+    "country": "england"
+  },
+  "sheffield_wed": {
+    "name": "Sheffield Wednesday",
+    "aliases": ["sheffield wed", "sheffield wednesday", "owls"],
+    "country": "england"
   }
 
 }
