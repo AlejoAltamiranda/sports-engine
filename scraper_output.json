@@ -2781,7 +2781,7 @@
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "Heerenveen vs Fortuna Sittard",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "ESPN 3",
@@ -2807,22 +2807,42 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T17:00:00Z",
+    "hora_utc": "2026-04-25T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Segunda liga",
+    "equipos": "Felgueiras 1932 vs União de Leiria",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "Sport TV 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T17:00Z",
+    "logo": "img/tr.png",
+    "liga": "Super Lig",
+    "equipos": "Göztepe vs Antalyaspor",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T17:00Z",
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Angers SCO vs PSG",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+4",
-        "url": "https://streamtpnew.com/global1.php?stream=disney4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
@@ -2889,71 +2909,6 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T17:00:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "Toronto FC vs Atlanta United",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 1En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls1en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T17:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Pistons vs Magic",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Max 2",
-        "url": "https://streamtpnew.com/global1.php?stream=max2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnmx",
-        "url": "https://streamtpnew.com/global1.php?stream=espnmx",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T17:00Z",
-    "logo": "img/pt.png",
-    "liga": "Segunda liga",
-    "equipos": "Felgueiras 1932 vs União de Leiria",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Sport TV 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-25T17:00Z",
-    "logo": "img/tr.png",
-    "liga": "Super Lig",
-    "equipos": "Göztepe vs Antalyaspor",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
   },
   {
@@ -2961,7 +2916,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Benfica vs Moreirense",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS MAX 7",
@@ -3006,7 +2961,7 @@
     "logo": "img/ar.png",
     "liga": "Primera División",
     "equipos": "Platense vs San Lorenzo",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "ESPN Premium",
@@ -3021,7 +2976,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Ashdod vs Maccabi Bnei Raina",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 5 Stars",
@@ -3036,7 +2991,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Hapoel Petah Tikva vs Hapoel Tel Aviv",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 3",
@@ -3051,7 +3006,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Maccabi Netanya vs Bnei Sakhnin",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 5 Live",
@@ -3066,7 +3021,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Maccabi Haifa vs Maccabi Tel Aviv",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 4",
@@ -3081,7 +3036,7 @@
     "logo": "img/default.png",
     "liga": "Liga I",
     "equipos": "CFR Cluj vs Universitatea Cluj",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Digi Sport 1",
@@ -3101,7 +3056,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Hapoel Be'er Sheva vs Beitar Jerusalem",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 5",
@@ -3116,7 +3071,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Nyíregyháza Spartacus vs Zalaegerszegi TE",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -3131,7 +3086,7 @@
     "logo": "img/default.png",
     "liga": "Greek Cup",
     "equipos": "PAOK vs OFI",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Cosmote Sport 1",
@@ -3161,7 +3116,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Cesena vs Sampdoria",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3181,32 +3136,46 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T18:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga 1",
-    "equipos": "Deportivo Moquegua vs FC Cajamarca",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 1",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
+    "hora_utc": "2026-04-25T18:00Z",
+    "logo": "img/default.png",
+    "liga": "OBOS-ligaen",
+    "equipos": "Bryne vs Odd",
+    "status": "finished",
+    "canales": [],
+    "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-25T18:00:00Z",
+    "hora_utc": "2026-04-25T18:00Z",
+    "logo": "img/default.png",
+    "liga": "Ligue 2",
+    "equipos": "Saint-Étienne vs Troyes",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS XTRA",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T18:00Z",
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "NAC Breda vs Ajax",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+5",
-        "url": "https://streamtpnew.com/global1.php?stream=disney5",
-        "calidad": "720p"
-      },
       {
         "nombre": "ESPN 2",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free",
@@ -3233,40 +3202,15 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T18:00Z",
-    "logo": "img/default.png",
-    "liga": "OBOS-ligaen",
-    "equipos": "Bryne vs Odd",
-    "status": "live",
-    "canales": [],
     "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-25T18:00Z",
-    "logo": "img/default.png",
-    "liga": "Ligue 2",
-    "equipos": "Saint-Étienne vs Troyes",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS XTRA",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
+    "logo": "img/pe.png",
+    "liga": "Primera Division",
+    "equipos": "Deportivo Moquegua vs FC Cajamarca",
+    "status": "finished",
+    "canales": [],
     "fuente": "cdn"
   },
   {
@@ -3274,7 +3218,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Cracovia Kraków vs Pogoń Szczecin",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -3285,41 +3229,11 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-25T18:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Primera División",
-    "equipos": "Deportivo Maldonado vs Albion",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+6",
-        "url": "https://streamtpnew.com/global1.php?stream=disney6",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T18:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "CF Montréal vs New York City",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 2En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls2en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
     "hora_utc": "2026-04-25T18:30Z",
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Dolomiti Bellunesi vs Trento",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3328,7 +3242,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Alcione vs AlbinoLeffe",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3337,7 +3251,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Lumezzane vs Virtus Verona",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3346,7 +3260,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Ospitaletto vs Novara",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3355,7 +3269,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Cittadella vs Giana Erminio",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3364,7 +3278,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Triestina vs Vicenza",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3373,7 +3287,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Pergolettese vs Lecco",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3382,7 +3296,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Union ArzignanoChiampo vs Pro Vercelli",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -3391,7 +3305,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Inter II vs Union Brescia",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sky Sport Arena",
@@ -3406,7 +3320,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Darmstadt 98 vs Elversberg",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 3",
@@ -3611,7 +3525,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Atlético Madrid vs Athletic Club",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Dsports",
@@ -3761,7 +3675,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga 2",
     "equipos": "Málaga vs CD Castellon",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Laligahypermotion",
@@ -3801,7 +3715,7 @@
     "logo": "img/cl.png",
     "liga": "Liga de Primera",
     "equipos": "Ñublense vs O'Higgins",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Max 3",
@@ -3821,7 +3735,7 @@
     "logo": "img/col.png",
     "liga": "Liga BetPlay",
     "equipos": "Atlético Bucaramanga vs Jaguares de Córdoba",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Win Sports+",
@@ -3876,7 +3790,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Toulouse vs Monaco",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+8",
@@ -3956,7 +3870,7 @@
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "Thunder vs Suns",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Max 4",
@@ -4021,7 +3935,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Estudiantes LP vs Talleres Córdoba",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 2",
@@ -4041,7 +3955,7 @@
     "logo": "img/ufc.png",
     "liga": "UFC",
     "equipos": "Almajain Sterling vs Youssef Zalal",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Paramount 1",
@@ -4061,7 +3975,7 @@
     "logo": "img/ar.png",
     "liga": "Primera División",
     "equipos": "Estudiantes vs Talleres Córdoba",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "M Liga de Campeones 1",
@@ -4116,7 +4030,7 @@
     "logo": "img/pe.png",
     "liga": "Liga 1",
     "equipos": "Comerciantes Unidos vs Sporting Cristal",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 3",

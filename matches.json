@@ -3027,7 +3027,47 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T17:00:00Z",
+    "hora_utc": "2026-04-25T17:00Z",
+    "liga": "Segunda liga",
+    "equipos": "Felgueiras 1932 vs União de Leiria",
+    "team1": "Felgueiras 1932",
+    "team2": "União de Leiria",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Sport TV 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T17:00Z",
+    "liga": "Super Lig",
+    "equipos": "Göztepe vs Antalyaspor",
+    "team1": "Göztepe",
+    "team2": "Antalyaspor",
+    "team1_country": "turkey",
+    "team2_country": "turkey",
+    "same_country": true,
+    "confidence": 0.9,
+    "image": "img/tr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-25T17:00Z",
     "liga": "Ligue 1",
     "equipos": "Angers SCO vs Paris Saint-Germain",
     "team1": "Angers SCO",
@@ -3039,16 +3079,6 @@
     "image": "img/fr.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+4",
-        "url": "https://streamtpnew.com/global1.php?stream=disney4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
@@ -3112,91 +3142,6 @@
       {
         "nombre": "beIN SPORTS 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=sa&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T17:00:00Z",
-    "liga": "MLS",
-    "equipos": "Toronto FC vs Atlanta United",
-    "team1": "Toronto FC",
-    "team2": "Atlanta United",
-    "team1_country": "usa",
-    "team2_country": "usa",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/usa.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Mls 1En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls1en",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T17:00:00Z",
-    "liga": "NBA",
-    "equipos": "Pistons vs Magic",
-    "team1": "Pistons",
-    "team2": "Magic",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Max 2",
-        "url": "https://streamtpnew.com/global1.php?stream=max2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnmx",
-        "url": "https://streamtpnew.com/global1.php?stream=espnmx",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T17:00Z",
-    "liga": "Segunda liga",
-    "equipos": "Felgueiras 1932 vs União de Leiria",
-    "team1": "Felgueiras 1932",
-    "team2": "União de Leiria",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Sport TV 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T17:00Z",
-    "liga": "Super Lig",
-    "equipos": "Göztepe vs Antalyaspor",
-    "team1": "Göztepe",
-    "team2": "Antalyaspor",
-    "team1_country": "turkey",
-    "team2_country": "turkey",
-    "same_country": true,
-    "confidence": 0.9,
-    "image": "img/tr.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -3482,56 +3427,6 @@
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/ver/liga1maxpe.php",
         "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 1",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T18:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "NAC Breda vs Ajax",
-    "team1": "NAC Breda",
-    "team2": "Ajax",
-    "team1_country": "netherlands",
-    "team2_country": "netherlands",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/nl.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+5",
-        "url": "https://streamtpnew.com/global1.php?stream=disney5",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Nova Sports Start",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Polsat Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free",
-        "calidad": "HD"
       }
     ]
   },
@@ -3580,6 +3475,46 @@
     ]
   },
   {
+    "hora_utc": "2026-04-25T18:00Z",
+    "liga": "Eredivisie",
+    "equipos": "NAC Breda vs Ajax",
+    "team1": "NAC Breda",
+    "team2": "Ajax",
+    "team1_country": "netherlands",
+    "team2_country": "netherlands",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/nl.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=nl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Nova Sports Start",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sports+start&code=gr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Polsat Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=polsat+sport+2&code=pl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=rs&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+2&code=il&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-25T18:15Z",
     "liga": "Ekstraklasa",
     "equipos": "Cracovia Kraków vs Pogoń Szczecin",
@@ -3596,46 +3531,6 @@
         "nombre": "Canal Sport 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T18:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Deportivo Maldonado vs Albion FC",
-    "team1": "Deportivo Maldonado",
-    "team2": "Albion FC",
-    "team1_country": "uruguay",
-    "team2_country": "uruguay",
-    "same_country": true,
-    "confidence": 0.88,
-    "image": "img/uy.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+6",
-        "url": "https://streamtpnew.com/global1.php?stream=disney6",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T18:30:00Z",
-    "liga": "MLS",
-    "equipos": "CF Montreal vs New York City FC",
-    "team1": "CF Montreal",
-    "team2": "New York City FC",
-    "team1_country": "usa",
-    "team2_country": "usa",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/usa.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Mls 2En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls2en",
-        "calidad": "720p"
       }
     ]
   },
