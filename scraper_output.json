@@ -429,7 +429,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Catanzaro vs Spezia",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Viasat Vinter",
@@ -444,7 +444,7 @@
     "logo": "img/tr.png",
     "liga": "1. Lig",
     "equipos": "Serik Belediyespor vs Hatayspor",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -453,7 +453,7 @@
     "logo": "img/tr.png",
     "liga": "1. Lig",
     "equipos": "Van BB vs İstanbulspor",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "TRT Spor",
