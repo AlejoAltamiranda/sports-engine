@@ -230,25 +230,55 @@ def fetch_json(url):
 
 def process_github_source(data):
     matches = []
-    if not data or 'events' not in data:
+    if not data:
         return matches
-    for event in data['events']:
-        if 'title' not in event:
-            continue
-        equipos = event['title']
-        liga = event.get('category', 'MLB')
-        hora_raw = event.get('time_utc', '')
-        hora_utc = procesar_hora_segun_fuente(hora_raw, 'github')
-        logo = get_logo(liga)
-        matches.append({
-            'hora_utc': hora_utc,
-            'logo': logo,
-            'liga': liga,
-            'equipos': equipos,
-            'status': 'pronto',
-            'canales': [{'nombre': event.get('channel', 'Canal'), 'url': event.get('link', ''), 'calidad': 'HD'}],
-            'fuente': 'github'
-        })
+    
+    # Nuevo formato: array directo
+    if isinstance(data, list):
+        for event in data:
+            if 'title' not in event:
+                continue
+            equipos = event['title']
+            liga = event.get('category', 'MLB')
+            hora_raw = event.get('time', '')
+            # Convertir "2026-04-24 22:40 UTC" a ISO
+            if hora_raw:
+                hora_utc = hora_raw.replace(' UTC', 'Z').replace(' ', 'T')
+            else:
+                hora_utc = ''
+            
+            logo = get_logo(liga)
+            matches.append({
+                'hora_utc': hora_utc,
+                'logo': logo,
+                'liga': liga,
+                'equipos': equipos,
+                'status': 'pronto',
+                'canales': [{'nombre': event.get('channel', 'Canal'), 'url': event.get('link', ''), 'calidad': 'HD'}],
+                'fuente': 'github'
+            })
+        return matches
+    
+    # Formato antiguo: con objeto 'events'
+    if 'events' in data:
+        for event in data['events']:
+            if 'title' not in event:
+                continue
+            equipos = event['title']
+            liga = event.get('category', 'MLB')
+            hora_raw = event.get('time_utc', '')
+            hora_utc = procesar_hora_segun_fuente(hora_raw, 'github')
+            logo = get_logo(liga)
+            matches.append({
+                'hora_utc': hora_utc,
+                'logo': logo,
+                'liga': liga,
+                'equipos': equipos,
+                'status': 'pronto',
+                'canales': [{'nombre': event.get('channel', 'Canal'), 'url': event.get('link', ''), 'calidad': 'HD'}],
+                'fuente': 'github'
+            })
+    
     return matches
 
 def process_elcanal_source(data):
