@@ -36,7 +36,7 @@ COUNTRY_IMAGES = {
 # Mapeo de ligas a países (para cuando no hay país definido)
 LEAGUE_TO_COUNTRY = {
     'LaLiga': 'spain', 'La Liga': 'spain', 'LaLiga:': 'spain',
-    'Premier League': 'england', 'Premier League:': 'england',
+    'Premier League': 'england', 'Premier League:': 'england', 'championship': 'england',
     'Bundesliga': 'germany', 'Bundesliga 2:': 'germany', 'DFB Pokal': 'germany',
     'Serie A': 'italy', 'Serie A:': 'italy',
     'Ligue 1': 'france',
@@ -77,62 +77,52 @@ def load_teams():
 TEAMS_DB = load_teams()
 
 # ============================================
-# CARGAR EQUIPOS POR DEPORTE (NBA y MLB)
+# DETECCIÓN DE DEPORTE POR LIGA (NUEVO)
 # ============================================
 
-def load_sport_teams(filename):
-    """Carga equipos desde un archivo JSON con alias"""
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            teams_dict = {}
-            # Detectar si es formato con 'nba_teams' o 'mlb_teams'
-            key = list(data.keys())[0] if data else None
-            if key:
-                for team in data.get(key, []):
-                    name = team['name'].lower()
-                    teams_dict[name] = name
-                    for alias in team.get('aliases', []):
-                        teams_dict[alias.lower()] = name
-            return teams_dict
-    except FileNotFoundError:
-        print(f"⚠️ No se encuentra {filename}")
-        return {}
-
-NBA_TEAMS = load_sport_teams('nba_teams.json')
-MLB_TEAMS = load_sport_teams('mlb_teams.json')
-
-def is_nba_team(team_name):
-    """Verifica si un equipo es de la NBA"""
-    team_lower = team_name.lower()
-    for alias in NBA_TEAMS.keys():
-        if alias in team_lower or team_lower in alias:
-            return True
-    return False
-
-def is_mlb_team(team_name):
-    """Verifica si un equipo es de la MLB"""
-    team_lower = team_name.lower()
-    for alias in MLB_TEAMS.keys():
-        if alias in team_lower or team_lower in alias:
-            return True
-    return False
-
-def get_sport(team_name):
-    """Detecta el deporte de un equipo"""
-    if is_nba_team(team_name):
+def get_sport_from_liga(liga):
+    """Detecta el deporte basado en el nombre de la liga"""
+    liga_lower = liga.lower()
+    
+    if 'nba' in liga_lower:
         return 'nba'
-    if is_mlb_team(team_name):
+    if 'mlb' in liga_lower:
         return 'mlb'
+    if 'nfl' in liga_lower:
+        return 'nfl'
+    if 'wwe' in liga_lower:
+        return 'wwe'
+    # Por defecto, fútbol (soccer)
     return 'soccer'
 
-def validate_sport(team1, team2):
-    """Valida que ambos equipos sean del mismo deporte"""
-    sport1 = get_sport(team1)
-    sport2 = get_sport(team2)
+def validate_sport_by_liga(team1, team2, liga):
+    """Valida usando la liga como referencia principal"""
+    sport = get_sport_from_liga(liga)
     
-    if sport1 != sport2:
-        return False
+    # Si la liga es MLB, NBA, NFL o WWE, siempre son compatibles
+    if sport in ['mlb', 'nba', 'nfl', 'wwe']:
+        return True
+    
+    # Para fútbol (soccer), verificar que no sea un equipo de otro deporte
+    team1_lower = team1.lower()
+    team2_lower = team2.lower()
+    
+    # Palabras clave de otros deportes
+    nba_keywords = ['lakers', 'warriors', 'celtics', 'bulls', 'heat', 'bucks', 'suns', 'nuggets', 
+                    'mavericks', 'spurs', 'blazers', 'trail blazers', 'knicks', 'nets', 'raptors']
+    mlb_keywords = ['tigers', 'red sox', 'orioles', 'guardians', 'blue jays', 'twins', 'rays',
+                    'rockies', 'mets', 'phillies', 'braves', 'nationals', 'white sox', 'pirates',
+                    'brewers', 'angels', 'royals', 'cubs', 'dodgers', 'marlins', 'giants']
+    
+    for kw in nba_keywords:
+        if kw in team1_lower or kw in team2_lower:
+            print(f"⚠️ Deporte incompatible: {team1} vs {team2} (liga: {liga} pero parece NBA)")
+            return False
+    
+    for kw in mlb_keywords:
+        if kw in team1_lower or kw in team2_lower:
+            print(f"⚠️ Deporte incompatible: {team1} vs {team2} (liga: {liga} pero parece MLB)")
+            return False
     
     return True
 
@@ -188,20 +178,17 @@ def find_team(query):
 # ============================================
 
 def get_image(liga, country=None):
-    # 1. Usar país si está disponible
     if country and country in COUNTRY_IMAGES:
         return COUNTRY_IMAGES[country]
     
-    # 2. Buscar por liga
     for liga_key, country_value in LEAGUE_TO_COUNTRY.items():
         if liga_key.lower() in liga.lower():
             return COUNTRY_IMAGES.get(country_value, COUNTRY_IMAGES['default'])
     
-    # 3. Default
     return COUNTRY_IMAGES['default']
 
 # ============================================
-# RESOLVER PARTIDO
+# RESOLVER PARTIDO (MODIFICADO)
 # ============================================
 
 def resolve_match(match_text, liga=''):
@@ -222,8 +209,8 @@ def resolve_match(match_text, liga=''):
     team1 = find_team(team1_name)
     team2 = find_team(team2_name)
     
-    # 🔥 VALIDAR QUE SEAN DEL MISMO DEPORTE
-    if not validate_sport(team1['name'], team2['name']):
+    # 🔥 VALIDAR POR LIGA (NUEVO)
+    if not validate_sport_by_liga(team1['name'], team2['name'], liga):
         print(f"⚠️ Deporte incompatible: {team1['name']} vs {team2['name']} - ignorando")
         return None
     
@@ -243,7 +230,7 @@ def resolve_match(match_text, liga=''):
         'same_country': same_country,
         'confidence': round((team1['confidence'] + team2['confidence']) / 2, 2),
         'image': image,
-        'sport': get_sport(team1['name'])  # Agregar deporte para referencia
+        'sport': get_sport_from_liga(liga)  # Usar la liga para el deporte
     }
 
 # ============================================
@@ -264,9 +251,7 @@ def generate_matches_json(input_file=None, output_file=None):
     
     print(f"📊 Procesando {len(raw_matches)} eventos sin procesar...")
     
-    # Diccionario para unificar
     unified = {}
-    
     partidos_ignorados = 0
     
     for item in raw_matches:
@@ -281,7 +266,6 @@ def generate_matches_json(input_file=None, output_file=None):
             partidos_ignorados += 1
             continue
         
-        # Clave de unificación: equipos normalizados + fecha (solo día)
         fecha = item.get('hora_utc', '')[:10] if item.get('hora_utc') else ''
         key = f"{resolved['team1']} vs {resolved['team2']}|{fecha}"
         
@@ -301,11 +285,9 @@ def generate_matches_json(input_file=None, output_file=None):
                 'canales': []
             }
         else:
-            # Actualizar liga si es más específica
             if liga and not unified[key]['liga']:
                 unified[key]['liga'] = liga
         
-        # Agregar canales (sin duplicar por URL)
         for canal in item.get('canales', []):
             url = canal.get('url', '')
             if not url:
@@ -324,11 +306,9 @@ def generate_matches_json(input_file=None, output_file=None):
                     'calidad': canal.get('calidad', 'HD')
                 })
     
-    # Convertir a lista y ordenar
     matches_list = list(unified.values())
     matches_list.sort(key=lambda x: x.get('hora_utc', ''))
     
-    # Guardar matches.json
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(matches_list, f, indent=2, ensure_ascii=False)
     
@@ -336,7 +316,6 @@ def generate_matches_json(input_file=None, output_file=None):
     if partidos_ignorados > 0:
         print(f"⚠️ Partidos ignorados por deporte incompatible: {partidos_ignorados}")
     
-    # Estadísticas por deporte
     deportes = defaultdict(int)
     for m in matches_list:
         deportes[m.get('sport', 'soccer')] += 1
@@ -345,7 +324,6 @@ def generate_matches_json(input_file=None, output_file=None):
     for deporte, count in deportes.items():
         print(f"   - {deporte}: {count} partidos")
     
-    # Estadísticas de canales
     total_canales = sum(len(m['canales']) for m in matches_list)
     print(f"📡 Total de canales únicos: {total_canales}")
     
