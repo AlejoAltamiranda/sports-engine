@@ -468,7 +468,7 @@
     "logo": "img/default.png",
     "liga": "Superettan",
     "equipos": "Öster vs Östersunds FK",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "TV4 Sportkanalen",
@@ -483,7 +483,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Preußen Münster vs Arminia Bielefeld",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sky Sport Bundesliga 3",
@@ -503,7 +503,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Hertha BSC vs Holstein Kiel",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Italia 1",
@@ -538,7 +538,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Karlsruher SC vs Hannover 96",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 3",
@@ -1098,7 +1098,7 @@
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Parma vs Pisa",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+4",
@@ -1183,7 +1183,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Olympique Lyonnais vs Auxerre",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+5",
@@ -1854,7 +1854,7 @@
     "logo": "img/tr.png",
     "liga": "Super Lig",
     "equipos": "Kayserispor vs Rizespor",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS 1",
@@ -1869,7 +1869,7 @@
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "Wolverhampton Wanderers vs Tottenham Hotspur",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "USA Network",
