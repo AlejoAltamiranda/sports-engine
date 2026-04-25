@@ -667,16 +667,6 @@
         "calidad": "720p"
       },
       {
-        "nombre": "Disney+1",
-        "url": "https://streamtpnew.com/global1.php?stream=disney1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
-      {
         "nombre": "USA Network",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free",
         "calidad": "HD"
@@ -804,7 +794,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T11:30:00Z",
+    "hora_utc": "2026-04-25T11:30Z",
     "liga": "Championship",
     "equipos": "West Bromwich Albion vs Ipswich Town",
     "team1": "West Bromwich Albion",
@@ -816,11 +806,6 @@
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+2",
-        "url": "https://streamtpnew.com/global1.php?stream=disney2",
-        "calidad": "720p"
-      },
       {
         "nombre": "CBS Sports Network",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free",
@@ -929,26 +914,6 @@
       {
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Disney+3",
-        "url": "https://streamtpnew.com/global1.php?stream=disney3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 1",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 2",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus2",
         "calidad": "720p"
       },
       {

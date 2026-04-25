@@ -614,22 +614,12 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T11:30:00Z",
+    "hora_utc": "2026-04-25T11:30Z",
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "Fulham vs Aston Villa",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+1",
-        "url": "https://streamtpnew.com/global1.php?stream=disney1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
       {
         "nombre": "USA Network",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=usa+network&code=us&user=cdnlivetv&plan=free",
@@ -756,20 +746,15 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-25T11:30:00Z",
+    "hora_utc": "2026-04-25T11:30Z",
     "logo": "img/default.png",
     "liga": "Championship",
     "equipos": "West Bromwich Albion vs Ipswich Town",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+2",
-        "url": "https://streamtpnew.com/global1.php?stream=disney2",
-        "calidad": "720p"
-      },
       {
         "nombre": "CBS Sports Network",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free",
@@ -836,14 +821,14 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-25T11:30Z",
     "logo": "img/tr.png",
     "liga": "Super Lig",
     "equipos": "Eyüpspor vs Gaziantep FK",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 1",
@@ -874,32 +859,32 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T12:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Mallorca",
-    "status": "en vivo",
+    "hora_utc": "2026-04-25T12:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga I",
+    "equipos": "Botoşani vs Oţelul",
+    "status": "finished",
     "canales": [
       {
-        "nombre": "Disney+3",
-        "url": "https://streamtpnew.com/global1.php?stream=disney3",
-        "calidad": "720p"
+        "nombre": "Digi Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
       },
       {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 1",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 2",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus2",
-        "calidad": "720p"
-      },
+        "nombre": "Prima Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-25T12:00Z",
+    "logo": "img/es.png",
+    "liga": "La Liga",
+    "equipos": "Deportivo Alavés vs Mallorca",
+    "status": "finished",
+    "canales": [
       {
         "nombre": "ESPN Deportes",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+deportes&code=us&user=cdnlivetv&plan=free",
@@ -991,26 +976,6 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-25T12:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga I",
-    "equipos": "Botoşani vs Oţelul",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Digi Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
   },
   {
@@ -1018,7 +983,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 2",
     "equipos": "Reims vs Nancy",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 2",
@@ -1053,7 +1018,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 2",
     "equipos": "Grenoble Foot 38 vs Le Mans",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS MAX 5",
@@ -1068,7 +1033,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Várda SE vs Diósgyőr",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -1374,7 +1339,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Mainz 05 vs Bayern München",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+6",
@@ -1469,7 +1434,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Wolfsburg vs Borussia M'gladbach",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+7",
@@ -1504,7 +1469,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Heidenheim vs St. Pauli",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+8",
@@ -1529,7 +1494,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Augsburg vs Eintracht Frankfurt",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+9",
@@ -1564,7 +1529,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Köln vs Bayer Leverkusen",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+10",
@@ -1639,7 +1604,7 @@
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "Liverpool vs Crystal Palace",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+11",
@@ -1724,7 +1689,7 @@
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "West Ham United vs Everton",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+12",
@@ -1799,7 +1764,7 @@
     "logo": "img/default.png",
     "liga": "Premier League",
     "equipos": "Wolverhampton vs Tottenham Hotspur",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+13",
@@ -1819,7 +1784,7 @@
     "logo": "img/default.png",
     "liga": "Championship",
     "equipos": "Queens Park Rangers vs Derby County",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+14",
@@ -1979,7 +1944,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Getafe vs Barcelona",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+15",
@@ -2134,7 +2099,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga 2",
     "equipos": "Real Valladolid vs Real Sociedad II",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Laligahypermotion",
@@ -2154,7 +2119,7 @@
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "Feyenoord vs Groningen",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+16",
@@ -2184,7 +2149,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Tondela vs Nacional",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport TV 1",
@@ -2214,7 +2179,7 @@
     "logo": "img/default.png",
     "liga": "Bundesliga",
     "equipos": "WSG Tirol vs Ried",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "TNT Sports 8",
@@ -2229,7 +2194,7 @@
     "logo": "img/default.png",
     "liga": "Bundesliga",
     "equipos": "Wolfsberger AC vs Grazer AK",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2238,7 +2203,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Puskás vs Újpest",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -2253,7 +2218,7 @@
     "logo": "img/default.png",
     "liga": "Serie B",
     "equipos": "Venezia vs Empoli",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2262,7 +2227,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Lechia Gdańsk vs Raków Częstochowa",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -2277,7 +2242,7 @@
     "logo": "img/default.png",
     "liga": "DStv Premiership",
     "equipos": "Sekhukhune United vs Marumo Gallants",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "SuperSport PSL",
