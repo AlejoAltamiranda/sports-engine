@@ -1,6 +1,7 @@
 import json
 import urllib.request
 import re
+import base64
 from datetime import datetime, timedelta
 from collections import defaultdict
 
@@ -133,6 +134,35 @@ def procesar_hora_segun_fuente(hora_str, fuente, fecha_ref=None):
     return hora_str
 
 # ============================================
+# DECODIFICACIÓN DE URLs EMBED (Base64)
+# ============================================
+
+def decodificar_url_embed(embed_iframe):
+    """
+    Decodifica la URL real desde el embed de pltvhd.
+    Ejemplo: /embed/eventos.html?r=aHR0cHM6Ly90... (Base64)
+    Retorna la URL decodificada o None si no es válida.
+    """
+    if not embed_iframe:
+        return None
+    
+    # Buscar el parámetro 'r=' en la URL
+    match = re.search(r'[?&]r=([^&]+)', embed_iframe)
+    if not match:
+        return embed_iframe  # Si no tiene r=, devolver la URL original
+    
+    base64_string = match.group(1)
+    
+    try:
+        # Decodificar Base64
+        decoded_bytes = base64.b64decode(base64_string)
+        decoded_url = decoded_bytes.decode('utf-8')
+        return decoded_url
+    except Exception as e:
+        print(f"  ⚠️ Error decodificando URL embed: {e}")
+        return embed_iframe
+
+# ============================================
 # MAPEO DE LIGAS A PAÍSES (para logos)
 # ============================================
 TOURNAMENT_TO_COUNTRY = {
@@ -159,7 +189,6 @@ TOURNAMENT_TO_COUNTRY = {
     'Boxing': 'box',
     'NFL': 'nfl',
     'NHL': 'nhl',
-
 }
 
 COUNTRY_LOGO = {
@@ -259,7 +288,7 @@ def process_github_source(data):
     return matches
 
 def process_pltvhd_source(data):
-    """Procesador para PLTVHD con filtro que excluye partidos de Rugby"""
+    """Procesador para PLTVHD con filtro que excluye partidos de Rugby y decodifica URLs"""
     matches = []
     if not data:
         return matches
@@ -320,7 +349,7 @@ def process_pltvhd_source(data):
         # Procesar hora (asumimos que es hora LOCAL de Colombia)
         hora_utc = procesar_hora_segun_fuente(hora_local, 'pltvhd', today)
         
-        # Obtener los canales/embeds
+        # Obtener los canales/embeds con decodificación Base64
         canales = []
         embeds = attrs.get('embeds', {})
         embeds_data = embeds.get('data', []) if isinstance(embeds, dict) else []
@@ -331,16 +360,23 @@ def process_pltvhd_source(data):
             embed_iframe = embed_attrs.get('embed_iframe', '')
             
             # Construir URL completa si es necesario
-            if embed_iframe and embed_iframe.startswith('/'):
-                embed_url = f"https://pltvhd.com{embed_iframe}"
-            else:
-                embed_url = embed_iframe
-            
-            canales.append({
-                'nombre': embed_name,
-                'url': embed_url,
-                'calidad': 'HD'
-            })
+            if embed_iframe:
+                if embed_iframe.startswith('/'):
+                    full_url = f"https://pltvhd.com{embed_iframe}"
+                else:
+                    full_url = embed_iframe
+                
+                # 🔥 DECODIFICAR URL real del stream (Base64)
+                real_url = decodificar_url_embed(full_url)
+                
+                if real_url:
+                    canales.append({
+                        'nombre': embed_name,
+                        'url': real_url,
+                        'calidad': 'HD'
+                    })
+                else:
+                    print(f"  ⚠️ No se pudo decodificar embed: {embed_name}")
         
         # Si no hay canales en embeds, revisar channels
         if not canales:
