@@ -2520,22 +2520,117 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T17:00:00Z",
+    "hora_utc": "2026-04-26T17:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Cleveland Cavaliers vs Toronto Raptors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2142",
+        "url": "https://sharkstreams.net/player.php?channel=2142",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2142",
+        "url": "https://sharkstreams.net/player.php?channel=2142",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "Santa Clara vs Sporting Braga",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS MAX 10",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+10&code=fr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "Estrela vs Porto",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS MAX 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SportDigital Fussball",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Ziggo Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cosmote Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Eleven Sports 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Ring",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cytavision Sports 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Segunda liga",
+    "equipos": "Benfica II vs Marítimo",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "Benfica TV",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=benfica+tv&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
     "logo": "img/tr.png",
     "liga": "Super Lig",
     "equipos": "Galatasaray vs Fenerbahçe",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+13",
-        "url": "https://streamtpnew.com/global1.php?stream=disney13",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 2",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz2",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
@@ -2597,126 +2692,6 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T17:00:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Cavaliers vs Raptors",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T17:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Cleveland Cavaliers vs Toronto Raptors",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2142",
-        "url": "https://sharkstreams.net/player.php?channel=2142",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2142",
-        "url": "https://sharkstreams.net/player.php?channel=2142",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-26T17:00Z",
-    "logo": "img/pt.png",
-    "liga": "Primeira Liga",
-    "equipos": "Santa Clara vs Sporting Braga",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS MAX 10",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+10&code=fr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T17:00Z",
-    "logo": "img/pt.png",
-    "liga": "Primeira Liga",
-    "equipos": "Estrela vs Porto",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS MAX 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SportDigital Fussball",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sportdigital+fussball&code=de&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Ziggo Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cosmote Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+3&code=gr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Eleven Sports 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+2&code=pl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Ring",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ring&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cytavision Sports 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+3&code=cy&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T17:00Z",
-    "logo": "img/pt.png",
-    "liga": "Segunda liga",
-    "equipos": "Benfica II vs Marítimo",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Benfica TV",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=benfica+tv&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
   },
   {
@@ -2724,7 +2699,7 @@
     "logo": "img/default.png",
     "liga": "Super League",
     "equipos": "Larissa vs Panserraikos",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Cosmote Sport 1",
@@ -2744,7 +2719,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Hapoel Katamon vs Hapoel Haifa",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport 2",
@@ -2759,7 +2734,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Debrecen vs Győri ETO",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -2801,35 +2776,10 @@
   },
   {
     "hora_utc": "2026-04-26T18:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Independiente Rivadavia vs Gimnasia Mendoza",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 3",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Tntsports",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "TNT Sports",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T18:00:00Z",
     "logo": "img/default.png",
     "liga": "Show",
     "equipos": "Colapinto Road Show Buenos Aires 2026",
-    "status": "en vivo",
+    "status": "finalizado",
     "canales": [
       {
         "nombre": "Disney+20",
@@ -2844,7 +2794,7 @@
     "logo": "img/default.png",
     "liga": "Liga I",
     "equipos": "Dinamo Bucureşti vs Rapid Bucureşti",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Digi Sport 1",
@@ -2854,6 +2804,21 @@
       {
         "nombre": "Prima Sport 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T18:00Z",
+    "logo": "img/ar.png",
+    "liga": "Primera División",
+    "equipos": "Independiente Rivadavia vs Gimnasia Mendoza",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=ar&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
@@ -2875,34 +2840,13 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T18:15:00Z",
+    "hora_utc": "2026-04-26T18:15Z",
     "logo": "img/pe.png",
-    "liga": "Liga 1",
+    "liga": "Primera Division",
     "equipos": "Cusco vs Sport Huancayo",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 4",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz4",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T18:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Primera División",
-    "equipos": "Cerro Largo vs Racing",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+14",
-        "url": "https://streamtpnew.com/global1.php?stream=disney14",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
+    "status": "finished",
+    "canales": [],
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-26T18:45:00Z",
@@ -3194,7 +3138,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Villarreal vs Celta de Vigo",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+2",
@@ -3329,7 +3273,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga 2",
     "equipos": "Ceuta vs Racing Santander",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Laligahypermotion",
@@ -3354,7 +3298,7 @@
     "logo": "img/cl.png",
     "liga": "Liga de Primera",
     "equipos": "Univ. Concepción vs Colo-Colo",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Max 3",
@@ -3374,7 +3318,7 @@
     "logo": "img/br.png",
     "liga": "Brasileirão",
     "equipos": "Corinthians vs Vasco da Gama",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 5",
@@ -3404,7 +3348,7 @@
     "logo": "img/br.png",
     "liga": "Brasileirão",
     "equipos": "Grêmio vs Coritiba",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 6",
@@ -3429,7 +3373,7 @@
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "Spurs vs Trail Blazers",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Espn2",
@@ -3574,7 +3518,7 @@
     "logo": "img/pe.png",
     "liga": "Liga 1",
     "equipos": "Atlético Grau vs Alianza Lima",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 7",
@@ -3589,7 +3533,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Newell's Old Boys vs Instituto",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 8",
@@ -3614,7 +3558,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Belgrano vs Gimnasia La Plata",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 9",

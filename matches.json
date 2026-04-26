@@ -2961,111 +2961,6 @@
     "canales": []
   },
   {
-    "hora_utc": "2026-04-26T17:00:00Z",
-    "liga": "Super Lig",
-    "equipos": "Galatasaray vs Fenerbahçe",
-    "team1": "Galatasaray",
-    "team2": "Fenerbahçe",
-    "team1_country": "turkey",
-    "team2_country": "turkey",
-    "same_country": true,
-    "confidence": 0.9,
-    "image": "img/tr.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+13",
-        "url": "https://streamtpnew.com/global1.php?stream=disney13",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 2",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "beIN SPORTS",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS N",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Match Football 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena 2 Premium",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport Klub 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T17:00:00Z",
-    "liga": "NBA",
-    "equipos": "Cavaliers vs Raptors",
-    "team1": "Cavaliers",
-    "team2": "Raptors",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-26T17:00Z",
     "liga": "NBA",
     "equipos": "Cleveland Cavaliers vs Toronto Raptors",
@@ -3187,6 +3082,81 @@
   },
   {
     "hora_utc": "2026-04-26T17:00Z",
+    "liga": "Super Lig",
+    "equipos": "Galatasaray vs Fenerbahçe",
+    "team1": "Galatasaray",
+    "team2": "Fenerbahçe",
+    "team1_country": "turkey",
+    "team2_country": "turkey",
+    "same_country": true,
+    "confidence": 0.9,
+    "image": "img/tr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=fr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS N",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+2&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Match Football 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+3&code=ru&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena 2 Premium",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+2+premium&code=rs&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport Klub 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+1&code=rs&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+3&code=br&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Prima Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+3&code=il&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
     "liga": "Super League",
     "equipos": "Larissa vs Panserraikos",
     "team1": "Larissa",
@@ -3272,7 +3242,7 @@
   },
   {
     "hora_utc": "2026-04-26T18:00:00Z",
-    "liga": "Liga Profesional",
+    "liga": "Primera División",
     "equipos": "Independiente Rivadavia vs Gimnasia y Esgrima de Mendoza",
     "team1": "Independiente Rivadavia",
     "team2": "Gimnasia y Esgrima de Mendoza",
@@ -3286,16 +3256,6 @@
       {
         "nombre": "TNT Sports",
         "url": "https://elcanaldeportivo.com/ver/tntsports.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 3",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Tntsports",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "calidad": "720p"
       },
       {
@@ -3332,7 +3292,7 @@
   },
   {
     "hora_utc": "2026-04-26T18:15:00Z",
-    "liga": "Liga 1",
+    "liga": "Primera Division",
     "equipos": "Cusco FC vs Sport Huancayo",
     "team1": "Cusco FC",
     "team2": "Sport Huancayo",
@@ -3346,31 +3306,6 @@
       {
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/ver/liga1maxpe.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 4",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz4",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T18:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Cerro Largo FC vs Racing Club",
-    "team1": "Cerro Largo FC",
-    "team2": "Racing Club",
-    "team1_country": "uruguay",
-    "team2_country": "argentina",
-    "same_country": false,
-    "confidence": 0.9,
-    "image": "img/ar.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+14",
-        "url": "https://streamtpnew.com/global1.php?stream=disney14",
         "calidad": "720p"
       }
     ]
