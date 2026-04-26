@@ -165,26 +165,6 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T17:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Detroit Pistons vs Orlando Magic",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2126",
-        "url": "https://sharkstreams.net/player.php?channel=2126",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2126",
-        "url": "https://sharkstreams.net/player.php?channel=2126",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-04-25T19:00:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
@@ -218,26 +198,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-25T19:36Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Oklahoma City Thunder vs Phoenix Suns",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2127",
-        "url": "https://sharkstreams.net/player.php?channel=2127",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2127",
-        "url": "https://sharkstreams.net/player.php?channel=2127",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-25T20:00:00Z",
@@ -300,26 +260,6 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T21:00Z",
-    "logo": "img/ufc.png",
-    "liga": "UFC",
-    "equipos": "UFC Fight Night: Sterling vs Zalal",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2130",
-        "url": "https://sharkstreams.net/player.php?channel=2130",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2130",
-        "url": "https://sharkstreams.net/player.php?channel=2130",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-04-25T22:00:00Z",
     "logo": "img/ar.png",
     "liga": "Futbol Argentino",
@@ -333,46 +273,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-25T22:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs Arizona Diamondbacks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2133",
-        "url": "https://sharkstreams.net/player.php?channel=2133",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2133",
-        "url": "https://sharkstreams.net/player.php?channel=2133",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T22:12Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "New York Knicks vs Atlanta Hawks",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2128",
-        "url": "https://sharkstreams.net/player.php?channel=2128",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2128",
-        "url": "https://sharkstreams.net/player.php?channel=2128",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-25T22:15:00Z",
@@ -390,46 +290,6 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-25T23:00Z",
-    "logo": "img/default.png",
-    "liga": "NFL",
-    "equipos": "2026 NFL Draft - Day 3",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2125",
-        "url": "https://sharkstreams.net/player.php?channel=2125",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2125",
-        "url": "https://sharkstreams.net/player.php?channel=2125",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:05Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Athletics vs Texas Rangers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2134",
-        "url": "https://sharkstreams.net/player.php?channel=2134",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2134",
-        "url": "https://sharkstreams.net/player.php?channel=2134",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-04-25T23:10:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
@@ -443,126 +303,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "New York Yankees vs Houston Astros",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2135",
-        "url": "https://sharkstreams.net/player.php?channel=2135",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2135",
-        "url": "https://sharkstreams.net/player.php?channel=2135",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Los Angeles Angels vs Kansas City Royals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2136",
-        "url": "https://sharkstreams.net/player.php?channel=2136",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2136",
-        "url": "https://sharkstreams.net/player.php?channel=2136",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Pittsburgh Pirates vs Milwaukee Brewers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2137",
-        "url": "https://sharkstreams.net/player.php?channel=2137",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2137",
-        "url": "https://sharkstreams.net/player.php?channel=2137",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Philadelphia Phillies vs Atlanta Braves",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2138",
-        "url": "https://sharkstreams.net/player.php?channel=2138",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2138",
-        "url": "https://sharkstreams.net/player.php?channel=2138",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Cincinnati Reds",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2140",
-        "url": "https://sharkstreams.net/player.php?channel=2140",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2140",
-        "url": "https://sharkstreams.net/player.php?channel=2140",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Los Angeles Dodgers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2141",
-        "url": "https://sharkstreams.net/player.php?channel=2141",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2141",
-        "url": "https://sharkstreams.net/player.php?channel=2141",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-25T23:30:00Z",
@@ -608,66 +348,6 @@
       }
     ],
     "fuente": "elcanal"
-  },
-  {
-    "hora_utc": "2026-04-26T00:00Z",
-    "logo": "img/default.png",
-    "liga": "Boxing",
-    "equipos": "Jarrell Miller vs Lenier Pero",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2131",
-        "url": "https://sharkstreams.net/player.php?channel=2131",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2131",
-        "url": "https://sharkstreams.net/player.php?channel=2131",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-26T00:00Z",
-    "logo": "img/wwe.png",
-    "liga": "WWE",
-    "equipos": "Aew: Collision Playoff Palooza 2026",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2132",
-        "url": "https://sharkstreams.net/player.php?channel=2132",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2132",
-        "url": "https://sharkstreams.net/player.php?channel=2132",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-04-26T00:30Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Denver Nuggets vs Minnesota Timberwolves",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2129",
-        "url": "https://sharkstreams.net/player.php?channel=2129",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2129",
-        "url": "https://sharkstreams.net/player.php?channel=2129",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-26T01:30:00Z",
@@ -854,17 +534,56 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T11:00:00Z",
+    "hora_utc": "2026-04-26T11:00Z",
+    "logo": "img/default.png",
+    "liga": "Parva Liga",
+    "equipos": "Slavia Sofia vs Botev Vratsa",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "Diema Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
+    "logo": "img/default.png",
+    "liga": "Virsliga",
+    "equipos": "Auda vs Tukums",
+    "status": "finished",
+    "canales": [],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga I",
+    "equipos": "UTA Arad vs Farul Constanța",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "Digi Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Prima Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
     "logo": "img/default.png",
     "liga": "Championship",
     "equipos": "Coventry City vs Wrexham",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Espn5",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
-        "calidad": "720p"
-      },
       {
         "nombre": "Astro Football",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free",
@@ -951,50 +670,6 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "logo": "img/default.png",
-    "liga": "Parva Liga",
-    "equipos": "Slavia Sofia vs Botev Vratsa",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Diema Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "logo": "img/default.png",
-    "liga": "Virsliga",
-    "equipos": "Auda vs Tukums",
-    "status": "live",
-    "canales": [],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga I",
-    "equipos": "UTA Arad vs Farul Constanța",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Digi Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
   },
   {
@@ -1002,7 +677,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Nürnberg vs Magdeburg",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sky Sport Bundesliga 3",
@@ -1032,7 +707,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Bochum vs Greuther Fürth",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Italia 1",
@@ -1052,7 +727,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Paderborn vs Schalke 04",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 3",
@@ -1112,7 +787,7 @@
     "logo": "img/tr.png",
     "liga": "Super Lig",
     "equipos": "Gençlerbirliği vs Kocaelispor",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "beIN SPORTS 1",
@@ -1143,32 +818,12 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T12:00:00Z",
+    "hora_utc": "2026-04-26T12:00Z",
     "logo": "img/es.png",
-    "liga": "LaLiga",
+    "liga": "La Liga",
     "equipos": "Rayo Vallecano vs Real Sociedad",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Dsports",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 1",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 2",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espndeportes",
-        "url": "https://streamtpnew.com/global1.php?stream=espndeportes",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free",
@@ -1270,34 +925,29 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T12:00:00Z",
+    "hora_utc": "2026-04-26T12:00Z",
     "logo": "img/es.png",
-    "liga": "LaLiga 2",
+    "liga": "Segunda Division",
     "equipos": "Córdoba vs Sporting Gijón",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
       {
         "nombre": "LaLiga TV Hypermotion 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-26T12:30Z",
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "Heracles vs Volendam",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "ESPN",
@@ -1312,7 +962,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Nuova Monterosi vs Athletic Carpi",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1321,7 +971,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Gubbio vs Pineto",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1330,7 +980,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Campobasso vs Ascoli",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1339,7 +989,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Pontedera vs Livorno",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1348,7 +998,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Forlì vs Perugia",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1357,7 +1007,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Arezzo vs Sassari Torres",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Rai Sport",
@@ -1372,7 +1022,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Ternana vs Pianese",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1381,7 +1031,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Vis Pesaro vs Sambenedettese",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1390,7 +1040,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Juventus II vs Bra",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1399,7 +1049,7 @@
     "logo": "img/default.png",
     "liga": "Bundesliga",
     "equipos": "Hartberg vs LASK Linz",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1408,7 +1058,7 @@
     "logo": "img/default.png",
     "liga": "Bundesliga",
     "equipos": "Rapid Wien vs Salzburg",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Arena Sport 6",
@@ -1443,7 +1093,7 @@
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Genoa vs Como",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+1",
@@ -1548,7 +1198,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Lorient vs Strasbourg",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+2",
@@ -1598,7 +1248,7 @@
     "logo": "img/ar.png",
     "liga": "Primera División",
     "equipos": "Central Español vs Cerro",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+3",
@@ -1765,7 +1415,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Stuttgart vs Werder Bremen",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+4",
@@ -1875,7 +1525,7 @@
     "logo": "img/default.png",
     "liga": "FA Cup",
     "equipos": "Chelsea vs Leeds United",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+5",
@@ -2050,7 +1700,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Real Oviedo vs Elche",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Dsports",
@@ -2150,7 +1800,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga 2",
     "equipos": "Granada vs Almería",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Laligahypermotion",
@@ -2170,7 +1820,7 @@
     "logo": "img/es.png",
     "liga": "Segunda Division",
     "equipos": "Mirandés vs Cultural Leonesa",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS XTRA",
@@ -2185,7 +1835,7 @@
     "logo": "img/default.png",
     "liga": "UEFA Women's Champions League",
     "equipos": "Arsenal vs OL Lyonnes",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+6",
@@ -2205,7 +1855,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Estoril vs Famalicão",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport TV 2",
@@ -2220,7 +1870,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Penafiel vs Porto II",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport TV 4",
@@ -2235,7 +1885,7 @@
     "logo": "img/default.png",
     "liga": "Super League",
     "equipos": "Atromitos vs Asteras Tripolis",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Nova Sports 2",
@@ -2250,7 +1900,7 @@
     "logo": "img/default.png",
     "liga": "Bundesliga",
     "equipos": "Sturm Graz vs Austria Wien",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport Klub 4",
@@ -2265,7 +1915,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Ferencváros vs Paksi SE",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "M4 Sports",
@@ -2480,7 +2130,7 @@
     "logo": "img/default.png",
     "liga": "DStv Premiership",
     "equipos": "Richards Bay vs Mamelodi Sundowns",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "SuperSport PSL",
@@ -2495,7 +2145,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Lech Poznań vs Legia Warszawa",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -2525,7 +2175,7 @@
     "logo": "img/default.png",
     "liga": "Premijer Liga",
     "equipos": "Borac Banja Luka vs Sloga Doboj",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2534,7 +2184,7 @@
     "logo": "img/default.png",
     "liga": "Scottish Premiership",
     "equipos": "Hibernian vs Hearts",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "CBS Sports Golazo",
@@ -3144,6 +2794,26 @@
       }
     ],
     "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Cleveland Cavaliers vs Toronto Raptors",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2142",
+        "url": "https://sharkstreams.net/player.php?channel=2142",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2142",
+        "url": "https://sharkstreams.net/player.php?channel=2142",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-04-26T17:00Z",
@@ -3937,6 +3607,26 @@
   },
   {
     "hora_utc": "2026-04-26T19:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "San Antonio Spurs vs Portland Trail Blazers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2143",
+        "url": "https://sharkstreams.net/player.php?channel=2143",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2143",
+        "url": "https://sharkstreams.net/player.php?channel=2143",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-04-26T19:30Z",
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "A vs vs Sporting CP",
@@ -4431,6 +4121,26 @@
     "fuente": "streamtp"
   },
   {
+    "hora_utc": "2026-04-26T23:06Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Boston Celtics vs Philadelphia 76ers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2144",
+        "url": "https://sharkstreams.net/player.php?channel=2144",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2144",
+        "url": "https://sharkstreams.net/player.php?channel=2144",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-04-26T23:10:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
@@ -4649,5 +4359,25 @@
       }
     ],
     "fuente": "streamtp"
+  },
+  {
+    "hora_utc": "2026-04-27T01:42Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Houston Rockets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2145",
+        "url": "https://sharkstreams.net/player.php?channel=2145",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2145",
+        "url": "https://sharkstreams.net/player.php?channel=2145",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   }
 ]

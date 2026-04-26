@@ -215,26 +215,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T17:00Z",
-    "liga": "NBA",
-    "equipos": "Detroit Pistons vs Orlando Magic",
-    "team1": "Detroit Pistons",
-    "team2": "Orlando Magic",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2126",
-        "url": "https://sharkstreams.net/player.php?channel=2126",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-25T19:00:00Z",
     "liga": "LaLiga",
     "equipos": "Atlético de Madrid vs Athletic Club",
@@ -276,26 +256,6 @@
         "nombre": "ESPN 2",
         "url": "https://elcanaldeportivo.com/ver/espn2.php",
         "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T19:36Z",
-    "liga": "NBA",
-    "equipos": "Oklahoma City Thunder vs Phoenix Suns",
-    "team1": "Oklahoma City Thunder",
-    "team2": "Phoenix Suns",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2127",
-        "url": "https://sharkstreams.net/player.php?channel=2127",
-        "calidad": "HD"
       }
     ]
   },
@@ -362,7 +322,7 @@
   {
     "hora_utc": "2026-04-25T21:00:00Z",
     "liga": "UFC Fight Night",
-    "equipos": "UFC Fight Night: Sterling vs Zalal",
+    "equipos": "sterling vs zalal",
     "team1": "sterling",
     "team2": "zalal",
     "team1_country": "unknown",
@@ -376,11 +336,6 @@
         "nombre": "Paramount+",
         "url": "https://elcanaldeportivo.com/ver/paramountplus.php",
         "calidad": "720p"
-      },
-      {
-        "nombre": "2130",
-        "url": "https://sharkstreams.net/player.php?channel=2130",
-        "calidad": "HD"
       }
     ]
   },
@@ -405,46 +360,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T22:05Z",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs Arizona Diamondbacks",
-    "team1": "San Diego Padres",
-    "team2": "Arizona Diamondbacks",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2133",
-        "url": "https://sharkstreams.net/player.php?channel=2133",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T22:12Z",
-    "liga": "NBA",
-    "equipos": "New York Knicks vs Atlanta Hawks",
-    "team1": "New York Knicks",
-    "team2": "Atlanta Hawks",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2128",
-        "url": "https://sharkstreams.net/player.php?channel=2128",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-25T22:15:00Z",
     "liga": "Futbol Argentino",
     "equipos": "Sarmiento vs Tigre",
@@ -465,46 +380,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-25T23:00Z",
-    "liga": "NFL",
-    "equipos": "2026 NFL Draft vs Day 3",
-    "team1": "2026 NFL Draft",
-    "team2": "Day 3",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "nfl",
-    "canales": [
-      {
-        "nombre": "2125",
-        "url": "https://sharkstreams.net/player.php?channel=2125",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:05Z",
-    "liga": "MLB",
-    "equipos": "Athletics vs Texas Rangers",
-    "team1": "Athletics",
-    "team2": "Texas Rangers",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2134",
-        "url": "https://sharkstreams.net/player.php?channel=2134",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-25T23:10:00Z",
     "liga": "Liga Betplay",
     "equipos": "Deportivo Cali vs América de Cali",
@@ -521,126 +396,6 @@
         "nombre": "Win Sports+",
         "url": "https://elcanaldeportivo.com/ver/winsportsmas.php",
         "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "liga": "MLB",
-    "equipos": "New York Yankees vs Houston Astros",
-    "team1": "New York Yankees",
-    "team2": "Houston Astros",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2135",
-        "url": "https://sharkstreams.net/player.php?channel=2135",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "liga": "MLB",
-    "equipos": "Los Angeles Angels vs Kansas City Royals",
-    "team1": "Los Angeles Angels",
-    "team2": "Kansas City Royals",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2136",
-        "url": "https://sharkstreams.net/player.php?channel=2136",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:10Z",
-    "liga": "MLB",
-    "equipos": "Pittsburgh Pirates vs Milwaukee Brewers",
-    "team1": "Pittsburgh Pirates",
-    "team2": "Milwaukee Brewers",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2137",
-        "url": "https://sharkstreams.net/player.php?channel=2137",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "liga": "MLB",
-    "equipos": "Philadelphia Phillies vs Atlanta Braves",
-    "team1": "Philadelphia Phillies",
-    "team2": "Atlanta Braves",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2138",
-        "url": "https://sharkstreams.net/player.php?channel=2138",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "liga": "MLB",
-    "equipos": "Detroit Tigers vs Cincinnati Reds",
-    "team1": "Detroit Tigers",
-    "team2": "Cincinnati Reds",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2140",
-        "url": "https://sharkstreams.net/player.php?channel=2140",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-25T23:15Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Los Angeles Dodgers",
-    "team1": "Chicago Cubs",
-    "team2": "Los Angeles Dodgers",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2141",
-        "url": "https://sharkstreams.net/player.php?channel=2141",
-        "calidad": "HD"
       }
     ]
   },
@@ -701,66 +456,6 @@
         "nombre": "Paramount+",
         "url": "https://elcanaldeportivo.com/ver/paramountplus.php",
         "calidad": "720p"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T00:00Z",
-    "liga": "Boxing",
-    "equipos": "Jarrell Miller vs Lenier Pero",
-    "team1": "Jarrell Miller",
-    "team2": "Lenier Pero",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/box.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "2131",
-        "url": "https://sharkstreams.net/player.php?channel=2131",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T00:00Z",
-    "liga": "WWE",
-    "equipos": "aew collision playoff palooza 2026",
-    "team1": "aew collision playoff palooza 2026",
-    "team2": "",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.5,
-    "image": "img/wwe.png",
-    "sport": "wwe",
-    "canales": [
-      {
-        "nombre": "2132",
-        "url": "https://sharkstreams.net/player.php?channel=2132",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T00:30Z",
-    "liga": "NBA",
-    "equipos": "Denver Nuggets vs Minnesota Timberwolves",
-    "team1": "Denver Nuggets",
-    "team2": "Minnesota Timberwolves",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2129",
-        "url": "https://sharkstreams.net/player.php?channel=2129",
-        "calidad": "HD"
       }
     ]
   },
@@ -984,7 +679,66 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T11:00:00Z",
+    "hora_utc": "2026-04-26T11:00Z",
+    "liga": "Parva Liga",
+    "equipos": "Slavia Sofia vs Botev Vratsa",
+    "team1": "Slavia Sofia",
+    "team2": "Botev Vratsa",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Diema Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
+    "liga": "Virsliga",
+    "equipos": "Audax Italiano vs Tukums",
+    "team1": "Audax Italiano",
+    "team2": "Tukums",
+    "team1_country": "chile",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.35,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": []
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
+    "liga": "Liga I",
+    "equipos": "UTA Arad vs Farul Constanța",
+    "team1": "UTA Arad",
+    "team2": "Farul Constanța",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Digi Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Prima Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T11:00Z",
     "liga": "Championship",
     "equipos": "Coventry City vs Wrexham",
     "team1": "Coventry City",
@@ -996,11 +750,6 @@
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Espn5",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
-        "calidad": "720p"
-      },
       {
         "nombre": "Astro Football",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=astro+football&code=us&user=cdnlivetv&plan=free",
@@ -1084,65 +833,6 @@
       {
         "nombre": "beIN SPORTS 4",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=sa&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "liga": "Parva Liga",
-    "equipos": "Slavia Sofia vs Botev Vratsa",
-    "team1": "Slavia Sofia",
-    "team2": "Botev Vratsa",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Diema Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "liga": "Virsliga",
-    "equipos": "Audax Italiano vs Tukums",
-    "team1": "Audax Italiano",
-    "team2": "Tukums",
-    "team1_country": "chile",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.35,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": []
-  },
-  {
-    "hora_utc": "2026-04-26T11:00Z",
-    "liga": "Liga I",
-    "equipos": "UTA Arad vs Farul Constanța",
-    "team1": "UTA Arad",
-    "team2": "Farul Constanța",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Digi Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+1&code=ro&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -1294,7 +984,7 @@
   },
   {
     "hora_utc": "2026-04-26T12:00:00Z",
-    "liga": "LaLiga",
+    "liga": "La Liga",
     "equipos": "Rayo Vallecano vs Real Sociedad",
     "team1": "Rayo Vallecano",
     "team2": "Real Sociedad",
@@ -1313,26 +1003,6 @@
       {
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 1",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 2",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espndeportes",
-        "url": "https://streamtpnew.com/global1.php?stream=espndeportes",
         "calidad": "720p"
       },
       {
@@ -1438,8 +1108,8 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T12:00:00Z",
-    "liga": "LaLiga 2",
+    "hora_utc": "2026-04-26T12:00Z",
+    "liga": "Segunda Division",
     "equipos": "Central Córdoba vs Sporting Gijón",
     "team1": "Central Córdoba",
     "team2": "Sporting Gijón",
@@ -1447,14 +1117,9 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.35,
-    "image": "img/es.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
       {
         "nombre": "LaLiga TV Hypermotion 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
@@ -3582,6 +3247,26 @@
   },
   {
     "hora_utc": "2026-04-26T17:00Z",
+    "liga": "NBA",
+    "equipos": "Cleveland Cavaliers vs Toronto Raptors",
+    "team1": "Cleveland Cavaliers",
+    "team2": "Toronto Raptors",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2142",
+        "url": "https://sharkstreams.net/player.php?channel=2142",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T17:00Z",
     "liga": "Primeira Liga",
     "equipos": "Santa Clara vs Sporting Braga",
     "team1": "Santa Clara",
@@ -4432,6 +4117,26 @@
   },
   {
     "hora_utc": "2026-04-26T19:30Z",
+    "liga": "NBA",
+    "equipos": "San Antonio Spurs vs Portland Trail Blazers",
+    "team1": "San Antonio Spurs",
+    "team2": "Portland Trail Blazers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2143",
+        "url": "https://sharkstreams.net/player.php?channel=2143",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T19:30Z",
     "liga": "Primeira Liga",
     "equipos": "SL Benfica vs Sporting CP",
     "team1": "SL Benfica",
@@ -4956,6 +4661,26 @@
     ]
   },
   {
+    "hora_utc": "2026-04-26T23:06Z",
+    "liga": "NBA",
+    "equipos": "Boston Celtics vs Philadelphia 76ers",
+    "team1": "Boston Celtics",
+    "team2": "Philadelphia 76ers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2144",
+        "url": "https://sharkstreams.net/player.php?channel=2144",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-04-26T23:10:00Z",
     "liga": "Liga BetPlay",
     "equipos": "Llaneros vs Alianza",
@@ -5192,6 +4917,26 @@
         "nombre": "Nba 2",
         "url": "https://streamtpnew.com/global1.php?stream=nba2",
         "calidad": "720p"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T01:42Z",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Houston Rockets",
+    "team1": "Los Angeles Lakers",
+    "team2": "Houston Rockets",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2145",
+        "url": "https://sharkstreams.net/player.php?channel=2145",
+        "calidad": "HD"
       }
     ]
   }
