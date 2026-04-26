@@ -1,6 +1,6 @@
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
 
 # ============================================
@@ -32,6 +32,8 @@ COUNTRY_IMAGES = {
     'wwe': 'img/wwe.png',
     'ufc': 'img/ufc.png',
     'box': 'img/box.png',
+    'nhl': 'img/nhl.png',
+    'nfl': 'img/nfl.png',
     'default': 'img/default.png'
 }
 
@@ -44,7 +46,7 @@ LEAGUE_TO_COUNTRY = {
     'Ligue 1': 'france', 'Ligue 2': 'france',
     'Eredivisie': 'netherlands',
     'Primeira Liga': 'portugal', 'Taça de Portugal': 'portugal', 'Copa de Portugal': 'portugal',
-    'Liga MX': 'mexico',
+    'Liga MX': 'mexico', 'Liga de expansión MX': 'mexico',
     'Liga 1': 'peru', 'Primera Division': 'peru',
     'Copa do Brasil': 'brazil', 'Brasileirão': 'brazil',
     'Liga Profesional': 'argentina', 'Primera División': 'argentina', 'Futbol Argentino': 'argentina',
@@ -56,7 +58,73 @@ LEAGUE_TO_COUNTRY = {
     'MLS': 'usa', 'Major League Soccer': 'usa',
     'MLB': 'mlb', 'NBA': 'nba', 'WWE': 'wwe', 'UFC': 'ufc',
     'boxing': 'box', 'Boxeo': 'box',
+    'NHL': 'nhl', 'nhl': 'nhl', 'NFL': 'nfl',
 }
+
+# ============================================
+# DURACIÓN DE PARTIDOS POR DEPORTE (en minutos)
+# ============================================
+
+SPORT_DURATION = {
+    'soccer': 120,      # 90' + 15' entretiempo + 15' adiciones (2 horas)
+    'nba': 180,         # 48' + descansos + tiempos muertos (~3 horas)
+    'mlb': 180,         # 9 entradas (~3 horas)
+    'nfl': 195,         # 60' + pausas (~3.25 horas)
+    'ufc': 300,         # Evento completo (~5 horas)
+    'wwe': 180,         # Evento completo (~3 horas)
+    'box': 300,         # Velada completa (~5 horas)
+    'default': 120      # Por defecto: 2 horas
+}
+
+# ============================================
+# SEPARADORES MEJORADOS (MANEJA GUIONES INTELIGENTEMENTE)
+# ============================================
+
+def split_match_text(text):
+    """
+    Divide el texto del partido en equipo1 y equipo2.
+    Maneja intelligentemente diferentes separadores incluyendo guiones.
+    """
+    if not text:
+        return None, None
+    
+    # Limpiar texto
+    clean = text.strip()
+    
+    # 1. Probar con separadores comunes (priorizando los más específicos)
+    separators = [
+        ' vs ', ' v ', ' vs. ', ' versus ',
+        ' - ', ' – ', ' — ',  # Guiones con espacios
+        ' -', '- ',           # Guiones con espacio solo a un lado
+    ]
+    
+    for sep in separators:
+        if sep in clean:
+            parts = clean.split(sep, 1)
+            if len(parts) == 2:
+                return parts[0].strip(), parts[1].strip()
+    
+    # 2. Buscar guiones con espacios alrededor
+    matches = list(re.finditer(r'(?<=\s)-(?=\s)|(?<=^)-(?=\s)|(?<=\s)-(?=$)', clean))
+    
+    if matches:
+        sep_pos = matches[-1].start()
+        team1 = clean[:sep_pos].strip()
+        team2 = clean[sep_pos + 1:].strip()
+        if team1 and team2:
+            return team1, team2
+    
+    # 3. Último recurso: un solo guión que no sea nombre compuesto
+    if clean.count('-') == 1 and ' - ' not in clean:
+        parts = clean.split('-', 1)
+        if len(parts) == 2 and parts[0].strip() and parts[1].strip():
+            compound_names = ['colo-colo', 'villa-lobos', 'real-sociedad', 'athletic-bilbao']
+            text_lower = clean.lower()
+            is_compound = any(name in text_lower for name in compound_names)
+            if not is_compound:
+                return parts[0].strip(), parts[1].strip()
+    
+    return None, None
 
 SEPARATORS = [' vs ', ' v ', ' - ', ' vs. ', ' versus ']
 
@@ -67,21 +135,105 @@ CONFIG = {
 }
 
 # ============================================
-# CARGAR BASE DE DATOS
+# CARGAR BASE DE DATOS (CORREGIDO)
 # ============================================
 
 def load_teams():
+    """Carga equipos desde múltiples archivos JSON (soporta listas y diccionarios)"""
+    teams_db = {}
+    
+    # 1. Cargar teams.json (fútbol general)
     try:
         with open('teams.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+            data = json.load(f)
+            # Si es lista, convertir a diccionario
+            if isinstance(data, list):
+                for team in data:
+                    if 'name' in team:
+                        slug = team['name'].lower().replace(' ', '_')
+                        teams_db[slug] = team
+            elif isinstance(data, dict):
+                teams_db.update(data)
+            print(f"✅ Cargados {len(teams_db)} equipos de teams.json")
     except FileNotFoundError:
-        print("❌ Error: No se encuentra teams.json")
-        return {}
+        print("⚠️ No se encuentra teams.json")
+    except Exception as e:
+        print(f"⚠️ Error cargando teams.json: {e}")
+    
+    # 2. Cargar mlb_teams.json (béisbol)
+    try:
+        with open('mlb_teams.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            mlb_teams = []
+            
+            # Extraer lista de equipos (puede ser lista directa o con clave 'mlb_teams')
+            if isinstance(data, list):
+                mlb_teams = data
+            elif isinstance(data, dict) and 'mlb_teams' in data:
+                mlb_teams = data['mlb_teams']
+            elif isinstance(data, dict):
+                mlb_teams = list(data.values())
+            
+            for team in mlb_teams:
+                if 'name' in team:
+                    slug = team['name'].lower().replace(' ', '_')
+                    team['sport'] = 'mlb'
+                    team['country'] = 'usa'
+                    if 'aliases' not in team:
+                        team['aliases'] = []
+                    name = team.get('name', '')
+                    if name.startswith('Los '):
+                        team['aliases'].append(name[4:])
+                    elif name.startswith('Las '):
+                        team['aliases'].append(name[4:])
+                    teams_db[slug] = team
+            print(f"✅ Cargados {len(mlb_teams)} equipos de mlb_teams.json")
+    except FileNotFoundError:
+        print("⚠️ No se encuentra mlb_teams.json")
+    except Exception as e:
+        print(f"⚠️ Error cargando mlb_teams.json: {e}")
+    
+    # 3. Cargar nba_teams.json (baloncesto)
+    try:
+        with open('nba_teams.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            nba_teams = []
+            
+            # Extraer lista de equipos
+            if isinstance(data, list):
+                nba_teams = data
+            elif isinstance(data, dict) and 'nba_teams' in data:
+                nba_teams = data['nba_teams']
+            elif isinstance(data, dict):
+                nba_teams = list(data.values())
+            
+            for team in nba_teams:
+                if 'name' in team:
+                    slug = team['name'].lower().replace(' ', '_')
+                    team['sport'] = 'nba'
+                    team['country'] = 'usa'
+                    if 'aliases' not in team:
+                        team['aliases'] = []
+                    # Agregar alias sin ciudad
+                    name = team.get('name', '')
+                    if ' ' in name:
+                        parts = name.split(' ', 1)
+                        if len(parts) == 2 and parts[1] not in team['aliases']:
+                            team['aliases'].append(parts[1])
+                    teams_db[slug] = team
+            print(f"✅ Cargados {len(nba_teams)} equipos de nba_teams.json")
+    except FileNotFoundError:
+        print("⚠️ No se encuentra nba_teams.json")
+    except Exception as e:
+        print(f"⚠️ Error cargando nba_teams.json: {e}")
+    
+    print(f"📊 Total de equipos cargados: {len(teams_db)}")
+    return teams_db
 
 TEAMS_DB = load_teams()
 
 # ============================================
-# NORMALIZACIÓN DE EVENTOS ESPECIALES (UFC/WWE)
+# NORMALIZACIÓN DE EVENTOS ESPECIALES
 # ============================================
 
 def normalizar_evento_especial(match_text, liga):
@@ -89,14 +241,10 @@ def normalizar_evento_especial(match_text, liga):
     if not match_text:
         return match_text
     
-    # Solo UFC o WWE
     if 'UFC' not in liga and 'WWE' not in liga:
         return match_text
     
-    # 1. Limpiar texto
     texto_limpio = match_text.lower()
-    
-    # 2. Palabras a eliminar (exactas)
     palabras_eliminar = [
         'preliminares', 'prelims', 'early', 'fight night', 'ufc', 'wwe',
         'main card', 'espn', 'ppv', 'live', 'results', 'highlights',
@@ -106,7 +254,6 @@ def normalizar_evento_especial(match_text, liga):
     for palabra in palabras_eliminar:
         texto_limpio = re.sub(rf'\b{palabra}\b', '', texto_limpio)
     
-    # 3. Limpiar puntuación y espacios extra
     texto_limpio = re.sub(r'[^\w\s]', '', texto_limpio)
     texto_limpio = re.sub(r'\s+', ' ', texto_limpio).strip()
     
@@ -126,21 +273,36 @@ def get_sport_from_liga(liga):
         return 'nfl'
     if 'wwe' in liga_lower:
         return 'wwe'
+    if 'ufc' in liga_lower:
+        return 'ufc'
+    if 'box' in liga_lower or 'boxeo' in liga_lower:
+        return 'box'
     return 'soccer'
 
 def validate_sport_by_liga(team1, team2, liga):
     sport = get_sport_from_liga(liga)
-    if sport in ['mlb', 'nba', 'nfl', 'wwe']:
+    
+    if sport in ['mlb', 'nba', 'nfl', 'wwe', 'ufc', 'box']:
         return True
     
     team1_lower = team1.lower()
     team2_lower = team2.lower()
+    liga_lower = liga.lower()
     
-    nba_keywords = ['lakers', 'warriors', 'celtics', 'bulls', 'heat', 'bucks', 'suns', 'nuggets', 
-                    'mavericks', 'spurs', 'blazers', 'trail blazers', 'knicks', 'nets', 'raptors']
-    mlb_keywords = ['tigers', 'red sox', 'orioles', 'guardians', 'blue jays', 'twins', 'rays',
-                    'rockies', 'mets', 'phillies', 'braves', 'nationals', 'white sox', 'pirates',
-                    'brewers', 'angels', 'royals', 'cubs', 'dodgers', 'marlins', 'giants']
+    # Filtrar Rugby
+    rugby_keywords = [
+        'rugby', 'rugbi', 'six nations', 'seis naciones', 'super rugby',
+        'top 14', 'premiership rugby', 'champions cup', 'challenge cup',
+        'all blacks', 'pumas', 'wallabies', 'springboks'
+    ]
+    
+    for kw in rugby_keywords:
+        if kw in team1_lower or kw in team2_lower or kw in liga_lower:
+            print(f"🚫 Filtrado Rugby: {team1} vs {team2} (liga: {liga})")
+            return False
+    
+    nba_keywords = ['lakers', 'warriors', 'celtics', 'bulls', 'heat', 'bucks']
+    mlb_keywords = ['tigers', 'red sox', 'yankees', 'dodgers']
     
     for kw in nba_keywords:
         if kw in team1_lower or kw in team2_lower:
@@ -173,7 +335,7 @@ def normalize(text):
     return text
 
 # ============================================
-# BUSCAR EQUIPO (MODIFICADO CON DESAMBIGUACIÓN POR LIGA)
+# BUSCAR EQUIPO
 # ============================================
 
 def find_team(query, liga=None):
@@ -181,65 +343,46 @@ def find_team(query, liga=None):
         return {'name': query, 'country': 'unknown', 'confidence': 0}
     
     normalized_query = normalize(query)
+    sport = get_sport_from_liga(liga) if liga else 'soccer'
     
-    # Obtener país esperado de la liga (si se proporcionó)
-    expected_country = None
-    if liga:
-        expected_country = LEAGUE_TO_COUNTRY.get(liga, None)
-    
-    # PRIMERO: Buscar equipos que coincidan con el país de la liga
-    if expected_country:
-        for slug, team in TEAMS_DB.items():
-            if team.get('country') == expected_country:
-                if normalize(team['name']) == normalized_query:
-                    return {'name': team['name'], 'country': team['country'], 'confidence': 1.0}
-                for alias in team.get('aliases', []):
-                    if normalize(alias) == normalized_query:
-                        return {'name': team['name'], 'country': team['country'], 'confidence': 0.95}
-        
-        # Búsqueda parcial en equipos del país correcto
-        best_match = None
-        best_score = 0
-        for slug, team in TEAMS_DB.items():
-            if team.get('country') == expected_country:
-                if (normalize(team['name']) in normalized_query or 
-                    normalized_query in normalize(team['name'])):
-                    score = 0.85
-                    if score > best_score:
-                        best_score = score
-                        best_match = {'name': team['name'], 'country': team['country'], 'confidence': score}
-        
-        if best_match:
-            return best_match
-    
-    # SEGUNDO: Buscar en todos los equipos (sin filtro de país)
-    for slug, team in TEAMS_DB.items():
-        if normalize(team['name']) == normalized_query:
-            return {'name': team['name'], 'country': team['country'], 'confidence': 0.9}
-        for alias in team.get('aliases', []):
-            if normalize(alias) == normalized_query:
-                return {'name': team['name'], 'country': team['country'], 'confidence': 0.85}
-    
-    # Búsqueda parcial final
     best_match = None
     best_score = 0
+    
     for slug, team in TEAMS_DB.items():
-        if (normalize(team['name']) in normalized_query or 
-            normalized_query in normalize(team['name'])):
-            score = 0.7
-            if score > best_score:
-                best_score = score
-                best_match = {'name': team['name'], 'country': team['country'], 'confidence': score}
+        team_sport = team.get('sport', 'soccer')
+        
+        if sport in ['mlb', 'nba'] and team_sport != sport:
+            continue
+        
+        if normalize(team['name']) == normalized_query:
+            return {'name': team['name'], 'country': team.get('country', 'usa'), 'confidence': 1.0}
+        
+        for alias in team.get('aliases', []):
+            if normalize(alias) == normalized_query:
+                return {'name': team['name'], 'country': team.get('country', 'usa'), 'confidence': 0.95}
+        
+        if best_score < 0.9:
+            if (normalize(team['name']) in normalized_query or 
+                normalized_query in normalize(team['name'])):
+                score = 0.7
+                if score > best_score:
+                    best_score = score
+                    best_match = {'name': team['name'], 'country': team.get('country', 'usa'), 'confidence': score}
     
     return best_match or {'name': query, 'country': 'unknown', 'confidence': 0}
 
 # ============================================
-# OBTENER LOGO POR PAÍS O LIGA
+# OBTENER LOGO
 # ============================================
 
 def get_image(liga, country=None):
     if country and country in COUNTRY_IMAGES:
         return COUNTRY_IMAGES[country]
+    
+    if 'MLB' in liga:
+        return COUNTRY_IMAGES['mlb']
+    if 'NBA' in liga:
+        return COUNTRY_IMAGES['nba']
     
     for liga_key, country_value in LEAGUE_TO_COUNTRY.items():
         if liga_key.lower() in liga.lower():
@@ -248,38 +391,82 @@ def get_image(liga, country=None):
     return COUNTRY_IMAGES['default']
 
 # ============================================
-# RESOLVER PARTIDO (MODIFICADO)
+# CALCULAR HORA DE FINALIZACIÓN
+# ============================================
+
+def calcular_hora_fin(hora_inicio_utc, deporte):
+    if not hora_inicio_utc:
+        return None
+    
+    try:
+        duracion = SPORT_DURATION.get(deporte, SPORT_DURATION['default'])
+        hora_limpia = hora_inicio_utc.replace('Z', '')
+        
+        formatos = [
+            '%Y-%m-%dT%H:%M:%S',
+            '%Y-%m-%dT%H:%M',
+            '%Y-%m-%d %H:%M:%S',
+            '%Y-%m-%d %H:%M'
+        ]
+        
+        inicio_dt = None
+        for fmt in formatos:
+            try:
+                inicio_dt = datetime.strptime(hora_limpia, fmt)
+                break
+            except:
+                continue
+        
+        if not inicio_dt:
+            return None
+        
+        fin_dt = inicio_dt + timedelta(minutes=duracion)
+        return fin_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+    
+    except Exception as e:
+        print(f"  ⚠️ Error calculando hora fin: {e}")
+        return None
+
+# ============================================
+# RESOLVER PARTIDO
+# ============================================
+
+# ============================================
+# RESOLVER PARTIDO (CORREGIDO - LOGO POR DEPORTE)
 # ============================================
 
 def resolve_match(match_text, liga=''):
-    clean = match_text.replace('.', '').strip()
+    """Resuelve el partido usando la nueva función split_match_text"""
+    # Usar la nueva función mejorada
+    team1_name, team2_name = split_match_text(match_text)
     
-    parts = None
-    for sep in SEPARATORS:
-        if sep in clean:
-            parts = clean.split(sep)
-            break
-    
-    if not parts or len(parts) != 2:
+    if not team1_name or not team2_name:
         return None
     
-    team1_name = parts[0].strip()
-    team2_name = parts[1].strip()
-    
-    # Pasar la liga a find_team para desambiguar
     team1 = find_team(team1_name, liga)
     team2 = find_team(team2_name, liga)
     
     if not validate_sport_by_liga(team1['name'], team2['name'], liga):
-        print(f"⚠️ Deporte incompatible: {team1['name']} vs {team2['name']} - ignorando")
         return None
     
-    same_country = (team1['country'] != 'unknown' and team1['country'] == team2['country'])
+    sport = get_sport_from_liga(liga)
     
-    if same_country and team1['country'] != 'unknown':
-        image = COUNTRY_IMAGES.get(team1['country'], COUNTRY_IMAGES['default'])
+    # 🔥 DEPORTES QUE USAN LOGO PROPIO (NO LOGO DE PAÍS)
+    # NBA, MLB, NFL, UFC, WWE, Boxeo usan sus propios logos
+    deportes_con_logo_propio = ['nba', 'mlb', 'nfl', 'ufc', 'wwe', 'box']
+    
+    if sport in deportes_con_logo_propio:
+        # Usar logo del deporte específico (ej: img/nba.png, img/mlb.png)
+        image = COUNTRY_IMAGES.get(sport, COUNTRY_IMAGES['default'])
+        same_country = False  # Para estos deportes no importa el país
     else:
-        image = get_image(liga, None)
+        # Para fútbol, verificar si son del mismo país
+        same_country = (team1['country'] != 'unknown' and team1['country'] == team2['country'])
+        
+        if same_country and team1['country'] != 'unknown':
+            image = COUNTRY_IMAGES.get(team1['country'], COUNTRY_IMAGES['default'])
+        else:
+            image = get_image(liga, None)
     
     return {
         'team1': team1['name'],
@@ -289,11 +476,11 @@ def resolve_match(match_text, liga=''):
         'same_country': same_country,
         'confidence': round((team1['confidence'] + team2['confidence']) / 2, 2),
         'image': image,
-        'sport': get_sport_from_liga(liga)
+        'sport': sport
     }
 
 # ============================================
-# GENERAR matches.json UNIFICADO (CON PRIORIZACIÓN POR PAÍS)
+# GENERAR matches.json
 # ============================================
 
 def generate_matches_json(input_file=None, output_file=None):
@@ -312,6 +499,7 @@ def generate_matches_json(input_file=None, output_file=None):
     
     unified = {}
     partidos_ignorados = 0
+    rugby_filtrados = 0
     
     for item in raw_matches:
         match_text = item.get('equipos') or item.get('match') or item.get('title')
@@ -320,7 +508,6 @@ def generate_matches_json(input_file=None, output_file=None):
         
         liga = item.get('liga', '').replace(':', '')
         
-        # 🔥 APLICAR NORMALIZACIÓN ESPECIAL PARA UFC/WWE
         if 'UFC' in liga or 'WWE' in liga:
             key = normalizar_evento_especial(match_text, liga)
             resolved = {
@@ -340,14 +527,19 @@ def generate_matches_json(input_file=None, output_file=None):
             partidos_ignorados += 1
             continue
         
-        fecha = item.get('hora_utc', '')[:10] if item.get('hora_utc') else ''
+        if 'rugby' in liga.lower() or 'rugby' in match_text.lower():
+            rugby_filtrados += 1
+            continue
         
-        # Crear clave de unificación
+        fecha = item.get('hora_utc', '')[:10] if item.get('hora_utc') else ''
         key = f"{resolved['team1']} vs {resolved['team2']}|{fecha}"
+        
+        hora_fin = calcular_hora_fin(item.get('hora_utc', ''), resolved.get('sport', 'soccer'))
         
         if key not in unified:
             unified[key] = {
                 'hora_utc': item.get('hora_utc', ''),
+                'hora_fin_utc': hora_fin,
                 'liga': liga,
                 'equipos': f"{resolved['team1']} vs {resolved['team2']}" if resolved['team2'] else resolved['team1'],
                 'team1': resolved['team1'],
@@ -362,33 +554,24 @@ def generate_matches_json(input_file=None, output_file=None):
             }
         else:
             existing = unified[key]
-            
-            # 🔥 REGLA GENÉRICA: Priorizar liga por país del equipo
             country_from_league = LEAGUE_TO_COUNTRY.get(liga, '')
             team_country = resolved['team1_country'] or resolved['team2_country']
             
-            # Si la nueva liga coincide con el país del equipo, actualizar
             if country_from_league == team_country and team_country != 'unknown':
                 existing['liga'] = liga
-            # Si la liga actual es incorrecta (país no coincide) y la nueva sí
             elif existing.get('liga'):
                 existing_country = LEAGUE_TO_COUNTRY.get(existing['liga'], '')
                 if existing_country != team_country and country_from_league == team_country:
                     existing['liga'] = liga
-            
-            # Para UFC/WWE, actualizar el nombre si es más completo
-            if ('UFC' in liga or 'WWE' in liga) and len(match_text) > len(existing['equipos']):
-                existing['equipos'] = match_text
         
-        # Agregar canales (sin duplicar)
         for canal in item.get('canales', []):
             url = canal.get('url', '')
             if not url:
                 continue
             
             exists = False
-            for existing in unified[key]['canales']:
-                if existing.get('url') == url:
+            for existing_canal in unified[key]['canales']:
+                if existing_canal.get('url') == url:
                     exists = True
                     break
             
@@ -407,7 +590,9 @@ def generate_matches_json(input_file=None, output_file=None):
     
     print(f"✅ Generado {output_file} con {len(matches_list)} partidos unificados")
     if partidos_ignorados > 0:
-        print(f"⚠️ Partidos ignorados por deporte incompatible: {partidos_ignorados}")
+        print(f"⚠️ Partidos ignorados por formato inválido: {partidos_ignorados}")
+    if rugby_filtrados > 0:
+        print(f"🚫 Eventos de Rugby filtrados: {rugby_filtrados}")
     
     deportes = defaultdict(int)
     for m in matches_list:
