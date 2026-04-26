@@ -1078,7 +1078,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Widzew Łódź vs Motor Lublin",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -1089,27 +1089,165 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T13:00:00Z",
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/default.png",
+    "liga": "Super League",
+    "equipos": "Kifisia vs Panaitolikos",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "Cosmote Sport 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Pendikspor vs Boluspor",
+    "status": "finished",
+    "canales": [],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Amed SK vs Bodrumspor",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Sarıyer vs Erokspor",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "BB Erzurumspor vs Bandırmaspor",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Sakaryaspor vs Çorum Belediyespor",
+    "status": "finished",
+    "canales": [],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Sivasspor vs Iğdır FK",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "TRT Spor",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/tr.png",
+    "liga": "1. Lig",
+    "equipos": "Keçiörengücü vs Manisa BBSK",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "TRT Spor",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "logo": "img/default.png",
+    "liga": "Ligue 1",
+    "equipos": "Lorient vs Strasbourg",
+    "status": "finished",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS N",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Nova Sport",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport 5",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Genoa vs Como",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+1",
-        "url": "https://streamtpnew.com/global1.php?stream=disney1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fox_Deportes_Usa",
-        "url": "https://streamtpnew.com/global1.php?stream=fox_deportes_usa",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnmx",
-        "url": "https://streamtpnew.com/global1.php?stream=espnmx",
-        "calidad": "720p"
-      },
       {
         "nombre": "FOX Deportes",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free",
@@ -1191,179 +1329,6 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Ligue 1",
-    "equipos": "Lorient vs Strasbourg",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+2",
-        "url": "https://streamtpnew.com/global1.php?stream=disney2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "beIN SPORTS",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS N",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Nova Sport",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport 5",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Primera División",
-    "equipos": "Central Español vs Cerro",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+3",
-        "url": "https://streamtpnew.com/global1.php?stream=disney3",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/default.png",
-    "liga": "Super League",
-    "equipos": "Kifisia vs Panaitolikos",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "Cosmote Sport 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+1&code=gr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Pendikspor vs Boluspor",
-    "status": "live",
-    "canales": [],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Amed SK vs Bodrumspor",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+4&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Sarıyer vs Erokspor",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "BB Erzurumspor vs Bandırmaspor",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Sakaryaspor vs Çorum Belediyespor",
-    "status": "live",
-    "canales": [],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Sivasspor vs Iğdır FK",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "TRT Spor",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T13:00Z",
-    "logo": "img/tr.png",
-    "liga": "1. Lig",
-    "equipos": "Keçiörengücü vs Manisa BBSK",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "TRT Spor",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
   },
   {
@@ -1371,7 +1336,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Vizela vs Sporting CP II",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -1380,7 +1345,7 @@
     "logo": "img/default.png",
     "liga": "Scottish Premiership",
     "equipos": "Dundee United vs Dundee",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "CBS Sports Golazo",
@@ -1411,22 +1376,12 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T13:30:00Z",
+    "hora_utc": "2026-04-26T13:30Z",
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Stuttgart vs Werder Bremen",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+4",
-        "url": "https://streamtpnew.com/global1.php?stream=disney4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free",
@@ -1503,14 +1458,14 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-26T13:30Z",
     "logo": "img/default.png",
     "liga": "Parva Liga",
     "equipos": "Lokomotiv Plovdiv vs Cherno More",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Diema Sport 1",
@@ -1521,32 +1476,12 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T14:00:00Z",
+    "hora_utc": "2026-04-26T14:00Z",
     "logo": "img/default.png",
     "liga": "FA Cup",
     "equipos": "Chelsea vs Leeds United",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Disney+5",
-        "url": "https://streamtpnew.com/global1.php?stream=disney5",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Max 1",
-        "url": "https://streamtpnew.com/global1.php?stream=max1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 5",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus5",
-        "calidad": "720p"
-      },
       {
         "nombre": "ESPN 2",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free",
@@ -1673,7 +1608,7 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-26T14:15:00Z",
@@ -1696,27 +1631,42 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T14:15:00Z",
+    "hora_utc": "2026-04-26T14:15Z",
     "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Real Oviedo vs Elche",
-    "status": "en vivo",
+    "liga": "Segunda Division",
+    "equipos": "Mirandés vs Cultural Leonesa",
+    "status": "finished",
     "canales": [
       {
-        "nombre": "Dsports",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports",
-        "calidad": "720p"
-      },
+        "nombre": "beIN SPORTS XTRA",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T14:15Z",
+    "logo": "img/es.png",
+    "liga": "Segunda Division",
+    "equipos": "Granada vs Almería",
+    "status": "finished",
+    "canales": [
       {
-        "nombre": "Espnplus 3",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 4",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus4",
-        "calidad": "720p"
-      },
+        "nombre": "LaLiga TV Hypermotion 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "cdn"
+  },
+  {
+    "hora_utc": "2026-04-26T14:15Z",
+    "logo": "img/es.png",
+    "liga": "La Liga",
+    "equipos": "Real Oviedo vs Elche",
+    "status": "finished",
+    "canales": [
       {
         "nombre": "beIN SPORTS 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=us&user=cdnlivetv&plan=free",
@@ -1793,69 +1743,14 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T14:15:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga 2",
-    "equipos": "Granada vs Almería",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "LaLiga TV Hypermotion 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T14:15Z",
-    "logo": "img/es.png",
-    "liga": "Segunda Division",
-    "equipos": "Mirandés vs Cultural Leonesa",
-    "status": "live",
-    "canales": [
-      {
-        "nombre": "beIN SPORTS XTRA",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+xtra&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ],
     "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T14:30:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "Arsenal vs OL Lyonnes",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Disney+6",
-        "url": "https://streamtpnew.com/global1.php?stream=disney6",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn5",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
   },
   {
     "hora_utc": "2026-04-26T14:30Z",
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Estoril vs Famalicão",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport TV 2",
@@ -1870,7 +1765,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Penafiel vs Porto II",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Sport TV 4",
@@ -1930,7 +1825,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Le Havre vs Metz",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+7",
@@ -1955,7 +1850,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Paris vs Lille",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+8",
@@ -2010,7 +1905,7 @@
     "logo": "img/default.png",
     "liga": "Ligue 1",
     "equipos": "Rennes vs Nantes",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+9",
@@ -2045,7 +1940,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs Freiburg",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+10",
@@ -2259,7 +2154,7 @@
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Torino vs Inter",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+11",
@@ -2274,7 +2169,7 @@
     "logo": "img/pe.png",
     "liga": "Liga 1",
     "equipos": "UTC Cajamarca vs Cienciano",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 1",
@@ -2289,7 +2184,7 @@
     "logo": "img/default.png",
     "liga": "Parva Liga",
     "equipos": "Arda vs Botev Plovdiv",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Diema Sport 1",
@@ -2304,7 +2199,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Team Altamura vs Virtus Casarano",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2313,7 +2208,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Crotone vs Latina",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2322,7 +2217,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Benevento vs Audace Cerignola",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2331,7 +2226,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Picerno vs Sorrento",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2340,7 +2235,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Cavese vs Cosenza",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2349,7 +2244,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Foggia vs Salernitana",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2358,7 +2253,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Atalanta II vs Catania",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sky Sport Max",
@@ -2373,7 +2268,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Casertana vs Giugliano",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2382,7 +2277,7 @@
     "logo": "img/default.png",
     "liga": "Serie C",
     "equipos": "Potenza Calcio vs Monopoli",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2391,7 +2286,7 @@
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Torino vs Internazionale",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "SuperSport Football",
@@ -2526,7 +2421,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Osasuna vs Sevilla",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Disney+12",
@@ -2656,7 +2551,7 @@
     "logo": "img/es.png",
     "liga": "LaLiga 2",
     "equipos": "Huesca vs Real Zaragoza",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Laligahypermotion",
@@ -2676,7 +2571,7 @@
     "logo": "img/cl.png",
     "liga": "Liga de",
     "equipos": "La Serena vs Huachipato",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Max 2",
@@ -2696,7 +2591,7 @@
     "logo": "img/es.png",
     "liga": "Segunda Division",
     "equipos": "Leganés vs FC Andorra",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -2820,7 +2715,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Santa Clara vs Sporting Braga",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS MAX 10",
@@ -2840,7 +2735,7 @@
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
     "equipos": "Estrela vs Porto",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS MAX 4",
@@ -2890,7 +2785,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Benfica II vs Marítimo",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Benfica TV",
@@ -2905,7 +2800,7 @@
     "logo": "img/default.png",
     "liga": "Super League",
     "equipos": "Larissa vs Panserraikos",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Cosmote Sport 1",
@@ -2925,7 +2820,7 @@
     "logo": "img/default.png",
     "liga": "Ligat Ha'Al",
     "equipos": "Hapoel Katamon vs Hapoel Haifa",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport 2",
@@ -2940,7 +2835,7 @@
     "logo": "img/default.png",
     "liga": "NB1",
     "equipos": "Debrecen vs Győri ETO",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "M4 Sports",

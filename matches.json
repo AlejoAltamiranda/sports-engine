@@ -1339,191 +1339,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T13:00:00Z",
-    "liga": "Serie A",
-    "equipos": "Genoa vs Como 1907",
-    "team1": "Genoa",
-    "team2": "Como 1907",
-    "team1_country": "italy",
-    "team2_country": "italy",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/it.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+1",
-        "url": "https://streamtpnew.com/global1.php?stream=disney1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fox_Deportes_Usa",
-        "url": "https://streamtpnew.com/global1.php?stream=fox_deportes_usa",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnmx",
-        "url": "https://streamtpnew.com/global1.php?stream=espnmx",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "SuperSport Football",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "M Liga de Campeones 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DAZN 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport TV 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Ziggo Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cosmote Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Eleven Sports 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Match Football 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Max Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Cytavision Sports 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TV4 Sport Live 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+4&code=se&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Digi Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Prima Sport 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T13:00:00Z",
-    "liga": "Ligue 1",
-    "equipos": "FC Lorient vs RC Strasbourg",
-    "team1": "FC Lorient",
-    "team2": "RC Strasbourg",
-    "team1_country": "france",
-    "team2_country": "france",
-    "same_country": true,
-    "confidence": 0.95,
-    "image": "img/fr.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+2",
-        "url": "https://streamtpnew.com/global1.php?stream=disney2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "beIN SPORTS",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Canal Sport 2",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS N",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Nova Sport",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Arena Sport 4",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sport 5",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "beIN SPORTS 3",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T13:00:00Z",
-    "liga": "Primera División",
-    "equipos": "Central Español vs CA Cerro",
-    "team1": "Central Español",
-    "team2": "CA Cerro",
-    "team1_country": "uruguay",
-    "team2_country": "uruguay",
-    "same_country": true,
-    "confidence": 0.88,
-    "image": "img/uy.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+3",
-        "url": "https://streamtpnew.com/global1.php?stream=disney3",
-        "calidad": "720p"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-26T13:00Z",
     "liga": "Super League",
     "equipos": "Kifisia vs Panaitolikos",
@@ -1673,6 +1488,151 @@
   },
   {
     "hora_utc": "2026-04-26T13:00Z",
+    "liga": "Ligue 1",
+    "equipos": "FC Lorient vs RC Strasbourg",
+    "team1": "FC Lorient",
+    "team2": "RC Strasbourg",
+    "team1_country": "france",
+    "team2_country": "france",
+    "same_country": true,
+    "confidence": 0.95,
+    "image": "img/fr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "beIN SPORTS",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=canal+sport+2&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS N",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+n&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Nova Sport",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=nova+sport&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+4&code=hr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport 5",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "beIN SPORTS 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=sa&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
+    "liga": "Serie A",
+    "equipos": "Genoa vs Como 1907",
+    "team1": "Genoa",
+    "team2": "Como 1907",
+    "team1_country": "italy",
+    "team2_country": "italy",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/it.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "SuperSport Football",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "M Liga de Campeones 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=m+liga+de+campeones+1&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DAZN 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sport TV 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+3&code=pt&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Ziggo Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=ziggo+sport+3&code=nl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cosmote Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cosmote+sport+2&code=gr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Eleven Sports 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=eleven+sports+1&code=pl&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Match Football 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=match+football+1&code=ru&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Max Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=max+sport+3&code=bg&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Cytavision Sports 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=cytavision+sports+4&code=cy&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Arena Sport 2",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TV4 Sport Live 4",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+sport+live+4&code=se&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=mx&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Digi Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+3&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Prima Sport 3",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=prima+sport+3&code=ro&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T13:00Z",
     "liga": "Segunda liga",
     "equipos": "Vizela vs Sporting CP",
     "team1": "Vizela",
@@ -1726,7 +1686,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T13:30:00Z",
+    "hora_utc": "2026-04-26T13:30Z",
     "liga": "Bundesliga",
     "equipos": "VfB Stuttgart vs Werder Bremen",
     "team1": "VfB Stuttgart",
@@ -1738,16 +1698,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+4",
-        "url": "https://streamtpnew.com/global1.php?stream=disney4",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn2",
-        "url": "https://streamtpnew.com/global1.php?stream=espn2",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free",
@@ -1851,7 +1801,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T14:00:00Z",
+    "hora_utc": "2026-04-26T14:00Z",
     "liga": "FA Cup",
     "equipos": "Chelsea vs Leeds United",
     "team1": "Chelsea",
@@ -1863,26 +1813,6 @@
     "image": "img/en.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+5",
-        "url": "https://streamtpnew.com/global1.php?stream=disney5",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Max 1",
-        "url": "https://streamtpnew.com/global1.php?stream=max1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 5",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus5",
-        "calidad": "720p"
-      },
       {
         "nombre": "ESPN 2",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free",
@@ -2012,7 +1942,7 @@
   },
   {
     "hora_utc": "2026-04-26T14:15:00Z",
-    "liga": "LaLiga",
+    "liga": "La Liga",
     "equipos": "Real Oviedo vs Elche",
     "team1": "Real Oviedo",
     "team2": "Elche",
@@ -2031,21 +1961,6 @@
       {
         "nombre": "Dsports (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/dsports-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Dsports",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 3",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus3",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 4",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus4",
         "calidad": "720p"
       },
       {
@@ -2126,31 +2041,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T14:15:00Z",
-    "liga": "LaLiga 2",
-    "equipos": "Granada vs Almería",
-    "team1": "Granada",
-    "team2": "Almería",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/es.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "LaLiga TV Hypermotion 1",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-26T14:15Z",
     "liga": "Segunda Division",
     "equipos": "Mirandés vs León",
@@ -2171,27 +2061,22 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T14:30:00Z",
-    "liga": "UEFA Women's Champions League",
-    "equipos": "Arsenal vs OL Lyonnes",
-    "team1": "Arsenal",
-    "team2": "OL Lyonnes",
-    "team1_country": "england",
+    "hora_utc": "2026-04-26T14:15Z",
+    "liga": "Segunda Division",
+    "equipos": "Granada vs Almería",
+    "team1": "Granada",
+    "team2": "Almería",
+    "team1_country": "unknown",
     "team2_country": "unknown",
     "same_country": false,
-    "confidence": 0.45,
+    "confidence": 0.0,
     "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
-        "nombre": "Disney+6",
-        "url": "https://streamtpnew.com/global1.php?stream=disney6",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn5",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
-        "calidad": "720p"
+        "nombre": "LaLiga TV Hypermotion 1",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
+        "calidad": "HD"
       }
     ]
   },
