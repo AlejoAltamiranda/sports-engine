@@ -689,7 +689,7 @@
     "logo": "img/default.png",
     "liga": "2. liga",
     "equipos": "Slavia Praha II vs Zbrojovka Brno",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -698,7 +698,7 @@
     "logo": "img/default.png",
     "liga": "FNL",
     "equipos": "Chelyabinsk vs Ural",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Match Premier",
@@ -713,7 +713,7 @@
     "logo": "img/pt.png",
     "liga": "Segunda liga",
     "equipos": "Lusitania FC Lourosa vs Paços de Ferreira",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sport TV 1",
@@ -728,7 +728,7 @@
     "logo": "img/nl.png",
     "liga": "Eredivisie",
     "equipos": "Excelsior vs Utrecht",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "ESPN 2",
@@ -743,7 +743,7 @@
     "logo": "img/default.png",
     "liga": "Ekstraklasa",
     "equipos": "Wisła Płock vs Radomiak Radom",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Canal Sport 3",
@@ -768,7 +768,7 @@
     "logo": "img/default.png",
     "liga": "Serie A",
     "equipos": "Fiorentina vs Sassuolo",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "SuperSport Football",
@@ -858,7 +858,7 @@
     "logo": "img/default.png",
     "liga": "Parva Liga",
     "equipos": "Slavia Sofia vs Botev Vratsa",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Diema Sport 1",
@@ -873,7 +873,7 @@
     "logo": "img/default.png",
     "liga": "Virsliga",
     "equipos": "Auda vs Tukums",
-    "status": "upcoming",
+    "status": "live",
     "canales": [],
     "fuente": "cdn"
   },
@@ -882,7 +882,7 @@
     "logo": "img/default.png",
     "liga": "Liga I",
     "equipos": "UTA Arad vs Farul Constanța",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Digi Sport 1",
@@ -902,7 +902,7 @@
     "logo": "img/default.png",
     "liga": "Championship",
     "equipos": "Coventry City vs Wrexham",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Astro Football",
@@ -997,7 +997,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Nürnberg vs Magdeburg",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Sky Sport Bundesliga 3",
@@ -1027,7 +1027,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Bochum vs Greuther Fürth",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Italia 1",
@@ -1047,7 +1047,7 @@
     "logo": "img/de.png",
     "liga": "Bundesliga 2",
     "equipos": "Paderborn vs Schalke 04",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS 3",
@@ -1107,7 +1107,7 @@
     "logo": "img/tr.png",
     "liga": "Super Lig",
     "equipos": "Gençlerbirliği vs Kocaelispor",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "beIN SPORTS 1",
