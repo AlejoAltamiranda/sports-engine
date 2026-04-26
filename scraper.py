@@ -8,10 +8,8 @@ from collections import defaultdict
 # CONFIGURACIÓN GLOBAL
 # ============================================
 SOURCES = {
-    'github': 'https://raw.githubusercontent.com/AlejoAltamiranda/stream/refs/heads/main/events.json',
-    'elcanal': 'https://elcanaldeportivo.com/partidos.json',
-    'streamtp': 'https://streamtpnew.com/eventos.json',
-    'cdn': 'https://api.cdnlivetv.tv/api/v1/events/sports/soccer/?user=cdnlivetv&plan=free'
+    'pltvhd': 'https://pltvhd.com/diaries.json',
+    'github': 'https://raw.githubusercontent.com/AlejoAltamiranda/stream/refs/heads/main/events.json'
 }
 OUTPUT_FILE = 'scraper_output.json'
 
@@ -112,18 +110,18 @@ def formatear_utc(hora_str):
 def procesar_hora_segun_fuente(hora_str, fuente, fecha_ref=None):
     """
     Procesa la hora según la fuente con detección automática
-    - cdn, github: siempre UTC → formatear
-    - elcanal, streamtp: detectar si es UTC o LOCAL → actuar según corresponda
+    - github: siempre UTC → formatear
+    - pltvhd: detectar si es UTC o LOCAL → actuar según corresponda
     """
     if not hora_str:
         return None
     
     # Fuentes que siempre son UTC (no necesitan detección)
-    if fuente in ['cdn', 'github']:
+    if fuente == 'github':
         return formatear_utc(hora_str)
     
     # Fuentes que pueden ser UTC o LOCAL (detección automática)
-    if fuente in ['elcanal', 'streamtp']:
+    if fuente == 'pltvhd':
         tipo = detectar_tipo_hora(hora_str)
         if tipo == 'utc':
             print(f"  🔍 {fuente}: UTC detectado → {hora_str}")
@@ -133,33 +131,6 @@ def procesar_hora_segun_fuente(hora_str, fuente, fecha_ref=None):
             return convertir_local_a_utc(hora_str, fecha_ref)
     
     return hora_str
-
-# ============================================
-# MAPEO DE URLs (elcanaldeportivo)
-# ============================================
-URL_MAPPING = {
-    "/ver/dsports2.php": "https://elcanaldeportivo.com/ver/dsports2.php",
-    "/ver/directvsportsplus.php": "https://elcanaldeportivo.com/ver/directvsportsplus.php",
-    "/ver/espn2.php": "https://elcanaldeportivo.com/ver/espn2.php",
-    "/ver/espn4.php": "https://elcanaldeportivo.com/ver/espn4.php",
-    "/ver/tntsportspremium.php": "https://elcanaldeportivo.com/ver/tntsportspremium.php",
-    "/ver/winsportsmas.php": "https://elcanaldeportivo.com/ver/winsportsmas.php",
-    "/ver/elcanaldelfutbol.php": "https://elcanaldeportivo.com/ver/elcanaldelfutbol.php",
-    "/ver/liga1maxpe.php": "https://elcanaldeportivo.com/ver/liga1maxpe.php",
-    "/ver/espnpremium.php": "https://elcanaldeportivo.com/ver/espnpremium.php",
-    "/ver/espn.php": "https://elcanaldeportivo.com/ver/espn.php",
-    "/ver/espn-sharecast.php": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
-    "default": "https://elcanaldeportivo.com"
-}
-
-def fix_elcanal_url(url):
-    if not url:
-        return url
-    if url.startswith('http://') or url.startswith('https://'):
-        return url
-    if url in URL_MAPPING:
-        return URL_MAPPING[url]
-    return f"https://elcanaldeportivo.com{url}"
 
 # ============================================
 # MAPEO DE LIGAS A PAÍSES (para logos)
@@ -184,7 +155,11 @@ TOURNAMENT_TO_COUNTRY = {
     'MLB': 'mlb',
     'NBA': 'nba',
     'WWE': 'wwe',
-    'UFC': 'ufc'
+    'UFC': 'ufc',
+    'Boxing': 'box',
+    'NFL': 'nfl',
+    'NHL': 'nhl',
+
 }
 
 COUNTRY_LOGO = {
@@ -194,7 +169,8 @@ COUNTRY_LOGO = {
     'ecuador': 'img/ec.png', 'turkey': 'img/tr.png', 'usa': 'img/usa.png', 
     'arabia': 'img/sa.png', 'paraguay': 'img/py.png', 'uruguay': 'img/uy.png',
     'mexico': 'img/mx.png', 'nba': 'img/nba.png', 'mlb': 'img/mlb.png', 'wwe': 'img/wwe.png', 
-    'champions':'img/champions.png', 'ufc': 'img/ufc.png', 'default': 'img/default.png'
+    'champions':'img/champions.png', 'ufc': 'img/ufc.png', 'box': 'img/box.png', 
+    'nhl': 'img/nhl.png', 'nfl': 'img/nfl.png', 'default': 'img/default.png'
 }
 
 # ============================================
@@ -282,102 +258,123 @@ def process_github_source(data):
     
     return matches
 
-def process_elcanal_source(data):
+def process_pltvhd_source(data):
+    """Procesador para PLTVHD con filtro que excluye partidos de Rugby"""
     matches = []
     if not data:
         return matches
     
+    # Palabras clave para detectar Rugby (y otros deportes no deseados)
+    PALABRAS_RUGBY = [
+        'rugby', 'rugbi', 'six nations', 'seis naciones', 'super rugby',
+        'top 14', 'premiership rugby', 'champions cup', 'challenge cup',
+        'uruguay rugby', 'chile rugby', 'argentina rugby', 'brasil rugby',
+        'rugby championship', 'the rugby championship', 'test match'
+    ]
+    
     today = datetime.now()
     
-    for item in data:
-        if 'equipos' not in item:
-            continue
+    # La estructura tiene un objeto 'data' que contiene la lista de eventos
+    events_list = data.get('data', []) if isinstance(data, dict) else []
+    eventos_filtrados = 0
+    
+    for item in events_list:
+        # Extraer attributes
+        attrs = item.get('attributes', {})
         
-        liga = item.get('liga', 'Fútbol').replace(':', '')
-        hora_raw = item.get('hora_utc', '')
-        hora_utc = procesar_hora_segun_fuente(hora_raw, 'elcanal', today)
+        # Obtener la descripción del evento (ej: "Primera División: Oriente Petrolero vs Real Potosí")
+        diary_description = attrs.get('diary_description', '')
         
-        canales_fixed = []
-        for ch in item.get('canales', []):
-            original_url = ch.get('url', '')
-            canales_fixed.append({
-                'nombre': ch.get('nombre'),
-                'url': fix_elcanal_url(original_url),
-                'calidad': ch.get('calidad', '720p')
+        # 🔥 FILTRAR RUGBY: Convertir a minúsculas y verificar palabras clave
+        desc_lower = diary_description.lower()
+        es_rugby = False
+        for palabra in PALABRAS_RUGBY:
+            if palabra in desc_lower:
+                es_rugby = True
+                eventos_filtrados += 1
+                print(f"  🏉 Filtrado Rugby: {diary_description[:60]}...")
+                break
+        
+        if es_rugby:
+            continue  # Saltar este evento
+        
+        # Extraer liga y equipos de la descripción
+        liga = ''
+        equipos = ''
+        if ': ' in diary_description:
+            liga, equipos = diary_description.split(': ', 1)
+        else:
+            equipos = diary_description
+            liga = 'Fútbol'
+        
+        # Obtener fecha y hora
+        date_diary = attrs.get('date_diary', '')  # Formato: "2026-04-26"
+        diary_hour = attrs.get('diary_hour', '')  # Formato: "18:30:00"
+        
+        # Construir hora completa en formato local (Colombia UTC-5)
+        if date_diary and diary_hour:
+            hora_local = f"{date_diary} {diary_hour[:5]}"  # Tomar solo HH:MM
+        else:
+            hora_local = ''
+        
+        # Procesar hora (asumimos que es hora LOCAL de Colombia)
+        hora_utc = procesar_hora_segun_fuente(hora_local, 'pltvhd', today)
+        
+        # Obtener los canales/embeds
+        canales = []
+        embeds = attrs.get('embeds', {})
+        embeds_data = embeds.get('data', []) if isinstance(embeds, dict) else []
+        
+        for embed in embeds_data:
+            embed_attrs = embed.get('attributes', {})
+            embed_name = embed_attrs.get('embed_name', 'Canal')
+            embed_iframe = embed_attrs.get('embed_iframe', '')
+            
+            # Construir URL completa si es necesario
+            if embed_iframe and embed_iframe.startswith('/'):
+                embed_url = f"https://pltvhd.com{embed_iframe}"
+            else:
+                embed_url = embed_iframe
+            
+            canales.append({
+                'nombre': embed_name,
+                'url': embed_url,
+                'calidad': 'HD'
             })
         
-        matches.append({
-            'hora_utc': hora_utc,
-            'logo': get_logo(liga),
-            'liga': liga,
-            'equipos': item['equipos'],
-            'status': 'pronto',
-            'canales': canales_fixed,
-            'fuente': 'elcanal'
-        })
-    
-    return matches
-
-def process_streamtp_source(data):
-    matches, grouped = [], defaultdict(lambda: {'channels': [], 'status': ''})
-    if not data:
-        return matches
-    
-    today = datetime.now()
-    
-    for item in data:
-        key = f"{item.get('title')}|{item.get('time')}"
-        grouped[key]['channels'].append({
-            'nombre': extract_channel_name(item.get('link', '')),
-            'url': item.get('link'),
-            'calidad': '720p'
-        })
-        grouped[key]['status'] = item.get('status', '')
-    
-    for key, info in grouped.items():
-        title, time_str = key.split('|')
-        if ': ' in title:
-            liga, equipos = title.split(': ', 1)
-        else:
-            liga, equipos = 'Fútbol', title
+        # Si no hay canales en embeds, revisar channels
+        if not canales:
+            channels = attrs.get('channels', {})
+            channels_data = channels.get('data', []) if isinstance(channels, dict) else []
+            for channel in channels_data:
+                channel_attrs = channel.get('attributes', {})
+                channel_name = channel_attrs.get('channel_name', 'Canal')
+                channel_url = channel_attrs.get('channel_url', '')
+                canales.append({
+                    'nombre': channel_name,
+                    'url': channel_url,
+                    'calidad': 'HD'
+                })
         
-        hora_utc = procesar_hora_segun_fuente(time_str, 'streamtp', today)
+        # Si todavía no hay canales, agregar un placeholder
+        if not canales:
+            canales = [{'nombre': 'Canal 1', 'url': '#', 'calidad': 'HD'}]
         
-        matches.append({
-            'hora_utc': hora_utc,
-            'logo': get_logo(liga),
-            'liga': liga,
-            'equipos': equipos,
-            'status': info['status'],
-            'canales': info['channels'],
-            'fuente': 'streamtp'
-        })
-    return matches
-
-def process_cdn_source(data):
-    matches = []
-    if not data:
-        return matches
-    events = data.get('cdn-live-tv', {}).get('Soccer', [])
-    for event in events:
-        home, away = event.get('homeTeam'), event.get('awayTeam')
-        if not home or not away:
-            continue
-        equipos = f"{home} vs {away}"
-        liga = event.get('tournament', 'Fútbol')
-        hora_raw = event.get('start', '')
-        hora_utc = procesar_hora_segun_fuente(hora_raw, 'cdn')
-        logo = get_logo(liga, event.get('country'))
-        canales = [{'nombre': ch.get('channel_name', 'Canal'), 'url': ch.get('url', ''), 'calidad': 'HD'} for ch in event.get('channels', [])]
+        logo = get_logo(liga)
+        
         matches.append({
             'hora_utc': hora_utc,
             'logo': logo,
             'liga': liga,
             'equipos': equipos,
-            'status': event.get('status', 'pronto'),
+            'status': 'pronto',
             'canales': canales,
-            'fuente': 'cdn'
+            'fuente': 'pltvhd'
         })
+    
+    if eventos_filtrados > 0:
+        print(f"  🏉 TOTAL: {eventos_filtrados} eventos de Rugby filtrados y descartados")
+    
     return matches
 
 # ============================================
@@ -388,10 +385,8 @@ def run_scraper():
     print('\n🏆 SCRAPER MULTIFUENTE (TODO a UTC con detección)\n')
     all_matches = []
     processors = [
-        ('GitHub (MLB)', SOURCES['github'], process_github_source),
-        ('ElCanalDeportivo', SOURCES['elcanal'], process_elcanal_source),
-        ('StreamTPNew', SOURCES['streamtp'], process_streamtp_source),
-        ('CDN Live TV', SOURCES['cdn'], process_cdn_source)
+        ('PLTVHD', SOURCES['pltvhd'], process_pltvhd_source),
+        ('GitHub (MLB)', SOURCES['github'], process_github_source)
     ]
     
     for name, url, processor in processors:
@@ -399,7 +394,7 @@ def run_scraper():
         data = fetch_json(url)
         if data:
             matches = processor(data)
-            print(f'   ✅ {len(matches)} partidos')
+            print(f'   ✅ {len(matches)} partidos (después de filtrar Rugby)')
             all_matches.extend(matches)
         else:
             print(f'   ❌ Sin datos')
