@@ -31,6 +31,7 @@ COUNTRY_IMAGES = {
     'mlb': 'img/mlb.png',
     'wwe': 'img/wwe.png',
     'ufc': 'img/ufc.png',
+    'box': 'img/box.png',
     'default': 'img/default.png'
 }
 
@@ -54,6 +55,7 @@ LEAGUE_TO_COUNTRY = {
     'Pro League': 'arabia', 
     'MLS': 'usa', 'Major League Soccer': 'usa',
     'MLB': 'mlb', 'NBA': 'nba', 'WWE': 'wwe', 'UFC': 'ufc',
+    'boxing': 'box', 'Boxeo': 'box',
 }
 
 SEPARATORS = [' vs ', ' v ', ' - ', ' vs. ', ' versus ']
@@ -77,6 +79,38 @@ def load_teams():
         return {}
 
 TEAMS_DB = load_teams()
+
+# ============================================
+# NORMALIZACIÓN DE EVENTOS ESPECIALES (UFC/WWE)
+# ============================================
+
+def normalizar_evento_especial(match_text, liga):
+    """Normaliza eventos UFC/WWE por palabras exactas"""
+    if not match_text:
+        return match_text
+    
+    # Solo UFC o WWE
+    if 'UFC' not in liga and 'WWE' not in liga:
+        return match_text
+    
+    # 1. Limpiar texto
+    texto_limpio = match_text.lower()
+    
+    # 2. Palabras a eliminar (exactas)
+    palabras_eliminar = [
+        'preliminares', 'prelims', 'early', 'fight night', 'ufc', 'wwe',
+        'main card', 'espn', 'ppv', 'live', 'results', 'highlights',
+        'post fight', 'ceremonial', 'weigh-in', 'predictions'
+    ]
+    
+    for palabra in palabras_eliminar:
+        texto_limpio = re.sub(rf'\b{palabra}\b', '', texto_limpio)
+    
+    # 3. Limpiar puntuación y espacios extra
+    texto_limpio = re.sub(r'[^\w\s]', '', texto_limpio)
+    texto_limpio = re.sub(r'\s+', ' ', texto_limpio).strip()
+    
+    return texto_limpio
 
 # ============================================
 # DETECCIÓN DE DEPORTE POR LIGA
@@ -259,7 +293,7 @@ def resolve_match(match_text, liga=''):
     }
 
 # ============================================
-# GENERAR matches.json UNIFICADO
+# GENERAR matches.json UNIFICADO (CON PRIORIZACIÓN POR PAÍS)
 # ============================================
 
 def generate_matches_json(input_file=None, output_file=None):
@@ -285,20 +319,37 @@ def generate_matches_json(input_file=None, output_file=None):
             continue
         
         liga = item.get('liga', '').replace(':', '')
-        resolved = resolve_match(match_text, liga)
+        
+        # 🔥 APLICAR NORMALIZACIÓN ESPECIAL PARA UFC/WWE
+        if 'UFC' in liga or 'WWE' in liga:
+            key = normalizar_evento_especial(match_text, liga)
+            resolved = {
+                'team1': key.split(' vs ')[0] if ' vs ' in key else key,
+                'team2': key.split(' vs ')[1] if ' vs ' in key else '',
+                'team1_country': 'unknown',
+                'team2_country': 'unknown',
+                'same_country': False,
+                'confidence': 0.5,
+                'image': COUNTRY_IMAGES.get('ufc' if 'UFC' in liga else 'wwe', COUNTRY_IMAGES['default']),
+                'sport': 'ufc' if 'UFC' in liga else 'wwe'
+            }
+        else:
+            resolved = resolve_match(match_text, liga)
         
         if not resolved:
             partidos_ignorados += 1
             continue
         
         fecha = item.get('hora_utc', '')[:10] if item.get('hora_utc') else ''
+        
+        # Crear clave de unificación
         key = f"{resolved['team1']} vs {resolved['team2']}|{fecha}"
         
         if key not in unified:
             unified[key] = {
                 'hora_utc': item.get('hora_utc', ''),
                 'liga': liga,
-                'equipos': f"{resolved['team1']} vs {resolved['team2']}",
+                'equipos': f"{resolved['team1']} vs {resolved['team2']}" if resolved['team2'] else resolved['team1'],
                 'team1': resolved['team1'],
                 'team2': resolved['team2'],
                 'team1_country': resolved['team1_country'],
@@ -310,9 +361,26 @@ def generate_matches_json(input_file=None, output_file=None):
                 'canales': []
             }
         else:
-            if liga and not unified[key]['liga']:
-                unified[key]['liga'] = liga
+            existing = unified[key]
+            
+            # 🔥 REGLA GENÉRICA: Priorizar liga por país del equipo
+            country_from_league = LEAGUE_TO_COUNTRY.get(liga, '')
+            team_country = resolved['team1_country'] or resolved['team2_country']
+            
+            # Si la nueva liga coincide con el país del equipo, actualizar
+            if country_from_league == team_country and team_country != 'unknown':
+                existing['liga'] = liga
+            # Si la liga actual es incorrecta (país no coincide) y la nueva sí
+            elif existing.get('liga'):
+                existing_country = LEAGUE_TO_COUNTRY.get(existing['liga'], '')
+                if existing_country != team_country and country_from_league == team_country:
+                    existing['liga'] = liga
+            
+            # Para UFC/WWE, actualizar el nombre si es más completo
+            if ('UFC' in liga or 'WWE' in liga) and len(match_text) > len(existing['equipos']):
+                existing['equipos'] = match_text
         
+        # Agregar canales (sin duplicar)
         for canal in item.get('canales', []):
             url = canal.get('url', '')
             if not url:
