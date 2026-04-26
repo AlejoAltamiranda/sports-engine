@@ -3839,7 +3839,7 @@
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Pachuca vs Pumas UNAM",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "TUDN",
@@ -3859,7 +3859,7 @@
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Tigres UANL vs Mazatlán",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "NBC",
@@ -3979,7 +3979,7 @@
     "logo": "img/col.png",
     "liga": "Primera A",
     "equipos": "Deportivo Cali vs América de Cali",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Win Futbol",
@@ -4139,7 +4139,7 @@
     "logo": "img/br.png",
     "liga": "Brasileirão",
     "equipos": "São Paulo vs Mirassol",
-    "status": "live",
+    "status": "finished",
     "canales": [
       {
         "nombre": "Match Football 3",
@@ -4164,7 +4164,7 @@
     "logo": "img/pe.png",
     "liga": "Primera Division",
     "equipos": "Sport Boys vs Juan Pablo II College",
-    "status": "live",
+    "status": "finished",
     "canales": [],
     "fuente": "cdn"
   },
@@ -4328,7 +4328,7 @@
     "logo": "img/col.png",
     "liga": "Primera A",
     "equipos": "Medellín vs Fortaleza CEIF",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "Win Futbol",
@@ -4343,7 +4343,7 @@
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "América vs Atlas",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "CBS Sports Network",
@@ -4368,7 +4368,7 @@
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Juárez vs Atlético San Luis",
-    "status": "upcoming",
+    "status": "live",
     "canales": [
       {
         "nombre": "NBC",
@@ -4387,171 +4387,6 @@
       }
     ],
     "fuente": "cdn"
-  },
-  {
-    "hora_utc": "2026-04-26T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa de Primera",
-    "equipos": "Libertad vs Olimpia",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 9",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz9",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga MX",
-    "equipos": "Pachuca vs Pumas UNAM",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Tudn_Usa",
-        "url": "https://streamtpnew.com/global1.php?stream=tudn_usa",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Liga MX",
-    "equipos": "Tigres UANL vs Mazatlán",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Universo_Usa",
-        "url": "https://streamtpnew.com/global1.php?stream=universo_usa",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:10:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga BetPlay",
-    "equipos": "Deportivo Cali vs América de Cali",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Sports+2",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "Inter Miami vs New England",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 4En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls4en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "Columbus Crew vs Philadelphia Union",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 5En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls5en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "DC United vs Orlando City SC",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 6En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls6en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-26T23:30:00Z",
-    "logo": "img/usa.png",
-    "liga": "MLS",
-    "equipos": "Cincinnati vs New York RB",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Mls 7En",
-        "url": "https://streamtpnew.com/global1.php?stream=mls7en",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-27T00:00:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasileirão",
-    "equipos": "São Paulo vs Mirassol",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 10",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz10",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Premiere 2",
-        "url": "https://streamtpnew.com/global1.php?stream=premiere2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Sporttvbr 1",
-        "url": "https://streamtpnew.com/global1.php?stream=sporttvbr1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
-    "hora_utc": "2026-04-27T00:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga 1",
-    "equipos": "Sport Boys vs Juan Pablo II College",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 1",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
   },
   {
     "hora_utc": "2026-04-27T00:30:00Z",
@@ -4668,7 +4503,7 @@
     "logo": "img/default.png",
     "liga": "Liga MX",
     "equipos": "Toluca vs León",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Tudn_Usa",
@@ -4683,7 +4518,7 @@
     "logo": "img/default.png",
     "liga": "Liga MX",
     "equipos": "Guadalajara vs Tijuana",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Universo_Usa",
@@ -4698,7 +4533,7 @@
     "logo": "img/col.png",
     "liga": "Liga BetPlay",
     "equipos": "Medellín vs Fortaleza CEIF",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Win Sports+",
@@ -4718,7 +4553,7 @@
     "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "San Diego vs Portland Timbers",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Mls 2En",
