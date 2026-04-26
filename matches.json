@@ -2181,7 +2181,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T15:15:00Z",
+    "hora_utc": "2026-04-26T15:15Z",
     "liga": "Ligue 1",
     "equipos": "Le Havre AC vs FC Metz",
     "team1": "Le Havre AC",
@@ -2193,11 +2193,6 @@
     "image": "img/fr.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+7",
-        "url": "https://streamtpnew.com/global1.php?stream=disney7",
-        "calidad": "720p"
-      },
       {
         "nombre": "Sky Sport Bundesliga 7",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free",
@@ -2211,7 +2206,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T15:15:00Z",
+    "hora_utc": "2026-04-26T15:15Z",
     "liga": "Ligue 1",
     "equipos": "Paris Saint-Germain vs LOSC Lille",
     "team1": "Paris Saint-Germain",
@@ -2223,11 +2218,6 @@
     "image": "img/fr.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+8",
-        "url": "https://streamtpnew.com/global1.php?stream=disney8",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free",
@@ -2271,7 +2261,7 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T15:15:00Z",
+    "hora_utc": "2026-04-26T15:15Z",
     "liga": "Ligue 1",
     "equipos": "Stade Rennais vs FC Nantes",
     "team1": "Stade Rennais",
@@ -2283,11 +2273,6 @@
     "image": "img/fr.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+9",
-        "url": "https://streamtpnew.com/global1.php?stream=disney9",
-        "calidad": "720p"
-      },
       {
         "nombre": "Sport TV 4",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free",
@@ -2311,7 +2296,27 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T15:30:00Z",
+    "hora_utc": "2026-04-26T15:30Z",
+    "liga": "DStv Premiership",
+    "equipos": "Richards Bay vs Mamelodi Sundowns",
+    "team1": "Richards Bay",
+    "team2": "Mamelodi Sundowns",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "SuperSport PSL",
+        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-26T15:30Z",
     "liga": "Bundesliga",
     "equipos": "Borussia Dortmund vs SC Freiburg",
     "team1": "Borussia Dortmund",
@@ -2323,11 +2328,6 @@
     "image": "img/de.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Disney+10",
-        "url": "https://streamtpnew.com/global1.php?stream=disney10",
-        "calidad": "720p"
-      },
       {
         "nombre": "beIN SPORTS 3",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free",
@@ -2396,26 +2396,6 @@
       {
         "nombre": "SONY TEN 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=sony+ten+1&code=in&user=cdnlivetv&plan=free",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T15:30Z",
-    "liga": "DStv Premiership",
-    "equipos": "Richards Bay vs Mamelodi Sundowns",
-    "team1": "Richards Bay",
-    "team2": "Mamelodi Sundowns",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "SuperSport PSL",
-        "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ]
@@ -2538,11 +2518,6 @@
         "calidad": "720p"
       },
       {
-        "nombre": "Disney+11",
-        "url": "https://streamtpnew.com/global1.php?stream=disney11",
-        "calidad": "720p"
-      },
-      {
         "nombre": "SuperSport Football",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+football&code=za&user=cdnlivetv&plan=free",
         "calidad": "HD"
@@ -2636,7 +2611,7 @@
   },
   {
     "hora_utc": "2026-04-26T16:00:00Z",
-    "liga": "Liga 1",
+    "liga": "Primera Division",
     "equipos": "UTC Cajamarca vs Cienciano",
     "team1": "UTC Cajamarca",
     "team2": "Cienciano",
@@ -2650,11 +2625,6 @@
       {
         "nombre": "L1Max",
         "url": "https://elcanaldeportivo.com/ver/liga1maxpe.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Fanatiz 1",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz1",
         "calidad": "720p"
       }
     ]
@@ -2813,7 +2783,7 @@
   },
   {
     "hora_utc": "2026-04-26T16:30:00Z",
-    "liga": "LaLiga",
+    "liga": "La Liga",
     "equipos": "Osasuna vs Sevilla",
     "team1": "Osasuna",
     "team2": "Sevilla",
@@ -2832,31 +2802,6 @@
       {
         "nombre": "ESPN (Sharecast)",
         "url": "https://elcanaldeportivo.com/ver/espn-sharecast.php",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Disney+12",
-        "url": "https://streamtpnew.com/global1.php?stream=disney12",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espn",
-        "url": "https://streamtpnew.com/global1.php?stream=espn",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 1",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus1",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espnplus 2",
-        "url": "https://streamtpnew.com/global1.php?stream=espnplus2",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Espndeportes",
-        "url": "https://streamtpnew.com/global1.php?stream=espndeportes",
         "calidad": "720p"
       },
       {
@@ -2975,11 +2920,6 @@
         "calidad": "720p"
       },
       {
-        "nombre": "Max 2",
-        "url": "https://streamtpnew.com/global1.php?stream=max2",
-        "calidad": "720p"
-      },
-      {
         "nombre": "TNT Sports",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports&code=cl&user=cdnlivetv&plan=free",
         "calidad": "HD"
@@ -2987,8 +2927,8 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T16:30:00Z",
-    "liga": "LaLiga 2",
+    "hora_utc": "2026-04-26T16:30Z",
+    "liga": "Segunda Division",
     "equipos": "Huesca vs Real Zaragoza",
     "team1": "Huesca",
     "team2": "Real Zaragoza",
@@ -2996,14 +2936,9 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/es.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
-      {
-        "nombre": "Laligahypermotion",
-        "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion",
-        "calidad": "720p"
-      },
       {
         "nombre": "LaLiga TV Hypermotion 1",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=laliga+tv+hypermotion+1&code=es&user=cdnlivetv&plan=free",
