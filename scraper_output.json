@@ -2775,21 +2775,6 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T18:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Show",
-    "equipos": "Colapinto Road Show Buenos Aires 2026",
-    "status": "finalizado",
-    "canales": [
-      {
-        "nombre": "Disney+20",
-        "url": "https://streamtpnew.com/global1.php?stream=disney20",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
     "hora_utc": "2026-04-26T18:00Z",
     "logo": "img/default.png",
     "liga": "Liga I",
@@ -3583,21 +3568,6 @@
     "fuente": "cdn"
   },
   {
-    "hora_utc": "2026-04-26T20:45:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa de Primera",
-    "equipos": "2 de Mayo vs Guaraní",
-    "status": "en vivo",
-    "canales": [
-      {
-        "nombre": "Fanatiz 10",
-        "url": "https://streamtpnew.com/global1.php?stream=fanatiz10",
-        "calidad": "720p"
-      }
-    ],
-    "fuente": "streamtp"
-  },
-  {
     "hora_utc": "2026-04-26T21:00:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
@@ -3613,29 +3583,19 @@
     "fuente": "elcanal"
   },
   {
-    "hora_utc": "2026-04-26T21:00:00Z",
+    "hora_utc": "2026-04-26T21:00Z",
     "logo": "img/col.png",
-    "liga": "Liga BetPlay",
+    "liga": "Primera A",
     "equipos": "Rionegro Águilas vs Once Caldas",
-    "status": "en vivo",
+    "status": "finished",
     "canales": [
-      {
-        "nombre": "Win Sports+",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus",
-        "calidad": "720p"
-      },
-      {
-        "nombre": "Win Sports+2",
-        "url": "https://streamtpnew.com/global1.php?stream=winplus2",
-        "calidad": "720p"
-      },
       {
         "nombre": "Win Futbol",
         "url": "https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free",
         "calidad": "HD"
       }
     ],
-    "fuente": "streamtp"
+    "fuente": "cdn"
   },
   {
     "hora_utc": "2026-04-26T21:30:00Z",
@@ -3782,7 +3742,7 @@
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
     "equipos": "Atlético Tucumán vs Banfield",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 3",
@@ -3812,7 +3772,7 @@
     "logo": "img/pe.png",
     "liga": "Liga 1",
     "equipos": "Universitario vs Alianza Atlético",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 4",
@@ -3827,7 +3787,7 @@
     "logo": "img/default.png",
     "liga": "Copa de Primera",
     "equipos": "Sportivo San Lorenzo vs Rubio Ñú",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 5",
@@ -3842,7 +3802,7 @@
     "logo": "img/mx.png",
     "liga": "Liga MX",
     "equipos": "Santos Laguna vs Monterrey",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Tudn_Usa",
@@ -3872,7 +3832,7 @@
     "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "LA Galaxy vs Real Salt Lake",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Mls 1En",
@@ -3887,7 +3847,7 @@
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "Celtics vs 76ers",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Tntsports",
@@ -3957,7 +3917,7 @@
     "logo": "img/col.png",
     "liga": "Liga BetPlay",
     "equipos": "Llaneros vs Alianza",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Win Sports+",
@@ -3997,7 +3957,7 @@
     "logo": "img/br.png",
     "liga": "Brasileirão",
     "equipos": "Atlético Mineiro vs Flamengo",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 6",
@@ -4042,7 +4002,7 @@
     "logo": "img/br.png",
     "liga": "Brasileirão",
     "equipos": "Fluminense vs Chapecoense",
-    "status": "pronto",
+    "status": "en vivo",
     "canales": [
       {
         "nombre": "Fanatiz 7",
