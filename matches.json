@@ -168,94 +168,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T20:30:00Z",
-    "hora_fin_utc": "2026-04-26T22:30:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Belgrano vs Gimnasia y Esgrima La Plata",
-    "team1": "Belgrano",
-    "team2": "Gimnasia y Esgrima La Plata",
-    "team1_country": "argentina",
-    "team2_country": "argentina",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/ar.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Premium┃OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T20:30:00Z",
-    "hora_fin_utc": "2026-04-26T22:30:00Z",
-    "liga": "Liga 1",
-    "equipos": "Atlético Grau vs Alianza Lima",
-    "team1": "Atlético Grau",
-    "team2": "Alianza Lima",
-    "team1_country": "unknown",
-    "team2_country": "peru",
-    "same_country": false,
-    "confidence": 0.5,
-    "image": "img/pe.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T20:30:00Z",
-    "hora_fin_utc": "2026-04-26T22:30:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Newell's Old Boys vs Instituto",
-    "team1": "Newell's Old Boys",
-    "team2": "Instituto",
-    "team1_country": "argentina",
-    "team2_country": "argentina",
-    "same_country": true,
-    "confidence": 1.0,
-    "image": "img/ar.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHM=",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10eWNpbnRlcm5hY2lvbmFs",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional | OP2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNpbnRlcm5hY2lvbmFs",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports International | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR5Y2ludGVybmFjaW9uYWw=",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-26T21:00:00Z",
     "hora_fin_utc": "2026-04-26T23:00:00Z",
     "liga": "Categoría Primera A",
@@ -271,12 +183,12 @@
     "canales": [
       {
         "nombre": "Win Sports +",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
         "calidad": "HD"
       },
       {
         "nombre": "Win Sports + | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
@@ -297,7 +209,7 @@
     "canales": [
       {
         "nombre": "Futbol Canal",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -318,7 +230,7 @@
     "canales": [
       {
         "nombre": "TNT Sports Premiun CL",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ==",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
@@ -360,7 +272,7 @@
     "canales": [
       {
         "nombre": "Premiere 2 BR ",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTI=",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere2",
         "calidad": "HD"
       }
     ]
@@ -381,7 +293,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk3",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7",
         "calidad": "HD"
       }
     ]
@@ -402,7 +314,7 @@
     "canales": [
       {
         "nombre": "FUTV",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjI=",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even2",
         "calidad": "HD"
       }
     ]
@@ -423,12 +335,12 @@
     "canales": [
       {
         "nombre": "Liga1MAX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1saWdhMW1heA==",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
         "calidad": "HD"
       },
       {
         "nombre": "Liga1Max | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWxpZ2ExbWF4",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
         "calidad": "HD"
       }
     ]
@@ -449,17 +361,17 @@
     "canales": [
       {
         "nombre": "ESPN Premium",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BucHJlbWl1bQ==",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN Premium┃OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
         "calidad": "HD"
       },
       {
         "nombre": "Disney+",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk4",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
         "calidad": "HD"
       }
     ]
@@ -480,27 +392,27 @@
     "canales": [
       {
         "nombre": "Canal 5 MX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA | OP2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 MX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
         "calidad": "HD"
       }
     ]
@@ -521,17 +433,17 @@
     "canales": [
       {
         "nombre": "ESPN 2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMg==",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuMg==",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 2 | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG4y",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": "HD"
       }
     ]
@@ -551,8 +463,8 @@
     "sport": "soccer",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3Bu",
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       }
     ]
@@ -573,17 +485,17 @@
     "canales": [
       {
         "nombre": "ESPN 4",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuNA==",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 4 | OP2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuNA==",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
         "calidad": "HD"
       },
       {
         "nombre": "ESPN 4 | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
         "calidad": "HD"
       }
     ]
@@ -604,12 +516,12 @@
     "canales": [
       {
         "nombre": "ESPN 3 MX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuM214",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
         "calidad": "HD"
       },
       {
         "nombre": "Disney+",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXk1",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
         "calidad": "HD"
       }
     ]
@@ -651,12 +563,12 @@
     "canales": [
       {
         "nombre": "Win Sports +",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
         "calidad": "HD"
       },
       {
         "nombre": "Win Sports + | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
@@ -677,12 +589,12 @@
     "canales": [
       {
         "nombre": "FOX Deportes",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw==",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
         "calidad": "HD"
       },
       {
         "nombre": "FOX Deportes | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
         "calidad": "HD"
       }
     ]
@@ -703,7 +615,7 @@
     "canales": [
       {
         "nombre": "Futbol Canal",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3R2L2NhbmFsLnBocD9zdHJlYW09ZXZlbjE=",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -724,12 +636,12 @@
     "canales": [
       {
         "nombre": "Sportv BR",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg==",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
       },
       {
         "nombre": "Premiere BR ",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1wcmVtaWVyZTE=",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
         "calidad": "HD"
       }
     ]
@@ -749,8 +661,8 @@
     "sport": "soccer",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Premiere 3 BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere3",
         "calidad": "HD"
       }
     ]
@@ -771,12 +683,12 @@
     "canales": [
       {
         "nombre": "ESPN 2 MX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1lc3BuMm14",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
         "calidad": "HD"
       },
       {
         "nombre": "Disney+",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kaXNuZXkxMA==",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
         "calidad": "HD"
       }
     ]
@@ -797,27 +709,27 @@
     "canales": [
       {
         "nombre": "Canal 5 MX",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1jYW5hbDU=",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5",
         "calidad": "HD"
       },
       {
         "nombre": "VIX TUDN",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT12aXgx",
+        "url": "https://tvtvhd.com/canales.php?stream=vix1",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT10dWRu",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA | OP2",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10dWRu",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
         "calidad": "HD"
       },
       {
         "nombre": "TUDN USA | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXR1ZG4=",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
         "calidad": "HD"
       }
     ]
@@ -838,12 +750,12 @@
     "canales": [
       {
         "nombre": "Win Sports +",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHNwbHVz",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
         "calidad": "HD"
       },
       {
         "nombre": "Win Sports + | OP3",
-        "url": "https://pltvhd.com/embed/eventos.html?r=aHR0cHM6Ly90dnR2aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXdpbnNwb3J0c3BsdXM=",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
