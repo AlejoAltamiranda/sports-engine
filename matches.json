@@ -1,7 +1,7 @@
 [
   {
     "hora_utc": "2026-04-26T17:00Z",
-    "hora_fin_utc": "2026-04-26T20:00:00Z",
+    "hora_fin_utc": "2026-04-26T20:15:00Z",
     "liga": "NBA",
     "equipos": "Cleveland Cavaliers vs Toronto Raptors",
     "team1": "Cleveland Cavaliers",
@@ -22,7 +22,7 @@
   },
   {
     "hora_utc": "2026-04-26T18:10Z",
-    "hora_fin_utc": "2026-04-26T21:10:00Z",
+    "hora_fin_utc": "2026-04-26T21:25:00Z",
     "liga": "MLB",
     "equipos": "New York Yankees vs Houston Astros",
     "team1": "New York Yankees",
@@ -43,7 +43,7 @@
   },
   {
     "hora_utc": "2026-04-26T19:30Z",
-    "hora_fin_utc": "2026-04-26T22:30:00Z",
+    "hora_fin_utc": "2026-04-26T22:45:00Z",
     "liga": "NBA",
     "equipos": "San Antonio Spurs vs Portland Trail Blazers",
     "team1": "San Antonio Spurs",
@@ -64,7 +64,7 @@
   },
   {
     "hora_utc": "2026-04-26T20:05Z",
-    "hora_fin_utc": "2026-04-26T23:05:00Z",
+    "hora_fin_utc": "2026-04-26T23:20:00Z",
     "liga": "MLB",
     "equipos": "San Diego Padres vs Arizona Diamondbacks",
     "team1": "San Diego Padres",
@@ -85,7 +85,7 @@
   },
   {
     "hora_utc": "2026-04-26T20:05Z",
-    "hora_fin_utc": "2026-04-26T23:05:00Z",
+    "hora_fin_utc": "2026-04-26T23:20:00Z",
     "liga": "MLB",
     "equipos": "Miami Marlins vs San Francisco Giants",
     "team1": "Miami Marlins",
@@ -106,7 +106,7 @@
   },
   {
     "hora_utc": "2026-04-26T20:10Z",
-    "hora_fin_utc": "2026-04-26T23:10:00Z",
+    "hora_fin_utc": "2026-04-26T23:25:00Z",
     "liga": "MLB",
     "equipos": "Los Angeles Angels vs Kansas City Royals",
     "team1": "Los Angeles Angels",
@@ -127,7 +127,7 @@
   },
   {
     "hora_utc": "2026-04-26T20:10Z",
-    "hora_fin_utc": "2026-04-26T23:10:00Z",
+    "hora_fin_utc": "2026-04-26T23:25:00Z",
     "liga": "MLB",
     "equipos": "Chicago Cubs vs Los Angeles Dodgers",
     "team1": "Chicago Cubs",
@@ -148,7 +148,7 @@
   },
   {
     "hora_utc": "2026-04-26T20:10Z",
-    "hora_fin_utc": "2026-04-26T23:10:00Z",
+    "hora_fin_utc": "2026-04-26T23:25:00Z",
     "liga": "MLB",
     "equipos": "Colorado Rockies vs New York Mets",
     "team1": "Colorado Rockies",
@@ -169,7 +169,7 @@
   },
   {
     "hora_utc": "2026-04-26T22:00:00Z",
-    "hora_fin_utc": "2026-04-27T00:00:00Z",
+    "hora_fin_utc": "2026-04-27T00:30:00Z",
     "liga": "Primera División",
     "equipos": "Montevideo Wanderers vs Peñarol",
     "team1": "Montevideo Wanderers",
@@ -190,7 +190,7 @@
   },
   {
     "hora_utc": "2026-04-26T22:00:00Z",
-    "hora_fin_utc": "2026-04-27T00:00:00Z",
+    "hora_fin_utc": "2026-04-27T00:30:00Z",
     "liga": "Primera División",
     "equipos": "Municipal Liberia vs Alajuelense",
     "team1": "Municipal Liberia",
@@ -199,7 +199,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ar.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
@@ -211,7 +211,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Liga 1",
     "equipos": "Universitario de Deportes vs Alianza Atlético",
     "team1": "Universitario de Deportes",
@@ -237,7 +237,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Liga Profesional",
     "equipos": "Atlético Tucumán vs Banfield",
     "team1": "Atlético Tucumán",
@@ -268,7 +268,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Liga MX",
     "equipos": "Santos Laguna vs Monterrey",
     "team1": "Santos Laguna",
@@ -309,7 +309,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T02:00:00Z",
+    "hora_fin_utc": "2026-04-27T02:15:00Z",
     "liga": "MLB",
     "equipos": "Kansas City Royals vs Los Angeles Angels",
     "team1": "Kansas City Royals",
@@ -340,7 +340,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Sudamericano Sub-17 Femenino",
     "equipos": "Bolivia vs San Lorenzo (Paraguay)",
     "team1": "Bolivia",
@@ -361,7 +361,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "NHL",
     "equipos": "Montreal Canadiens vs Tampa Bay Lightning",
     "team1": "Montreal Canadiens",
@@ -370,7 +370,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/nhl.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
@@ -392,7 +392,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:00:00Z",
-    "hora_fin_utc": "2026-04-27T01:00:00Z",
+    "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Liga de Expansión MX",
     "equipos": "Tepatitlán vs Atlante",
     "team1": "Tepatitlán",
@@ -401,7 +401,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/mx.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
@@ -418,7 +418,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:06Z",
-    "hora_fin_utc": "2026-04-27T02:06:00Z",
+    "hora_fin_utc": "2026-04-27T02:21:00Z",
     "liga": "NBA",
     "equipos": "Boston Celtics vs Philadelphia 76ers",
     "team1": "Boston Celtics",
@@ -439,7 +439,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:10:00Z",
-    "hora_fin_utc": "2026-04-27T01:10:00Z",
+    "hora_fin_utc": "2026-04-27T01:40:00Z",
     "liga": "Categoría Primera A",
     "equipos": "Llaneros vs Alianza",
     "team1": "Llaneros",
@@ -465,7 +465,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:15:00Z",
-    "hora_fin_utc": "2026-04-27T01:15:00Z",
+    "hora_fin_utc": "2026-04-27T01:45:00Z",
     "liga": "Liga Nacional",
     "equipos": "Motagua vs Choloma",
     "team1": "Motagua",
@@ -491,7 +491,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:30:00Z",
-    "hora_fin_utc": "2026-04-27T01:30:00Z",
+    "hora_fin_utc": "2026-04-27T02:00:00Z",
     "liga": "Primera División",
     "equipos": "Oriente Petrolero vs Real Potosí",
     "team1": "Oriente Petrolero",
@@ -500,7 +500,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/ar.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
@@ -512,7 +512,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:30:00Z",
-    "hora_fin_utc": "2026-04-27T01:30:00Z",
+    "hora_fin_utc": "2026-04-27T02:00:00Z",
     "liga": "Brasileirão",
     "equipos": "Atlético Mineiro vs Flamengo",
     "team1": "Atlético Mineiro",
@@ -538,7 +538,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:30:00Z",
-    "hora_fin_utc": "2026-04-27T01:30:00Z",
+    "hora_fin_utc": "2026-04-27T02:00:00Z",
     "liga": "Brasileirão",
     "equipos": "Fluminense vs Chapecoense",
     "team1": "Fluminense",
@@ -559,7 +559,7 @@
   },
   {
     "hora_utc": "2026-04-27T01:00:00Z",
-    "hora_fin_utc": "2026-04-27T03:00:00Z",
+    "hora_fin_utc": "2026-04-27T03:30:00Z",
     "liga": "Liga de Expansión MX",
     "equipos": "Cancún vs Tapatío",
     "team1": "Cancún",
@@ -568,7 +568,7 @@
     "team2_country": "unknown",
     "same_country": false,
     "confidence": 0.0,
-    "image": "img/mx.png",
+    "image": "img/default.png",
     "sport": "soccer",
     "canales": [
       {
@@ -585,7 +585,7 @@
   },
   {
     "hora_utc": "2026-04-27T01:00:00Z",
-    "hora_fin_utc": "2026-04-27T03:00:00Z",
+    "hora_fin_utc": "2026-04-27T03:30:00Z",
     "liga": "Liga MX",
     "equipos": "Cruz Azul vs Necaxa",
     "team1": "Cruz Azul",
@@ -626,7 +626,7 @@
   },
   {
     "hora_utc": "2026-04-27T01:20:00Z",
-    "hora_fin_utc": "2026-04-27T03:20:00Z",
+    "hora_fin_utc": "2026-04-27T03:50:00Z",
     "liga": "Categoría Primera A",
     "equipos": "Inter Bogotá vs Boyacá Chicó",
     "team1": "Inter Bogotá",
@@ -652,7 +652,7 @@
   },
   {
     "hora_utc": "2026-04-27T01:42Z",
-    "hora_fin_utc": "2026-04-27T04:42:00Z",
+    "hora_fin_utc": "2026-04-27T04:57:00Z",
     "liga": "NBA",
     "equipos": "LA Lakers vs Houston Rockets",
     "team1": "LA Lakers",
