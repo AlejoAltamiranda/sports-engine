@@ -160,108 +160,8 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-04-26T21:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Categoría Primera A",
-    "equipos": "\nRionegro Águilas vs Once Caldas",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-04-26T21:15:00Z",
-    "logo": "img/ar.png",
-    "liga": "Primera División",
-    "equipos": "Bolívar vs Real Tomayapo",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-04-26T21:30:00Z",
-    "logo": "img/default.png",
-    "liga": " Primera División",
-    "equipos": "\nEverton vs Cobresal",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TNT Sports Premiun CL OP2",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-04-26T21:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasileirão",
-    "equipos": "\nAthletico-PR vs Vitória",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Canal 1",
-        "url": "#",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-04-26T21:30:00Z",
-    "logo": "img/br.png",
-    "liga": "Brasileirão",
-    "equipos": "\nRB Bragantino vs Palmeiras",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Premiere 2 BR ",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-04-26T22:00:00Z",
-    "logo": "img/ar.png",
+    "logo": "img/bo.png",
     "liga": "Primera División",
     "equipos": "Wanderers vs Peñarol",
     "status": "pronto",
@@ -276,7 +176,7 @@
   },
   {
     "hora_utc": "2026-04-26T22:00:00Z",
-    "logo": "img/ar.png",
+    "logo": "img/bo.png",
     "liga": "Primera División",
     "equipos": "\nMunicipal Liberia vs Alajuelense",
     "status": "pronto",
@@ -536,7 +436,7 @@
   },
   {
     "hora_utc": "2026-04-26T23:30:00Z",
-    "logo": "img/ar.png",
+    "logo": "img/bo.png",
     "liga": "Primera División",
     "equipos": "Oriente Petrolero vs Real Potosí",
     "status": "pronto",
