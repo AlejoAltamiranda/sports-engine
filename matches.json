@@ -208,5 +208,571 @@
         "calidad": "HD"
       }
     ]
+  },
+  {
+    "hora_utc": "2026-04-27T13:00:00Z",
+    "hora_fin_utc": "2026-04-27T15:30:00Z",
+    "liga": "Tenis",
+    "equipos": "Madrid Open vs Tercera Ronda",
+    "team1": "Madrid Open",
+    "team2": "Tercera Ronda",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T16:00:00Z",
+    "hora_fin_utc": "2026-04-27T18:30:00Z",
+    "liga": "Primera División de Chipre",
+    "equipos": "Kocaelispor vs Anorthosis",
+    "team1": "Kocaelispor",
+    "team2": "Anorthosis",
+    "team1_country": "turkey",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.35,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T16:30:00Z",
+    "hora_fin_utc": "2026-04-27T19:00:00Z",
+    "liga": "Serie A",
+    "equipos": "Cagliari vs Atalanta",
+    "team1": "Cagliari",
+    "team2": "Atalanta",
+    "team1_country": "italy",
+    "team2_country": "italy",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/it.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T17:00:00Z",
+    "hora_fin_utc": "2026-04-27T19:30:00Z",
+    "liga": " Super Lig",
+    "equipos": "Konyaspor vs Trabzonspor",
+    "team1": "Konyaspor",
+    "team2": "Trabzonspor",
+    "team1_country": "turkey",
+    "team2_country": "turkey",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/tr.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "BeIN Sports EXTRA Español",
+        "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T18:30:00Z",
+    "hora_fin_utc": "2026-04-27T21:00:00Z",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Cádiz vs Las Palmas",
+    "team1": "Cádiz",
+    "team2": "Las Palmas",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T18:45:00Z",
+    "hora_fin_utc": "2026-04-27T21:15:00Z",
+    "liga": "Serie A",
+    "equipos": "Lazio vs Udinese",
+    "team1": "Lazio",
+    "team2": "Udinese",
+    "team1_country": "italy",
+    "team2_country": "italy",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/it.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T19:00:00Z",
+    "hora_fin_utc": "2026-04-27T21:30:00Z",
+    "liga": "LaLiga",
+    "equipos": "Espanyol vs Levante",
+    "team1": "Espanyol",
+    "team2": "Levante",
+    "team1_country": "spain",
+    "team2_country": "spain",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/es.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T19:00:00Z",
+    "hora_fin_utc": "2026-04-27T21:30:00Z",
+    "liga": "Premier League",
+    "equipos": "Manchester United vs Brentford",
+    "team1": "Manchester United",
+    "team2": "Brentford",
+    "team1_country": "england",
+    "team2_country": "england",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/en.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T20:00:00Z",
+    "hora_fin_utc": "2026-04-27T22:30:00Z",
+    "liga": " Liga 1",
+    "equipos": "ADT vs Los Chankas",
+    "team1": "ADT",
+    "team2": "Los Chankas",
+    "team1_country": "unknown",
+    "team2_country": "peru",
+    "same_country": false,
+    "confidence": 0.5,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T20:00:00Z",
+    "hora_fin_utc": "2026-04-27T22:30:00Z",
+    "liga": "Sudamericano Sub-17 Femenino",
+    "equipos": "Venezuela vs Ecuador",
+    "team1": "Venezuela",
+    "team2": "Ecuador",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T21:45:00Z",
+    "hora_fin_utc": "2026-04-28T00:15:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Vélez Sarsfield vs Unión Santa Fe",
+    "team1": "Vélez Sarsfield",
+    "team2": "Unión Santa Fe",
+    "team1_country": "argentina",
+    "team2_country": "argentina",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/ar.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports International | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T22:00:00Z",
+    "hora_fin_utc": "2026-04-28T00:30:00Z",
+    "liga": "Segunda División",
+    "equipos": "Atenas vs Fénix",
+    "team1": "Atenas",
+    "team2": "Fénix",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T22:00:00Z",
+    "hora_fin_utc": "2026-04-28T00:30:00Z",
+    "liga": "Primera B",
+    "equipos": "Inter Bogotá vs Unión Magdalena",
+    "team1": "Inter Bogotá",
+    "team2": "Unión Magdalena",
+    "team1_country": "colombia",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.35,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Win Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T22:30:00Z",
+    "hora_fin_utc": "2026-04-28T01:00:00Z",
+    "liga": "Primera División",
+    "equipos": "Defensor Sporting vs CA Progreso",
+    "team1": "Defensor Sporting",
+    "team2": "CA Progreso",
+    "team1_country": "uruguay",
+    "team2_country": "uruguay",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/uy.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-27T23:00:00Z",
+    "hora_fin_utc": "2026-04-28T01:30:00Z",
+    "liga": "Sudamericano Sub-17 Femenino",
+    "equipos": "Uruguay vs Brasil",
+    "team1": "Uruguay",
+    "team2": "Brasil",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:00:00Z",
+    "hora_fin_utc": "2026-04-28T02:30:00Z",
+    "liga": "Primera División",
+    "equipos": "Aurora vs San Antonio Bulo Bulo",
+    "team1": "Aurora",
+    "team2": "San Antonio Bulo Bulo",
+    "team1_country": "bolivia",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.5,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:00:00Z",
+    "hora_fin_utc": "2026-04-28T02:30:00Z",
+    "liga": " Liga 1",
+    "equipos": "Deportivo Garcilaso vs FBC Melgar",
+    "team1": "Deportivo Garcilaso",
+    "team2": "FBC Melgar",
+    "team1_country": "peru",
+    "team2_country": "peru",
+    "same_country": true,
+    "confidence": 0.97,
+    "image": "img/pe.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:00:00Z",
+    "hora_fin_utc": "2026-04-28T02:30:00Z",
+    "liga": "NHL",
+    "equipos": "Pittsburgh Penguins vs Philadelphia Flyers",
+    "team1": "Pittsburgh Penguins",
+    "team2": "Philadelphia Flyers",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:00:00Z",
+    "hora_fin_utc": "2026-04-28T02:30:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Huracán vs Argentinos Juniors",
+    "team1": "Huracán",
+    "team2": "Argentinos Juniors",
+    "team1_country": "argentina",
+    "team2_country": "argentina",
+    "same_country": true,
+    "confidence": 1.0,
+    "image": "img/ar.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:00:00Z",
+    "hora_fin_utc": "2026-04-28T03:15:00Z",
+    "liga": "MLB",
+    "equipos": "Texas Rangers vs New York Yankees",
+    "team1": "Texas Rangers",
+    "team2": "New York Yankees",
+    "team1_country": "usa",
+    "team2_country": "usa",
+    "same_country": false,
+    "confidence": 1.0,
+    "image": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-04-28T00:30:00Z",
+    "hora_fin_utc": "2026-04-28T03:00:00Z",
+    "liga": "Primera B",
+    "equipos": "Barranquilla vs Real Cartagena",
+    "team1": "Barranquilla",
+    "team2": "Real Cartagena",
+    "team1_country": "unknown",
+    "team2_country": "unknown",
+    "same_country": false,
+    "confidence": 0.0,
+    "image": "img/default.png",
+    "sport": "soccer",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports ┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
+        "calidad": "HD"
+      }
+    ]
   }
 ]
