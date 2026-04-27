@@ -260,6 +260,26 @@
         "nombre": "ESPN 3 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -267,13 +287,38 @@
   {
     "hora_utc": "2026-04-27T17:00:00Z",
     "logo": "img/default.png",
-    "liga": " Super Lig",
-    "equipos": "\nKonyaspor vs Trabzonspor",
+    "liga": "Super Lig",
+    "equipos": "Konyaspor vs Trabzonspor",
     "status": "pronto",
     "canales": [
       {
         "nombre": "BeIN Sports EXTRA Español",
         "url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-04-27T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Super Lig",
+    "equipos": "\nBeşiktaş vs Fatih Karagümrük",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
         "calidad": "HD"
       }
     ],
