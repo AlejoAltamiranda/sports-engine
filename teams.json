@@ -342,7 +342,106 @@
     "aliases": ["chapecoense", "chape"],
     "country": "brazil"
   },
-
+  "vila_nova": {
+    "name": "Vila Nova",
+    "aliases": ["vila nova"],
+    "country": "brazil"
+  },
+  "fortaleza": {
+    "name": "Fortaleza",
+    "aliases": ["fortaleza"],
+    "country": "brazil"
+  },
+  "sao_bernardo": {
+    "name": "Sao Bernardo",
+    "aliases": ["sao bernardo", "são bernardo"],
+    "country": "brazil"
+  },
+  "criciuma": {
+    "name": "Criciúma",
+    "aliases": ["criciuma", "criciúma"],
+    "country": "brazil"
+  },
+  "juventude": {
+    "name": "Juventude",
+    "aliases": ["juventude"],
+    "country": "brazil"
+  },
+  "ceara": {
+    "name": "Ceará",
+    "aliases": ["ceara", "ceará"],
+    "country": "brazil"
+  },
+  "sport_recife": {
+    "name": "Sport Recife",
+    "aliases": ["sport recife", "sport"],
+    "country": "brazil"
+  },
+  "operario": {
+    "name": "Operario",
+    "aliases": ["operario", "operário"],
+    "country": "brazil"
+  },
+  "botafogo_sp": {
+    "name": "Botafogo SP",
+    "aliases": ["botafogo sp", "botafogo"],
+    "country": "brazil"
+  },
+  "athletic_club": {
+    "name": "Athletic Club",
+    "aliases": ["athletic club"],
+    "country": "brazil"
+  },
+  "novorizontino": {
+    "name": "Novorizontino",
+    "aliases": ["novorizontino"],
+    "country": "brazil"
+  },
+  "avai": {
+    "name": "Avaí",
+    "aliases": ["avai", "avaí"],
+    "country": "brazil"
+  },
+  "atletico_go": {
+    "name": "Atlético-GO",
+    "aliases": ["atletico go", "atlético go", "atletico-go"],
+    "country": "brazil"
+  },
+  "ponte_preta": {
+    "name": "Ponte Preta",
+    "aliases": ["ponte preta"],
+    "country": "brazil"
+  },
+  "goias": {
+    "name": "Goiás",
+    "aliases": ["goias", "goiás"],
+    "country": "brazil"
+  },
+  "cuiaba": {
+    "name": "Cuiabá",
+    "aliases": ["cuiaba", "cuiabá"],
+    "country": "brazil"
+  },
+  "nautico": {
+    "name": "Náutico",
+    "aliases": ["nautico", "náutico"],
+    "country": "brazil"
+  },
+  "londrina": {
+    "name": "Londrina",
+    "aliases": ["londrina"],
+    "country": "brazil"
+  },
+  "crb": {
+    "name": "CRB",
+    "aliases": ["crb"],
+    "country": "brazil"
+  },
+  "america_mg": {
+    "name": "América-MG",
+    "aliases": ["america mg", "américa mg", "america-mg"],
+    "country": "brazil"
+  },
   "colo_colo": {
     "name": "Colo Colo",
     "aliases": ["colo colo"],
@@ -494,7 +593,7 @@
     "aliases": ["llaneros"],
     "country": "colombia"
   },
-  "fortaleza": {
+  "fortaleza_co": {
     "name": "Fortaleza CEIF",
     "aliases": ["fortaleza"],
     "country": "colombia"
@@ -1941,6 +2040,160 @@
     "name": "Atlanta United",
     "aliases": ["atlanta united", "atlanta", "atl utd", "five stripes"],
     "country": "usa"
+  }, 
+  "always_ready": {
+    "name": "Always Ready",
+    "aliases": ["always ready"],
+    "country": "bolivia"
+  },
+  "the_strongest": {
+    "name": "The Strongest",
+    "aliases": ["the strongest", "strongest"],
+    "country": "bolivia"
+  },
+  "bolivar": {
+    "name": "Bolívar",
+    "aliases": ["bolivar", "bolívar"],
+    "country": "bolivia"
+  },
+  "blooming": {
+    "name": "Blooming",
+    "aliases": ["blooming"],
+    "country": "bolivia"
+  },
+  "nacional_potosi": {
+    "name": "Nacional Potosí",
+    "aliases": ["nacional potosi", "nacional potosí"],
+    "country": "bolivia"
+  },
+  "independiente_bo": {
+    "name": "Independiente",
+    "aliases": ["independiente"],
+    "country": "bolivia"
+  },
+  "real_potosi": {
+    "name": "Real Potosí",
+    "aliases": ["real potosi", "real potosí"],
+    "country": "bolivia"
+  },
+  "sa_bulo_bulo": {
+    "name": "SA Bulo Bulo",
+    "aliases": ["bulo bulo", "sa bulo bulo"],
+    "country": "bolivia"
+  },
+  "academia_del_balompie": {
+    "name": "Academia del Balompie",
+    "aliases": ["academia del balompie", "balompie"],
+    "country": "bolivia"
+  },
+  "oriente_petrolero": {
+    "name": "Oriente Petrolero",
+    "aliases": ["oriente petrolero", "oriente"],
+    "country": "bolivia"
+  },
+  "universitario_de_vinto": {
+    "name": "Universitario de Vinto",
+    "aliases": ["universitario de vinto", "u de vinto", "vinto"],
+    "country": "bolivia"
+  },
+  "aurora": {
+    "name": "Aurora",
+    "aliases": ["aurora"],
+    "country": "bolivia"
+  },
+  "gv_san_jose": {
+    "name": "GV San Jose",
+    "aliases": ["gv san jose", "san jose", "san josé"],
+    "country": "bolivia"
+  },
+  "tomayapo": {
+    "name": "Tomayapo",
+    "aliases": ["tomayapo"],
+    "country": "bolivia"
+  },
+  "real_oruro": {
+    "name": "Real Oruro",
+    "aliases": ["real oruro"],
+    "country": "bolivia"
+  },
+  "guabira": {
+    "name": "Guabirá",
+    "aliases": ["guabira", "guabirá"],
+    "country": "bolivia"
+  }, 
+  "tepatitlan": {
+    "name": "Tepatitlán",
+    "aliases": ["tepatitlan", "tepatitlán"],
+    "country": "mexico"
+  },
+  "cancun": {
+    "name": "Cancun",
+    "aliases": ["cancun", "cancún"],
+    "country": "mexico"
+  },
+  "atl_morelia": {
+    "name": "Atl. Morelia",
+    "aliases": ["atl morelia", "atletico morelia", "atlético morelia", "morelia"],
+    "country": "mexico"
+  },
+  "atl_la_paz": {
+    "name": "Atl. La Paz",
+    "aliases": ["atl la paz", "atletico la paz", "atlético la paz", "la paz"],
+    "country": "mexico"
+  },
+  "jaiba_brava": {
+    "name": "Jaiba Brava",
+    "aliases": ["jaiba brava"],
+    "country": "mexico"
+  },
+  "mineros": {
+    "name": "Mineros",
+    "aliases": ["mineros", "mineros de zacatecas"],
+    "country": "mexico"
+  },
+  "tapatio": {
+    "name": "Tapatio",
+    "aliases": ["tapatio", "tapatío"],
+    "country": "mexico"
+  },
+  "atlante": {
+    "name": "Atlante",
+    "aliases": ["atlante"],
+    "country": "mexico"
+  },
+  "irapuato": {
+    "name": "Irapuato",
+    "aliases": ["irapuato"],
+    "country": "mexico"
+  },
+  "tlaxcala": {
+    "name": "Tlaxcala",
+    "aliases": ["tlaxcala"],
+    "country": "mexico"
+  },
+  "venados": {
+    "name": "Venados",
+    "aliases": ["venados", "venados fc"],
+    "country": "mexico"
+  },
+  "alebrijes_oaxaca": {
+    "name": "Alebrijes Oaxaca",
+    "aliases": ["alebrijes oaxaca", "alebrijes"],
+    "country": "mexico"
+  },
+  "dorados": {
+    "name": "Dorados",
+    "aliases": ["dorados", "dorados de sinaloa"],
+    "country": "mexico"
+  },
+  "correcaminos_uat": {
+    "name": "Correcaminos U.A.T.",
+    "aliases": ["correcaminos", "correcaminos uat", "uat"],
+    "country": "mexico"
+  },
+  "leones_negros": {
+    "name": "Leones Negros",
+    "aliases": ["leones negros", "udg", "universidad de guadalajara"],
+    "country": "mexico"
   }
-
 }
