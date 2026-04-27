@@ -160,36 +160,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-04-26T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "Wanderers vs Peñarol",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-04-26T22:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "\nMunicipal Liberia vs Alajuelense",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-04-26T23:00:00Z",
     "logo": "img/pe.png",
     "liga": "Liga 1",

@@ -168,48 +168,6 @@
     ]
   },
   {
-    "hora_utc": "2026-04-26T22:00:00Z",
-    "hora_fin_utc": "2026-04-27T00:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Montevideo Wanderers vs Peñarol",
-    "team1": "Montevideo Wanderers",
-    "team2": "Peñarol",
-    "team1_country": "uruguay",
-    "team2_country": "uruguay",
-    "same_country": true,
-    "confidence": 0.97,
-    "image": "img/uy.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-04-26T22:00:00Z",
-    "hora_fin_utc": "2026-04-27T00:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Municipal Liberia vs Alajuelense",
-    "team1": "Municipal Liberia",
-    "team2": "Alajuelense",
-    "team1_country": "unknown",
-    "team2_country": "unknown",
-    "same_country": false,
-    "confidence": 0.0,
-    "image": "img/default.png",
-    "sport": "soccer",
-    "canales": [
-      {
-        "nombre": "FUTV",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-04-26T23:00:00Z",
     "hora_fin_utc": "2026-04-27T01:30:00Z",
     "liga": "Liga 1",
