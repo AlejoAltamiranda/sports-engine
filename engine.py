@@ -27,6 +27,7 @@ COUNTRY_IMAGES = {
     'mexico': 'img/mx.png',
     'arabia': 'img/sa.png',
     'usa': 'img/usa.png',
+    'bolivia': 'img/bo.png',
     'nba': 'img/nba.png',
     'mlb': 'img/mlb.png',
     'wwe': 'img/wwe.png',
@@ -46,7 +47,7 @@ LEAGUE_TO_COUNTRY = {
     'Ligue 1': 'france', 'Ligue 2': 'france',
     'Eredivisie': 'netherlands',
     'Primeira Liga': 'portugal', 'Taça de Portugal': 'portugal', 'Copa de Portugal': 'portugal',
-    'Liga MX': 'mexico', 'Liga de expansión MX': 'mexico',
+    'Liga MX': 'mexico', 'Liga de Expansión MX': 'mexico',
     'Liga 1': 'peru', 'Primera Division': 'peru',
     'Copa do Brasil': 'brazil', 'Brasileirão': 'brazil',
     'Liga Profesional': 'argentina', 'Primera División': 'argentina', 'Futbol Argentino': 'argentina',
@@ -66,9 +67,9 @@ LEAGUE_TO_COUNTRY = {
 # ============================================
 
 SPORT_DURATION = {
-    'soccer': 120,      # 90' + 15' entretiempo + 15' adiciones (2 horas)
-    'nba': 180,         # 48' + descansos + tiempos muertos (~3 horas)
-    'mlb': 180,         # 9 entradas (~3 horas)
+    'soccer': 150,      # 90' + 15' entretiempo + 15' adiciones (2 horas)
+    'nba': 195,         # 48' + descansos + tiempos muertos (~3 horas)
+    'mlb': 195,         # 9 entradas (~3 horas)
     'nfl': 195,         # 60' + pausas (~3.25 horas)
     'ufc': 300,         # Evento completo (~5 horas)
     'wwe': 180,         # Evento completo (~3 horas)
@@ -375,19 +376,17 @@ def find_team(query, liga=None):
 # OBTENER LOGO
 # ============================================
 
-def get_image(liga, country=None):
-    if country and country in COUNTRY_IMAGES:
-        return COUNTRY_IMAGES[country]
+def get_image(liga, team1_country, team2_country):
+    # Obtener país de la liga
+    country_from_league = LEAGUE_TO_COUNTRY.get(liga, '')
     
-    if 'MLB' in liga:
-        return COUNTRY_IMAGES['mlb']
-    if 'NBA' in liga:
-        return COUNTRY_IMAGES['nba']
+    # Si los equipos tienen país y coincide con la liga
+    if (team1_country != 'unknown' and team2_country != 'unknown' and 
+        team1_country == team2_country and 
+        team1_country == country_from_league):
+        return COUNTRY_IMAGES.get(team1_country, COUNTRY_IMAGES['default'])
     
-    for liga_key, country_value in LEAGUE_TO_COUNTRY.items():
-        if liga_key.lower() in liga.lower():
-            return COUNTRY_IMAGES.get(country_value, COUNTRY_IMAGES['default'])
-    
+    # Si no coincide o no hay país definido, usar default
     return COUNTRY_IMAGES['default']
 
 # ============================================
@@ -437,7 +436,6 @@ def calcular_hora_fin(hora_inicio_utc, deporte):
 
 def resolve_match(match_text, liga=''):
     """Resuelve el partido usando la nueva función split_match_text"""
-    # Usar la nueva función mejorada
     team1_name, team2_name = split_match_text(match_text)
     
     if not team1_name or not team2_name:
@@ -451,22 +449,19 @@ def resolve_match(match_text, liga=''):
     
     sport = get_sport_from_liga(liga)
     
-    # 🔥 DEPORTES QUE USAN LOGO PROPIO (NO LOGO DE PAÍS)
-    # NBA, MLB, NFL, UFC, WWE, Boxeo usan sus propios logos
     deportes_con_logo_propio = ['nba', 'mlb', 'nfl', 'ufc', 'wwe', 'box']
     
     if sport in deportes_con_logo_propio:
-        # Usar logo del deporte específico (ej: img/nba.png, img/mlb.png)
         image = COUNTRY_IMAGES.get(sport, COUNTRY_IMAGES['default'])
-        same_country = False  # Para estos deportes no importa el país
+        same_country = False
     else:
-        # Para fútbol, verificar si son del mismo país
         same_country = (team1['country'] != 'unknown' and team1['country'] == team2['country'])
         
         if same_country and team1['country'] != 'unknown':
             image = COUNTRY_IMAGES.get(team1['country'], COUNTRY_IMAGES['default'])
         else:
-            image = get_image(liga, None)
+            # 🔥 CORREGIDO: pasar los países de los equipos
+            image = get_image(liga, team1['country'], team2['country'])
     
     return {
         'team1': team1['name'],
@@ -496,6 +491,44 @@ def generate_matches_json(input_file=None, output_file=None):
         return
     
     print(f"📊 Procesando {len(raw_matches)} eventos sin procesar...")
+    
+    # 🔥 FUNCIÓN PARA GENERAR CLAVE CON TOLERANCIA DE 30 MINUTOS
+    def generar_clave_unificacion(equipos, hora_utc):
+        """Genera clave de unificación con tolerancia de 30 minutos"""
+        if not hora_utc:
+            return equipos
+        
+        try:
+            # Limpiar formato de hora
+            hora_limpia = hora_utc.replace('Z', '')
+            
+            # Intentar diferentes formatos
+            dt = None
+            formatos = [
+                '%Y-%m-%dT%H:%M:%S',
+                '%Y-%m-%dT%H:%M',
+                '%Y-%m-%d %H:%M:%S', 
+                '%Y-%m-%d %H:%M'
+            ]
+            
+            for fmt in formatos:
+                try:
+                    dt = datetime.strptime(hora_limpia, fmt)
+                    break
+                except:
+                    continue
+            
+            if not dt:
+                return equipos
+            
+            # Redondear a los 30 minutos más cercanos
+            minutes = dt.minute
+            rounded_minutes = (minutes // 30) * 30
+            dt_rounded = dt.replace(minute=rounded_minutes, second=0, microsecond=0)
+            
+            return f"{equipos}|{dt_rounded.isoformat()}"
+        except:
+            return equipos
     
     unified = {}
     partidos_ignorados = 0
@@ -531,17 +564,19 @@ def generate_matches_json(input_file=None, output_file=None):
             rugby_filtrados += 1
             continue
         
-        fecha = item.get('hora_utc', '')[:10] if item.get('hora_utc') else ''
-        key = f"{resolved['team1']} vs {resolved['team2']}|{fecha}"
+        # 🔥 GENERAR CLAVE CON TOLERANCIA DE 30 MINUTOS
+        equipos_key = f"{resolved['team1']} vs {resolved['team2']}"
+        hora_utc = item.get('hora_utc', '')
+        key = generar_clave_unificacion(equipos_key, hora_utc)
         
-        hora_fin = calcular_hora_fin(item.get('hora_utc', ''), resolved.get('sport', 'soccer'))
+        hora_fin = calcular_hora_fin(hora_utc, resolved.get('sport', 'soccer'))
         
         if key not in unified:
             unified[key] = {
-                'hora_utc': item.get('hora_utc', ''),
+                'hora_utc': hora_utc,
                 'hora_fin_utc': hora_fin,
                 'liga': liga,
-                'equipos': f"{resolved['team1']} vs {resolved['team2']}" if resolved['team2'] else resolved['team1'],
+                'equipos': equipos_key,
                 'team1': resolved['team1'],
                 'team2': resolved['team2'],
                 'team1_country': resolved['team1_country'],
@@ -563,7 +598,13 @@ def generate_matches_json(input_file=None, output_file=None):
                 existing_country = LEAGUE_TO_COUNTRY.get(existing['liga'], '')
                 if existing_country != team_country and country_from_league == team_country:
                     existing['liga'] = liga
+            
+            # Usar la hora más temprana
+            if hora_utc and (not existing.get('hora_utc') or hora_utc < existing['hora_utc']):
+                existing['hora_utc'] = hora_utc
+                existing['hora_fin_utc'] = hora_fin
         
+        # Agregar canales sin duplicar
         for canal in item.get('canales', []):
             url = canal.get('url', '')
             if not url:
