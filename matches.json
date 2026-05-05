@@ -1,0 +1,807 @@
+[
+  {
+    "hora_utc": "2026-05-03T20:00Z",
+    "hora_fin_utc": "2026-05-03T23:00:00Z",
+    "liga": "Formula 1",
+    "equipos": "F1 Miami - Grand Prix",
+    "logo": "img/formula1.png",
+    "sport": "f1",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-miami-grand-prix-race/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/21892/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://dlstreams.top/stream/stream-60.php",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/sprint-miami-international-autodrome-formula-1-2540/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T21:40Z",
+    "hora_fin_utc": "2026-05-05T00:55:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2316",
+        "url": "https://sharkstreams.net/player.php?channel=2316",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T22:00Z",
+    "hora_fin_utc": "2026-05-05T01:00:00Z",
+    "liga": "NHL",
+    "equipos": "Carolina Hurricanes vs Philadelphia Flyers",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "2299",
+        "url": "https://sharkstreams.net/player.php?channel=2299",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T22:40Z",
+    "hora_fin_utc": "2026-05-05T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Tampa Bay Rays vs Toronto Blue Jays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2320",
+        "url": "https://sharkstreams.net/player.php?channel=2320",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T22:40Z",
+    "hora_fin_utc": "2026-05-05T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Cincinnati Reds",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2317",
+        "url": "https://sharkstreams.net/player.php?channel=2317",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T22:40Z",
+    "hora_fin_utc": "2026-05-05T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2318",
+        "url": "https://sharkstreams.net/player.php?channel=2318",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T22:40Z",
+    "hora_fin_utc": "2026-05-05T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Detroit Tigers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2319",
+        "url": "https://sharkstreams.net/player.php?channel=2319",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T23:05Z",
+    "hora_fin_utc": "2026-05-05T02:20:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs New York Yankees",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2321",
+        "url": "https://sharkstreams.net/player.php?channel=2321",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T23:40Z",
+    "hora_fin_utc": "2026-05-05T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Kansas City Royals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2322",
+        "url": "https://sharkstreams.net/player.php?channel=2322",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-04T23:45Z",
+    "hora_fin_utc": "2026-05-05T03:00:00Z",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2323",
+        "url": "https://sharkstreams.net/player.php?channel=2323",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T00:00Z",
+    "hora_fin_utc": "2026-05-05T03:00:00Z",
+    "liga": "WWE",
+    "equipos": "WWE: Monday Night RAW",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "2328",
+        "url": "https://sharkstreams.net/player.php?channel=2328",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T00:00Z",
+    "hora_fin_utc": "2026-05-05T03:15:00Z",
+    "liga": "NBA",
+    "equipos": "New York Knicks vs Philadelphia 76ers",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2297",
+        "url": "https://sharkstreams.net/player.php?channel=2297",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T00:10Z",
+    "hora_fin_utc": "2026-05-05T03:25:00Z",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Los Angeles Dodgers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2324",
+        "url": "https://sharkstreams.net/player.php?channel=2324",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T01:30Z",
+    "hora_fin_utc": "2026-05-05T04:30:00Z",
+    "liga": "NHL",
+    "equipos": "Anaheim Ducks vs Vegas Golden Knights",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "2300",
+        "url": "https://sharkstreams.net/player.php?channel=2300",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T01:30Z",
+    "hora_fin_utc": "2026-05-05T04:45:00Z",
+    "liga": "NBA",
+    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2298",
+        "url": "https://sharkstreams.net/player.php?channel=2298",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T01:38Z",
+    "hora_fin_utc": "2026-05-05T04:53:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs Los Angeles Angels",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2325",
+        "url": "https://sharkstreams.net/player.php?channel=2325",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T01:45Z",
+    "hora_fin_utc": "2026-05-05T05:00:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Seattle Mariners",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2326",
+        "url": "https://sharkstreams.net/player.php?channel=2326",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T01:45Z",
+    "hora_fin_utc": "2026-05-05T05:00:00Z",
+    "liga": "MLB",
+    "equipos": "San Diego Padres vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2327",
+        "url": "https://sharkstreams.net/player.php?channel=2327",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T13:30:00Z",
+    "hora_fin_utc": "2026-05-05T16:00:00Z",
+    "liga": "Deportes",
+    "equipos": "Ciclismo – La Vuelta Femenina – Etapa #3",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T16:45:00Z",
+    "hora_fin_utc": "2026-05-05T19:15:00Z",
+    "liga": "Eredivisie",
+    "equipos": "RKC Waalwijk vs Willem II",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN NL ",
+        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T18:00:00Z",
+    "hora_fin_utc": "2026-05-05T20:30:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Hilal vs Al Khaleej",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T19:00:00Z",
+    "hora_fin_utc": "2026-05-05T21:30:00Z",
+    "liga": "UEFA Champions League",
+    "equipos": "Arsenal vs Atlético Madrid",
+    "logo": "img/champions.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Canal 1",
+        "url": "#",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T22:00:00Z",
+    "hora_fin_utc": "2026-05-06T00:30:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Deportivo Riestra vs Grêmio",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T22:00:00Z",
+    "hora_fin_utc": "2026-05-06T00:30:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Libertad vs Rosario Central",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T22:00:00Z",
+    "hora_fin_utc": "2026-05-06T00:30:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Atlético Mineiro vs Juventud",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T22:00:00Z",
+    "hora_fin_utc": "2026-05-06T00:30:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Caracas vs Independiente Petrolero",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T22:00:00Z",
+    "hora_fin_utc": "2026-05-06T00:30:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Palmeiras vs Sporting Cristal",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 3",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 NL",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3_nl",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-05T23:00:00Z",
+    "hora_fin_utc": "2026-05-06T02:15:00Z",
+    "liga": "MLB",
+    "equipos": "New York Yankees vs Texas Rangers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T00:00:00Z",
+    "hora_fin_utc": "2026-05-06T02:30:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Independiente del Valle vs UCV",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 3",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T00:00:00Z",
+    "hora_fin_utc": "2026-05-06T02:30:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Barcelona vs Boca Juniors",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports\n",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Telefe",
+        "url": "https://tvtvhd.com/canales.php?stream=telefe",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T00:30:00Z",
+    "hora_fin_utc": "2026-05-06T03:00:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Deportivo Recoleta vs Santos",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T00:30:00Z",
+    "hora_fin_utc": "2026-05-06T03:00:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Always Ready vs Lanús",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T00:30:00Z",
+    "hora_fin_utc": "2026-05-06T03:00:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Academia Puerto Cabello vs Cienciano",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T01:30:00Z",
+    "hora_fin_utc": "2026-05-06T04:00:00Z",
+    "liga": "Copa de Campeones de la Concacaf",
+    "equipos": "Nashville vs Tigres UANL",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2 NL",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T01:30:00Z",
+    "hora_fin_utc": "2026-05-06T04:45:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White vs Los Angeles Angels",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T02:00:00Z",
+    "hora_fin_utc": "2026-05-06T04:30:00Z",
+    "liga": "Copa Sudamericana",
+    "equipos": "Deportivo Cuenca vs San Lorenzo",
+    "logo": "img/sud.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-08T23:30Z",
+    "hora_fin_utc": "2026-05-09T02:45:00Z",
+    "liga": "WNBA",
+    "equipos": "Toronto Tempo vs Washington Mystics",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2302",
+        "url": "https://sharkstreams.net/player.php?channel=2302",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-08T23:30Z",
+    "hora_fin_utc": "2026-05-09T02:45:00Z",
+    "liga": "WNBA",
+    "equipos": "Connecticut Sun vs New York Liberty",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2301",
+        "url": "https://sharkstreams.net/player.php?channel=2301",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-09T02:00Z",
+    "hora_fin_utc": "2026-05-09T05:15:00Z",
+    "liga": "WNBA",
+    "equipos": "Golden State Valkyries vs Seattle Storm",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2303",
+        "url": "https://sharkstreams.net/player.php?channel=2303",
+        "calidad": "HD"
+      }
+    ]
+  }
+]
