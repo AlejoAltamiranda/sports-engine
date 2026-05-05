@@ -285,31 +285,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-05T13:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Ciclismo – La Vuelta Femenina – Etapa #3",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-05T16:45:00Z",
     "logo": "img/nl.png",
     "liga": "Eredivisie",
@@ -372,6 +347,16 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Ziggo Sports 2",
+        "url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9tYWcwMS50dngucHJkLnR2Lm9kaWRvLm5sL1BMVFYvODYvMjI0LzMyMjEyNDE1OTAvMzIyMTI0MTU5MC5tcGQ/em9uZW9mZnNldD0wJmRldmticHM9MS03MDAwJnNlcnZpY2V0eXBlPTEmaWNwaWQ9ODYmYWNjb3VudHR5cGU9MSZsaW1pdGZsdXg9LTEmbGltaXRkdXI9LTEmdGVuYW50SWQ9MzEwMyZhY2NvdW50aW5mbz0lN0UlN0VWMi4wJTdFcWJjc0poX2pVNUM5QmNaYzk1OWVfd2FlNDRiNDg2N2IzNDE3YWE3NmI1ZGIyZGEyMGZlNDZjJTdFS1p6VFdqQjhxRDF6ZGdiSmpSUFZMSlgtdFYwcWlOOVJCSENfaXNlR3JzbVRTUmpqMDZvR0R0R2xwU0NSR093RjM2MjZjZjA4NWMwOGQwMjRjN2U0YWFmYzE4YzMyNDQwJTdFRXh0SW5mbzVSbzNWcHBXaVV1c2oyaXBwcVVQa1ElM0QlM0Q0YTJkMmM4Y2UxMzNmNDMwMjZkMGUzMWI4MjJiODQ3NCUzQTIwMjQwNjAxMDEyODI5JTNBVVRDJTJDMTAwMDEwMDMzMjkyMjIlMkM4Ny4yMTIuMTQwLjE3MSUyQzIwMjQwNjAxMDEyODI5JTJDMzEwM19TUDFTJTJDMTAwMDEwMDMzMjkyMjIlMkMtMSUyQzAlMkMxJTJDJTJDJTJDMiUyQzMxMDNfU3BvcnQxJTJDJTJDJTJDMiUyQzEwMDAwMDQ0NDQ0MzAzJTJDMCUyQzEwMDAwMDI1MDUwMjU1JTJDTkRFek9EZzJOVFkzTXpFd016STJOek13TmpNd05UWSUzRCUyQyUyQyUyQzUlMkMxJTJDRU5EJkd1YXJkRW5jVHlwZT0y&k=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM=",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision",
+        "url": "https://tvtvhd.com/canales.php?stream=univision",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN AR┃OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
         "calidad": "HD"
@@ -382,8 +367,28 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision USA",
+        "url": "https://tvtvhd.com/canales.php?stream=univision",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN Mexico",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Amazon Prime",
+        "url": "https://tvtvhd.com/canales.php?stream=evento8",
         "calidad": "HD"
       }
     ],
