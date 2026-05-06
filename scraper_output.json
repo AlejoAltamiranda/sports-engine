@@ -1,58 +1,18 @@
 [
   {
-    "hora_utc": "2026-05-06T16:30:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Sarmiento vs Vélez Sarsfield",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-06T16:45:00Z",
+    "hora_utc": "2026-05-06T16:45Z",
     "logo": "img/default.png",
-    "liga": "Eerste Divisie",
+    "liga": "Soccer",
     "equipos": "Almere City vs De Graafschap",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "ESPN NL ",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/echo/almere-city-fc-vs-de-graafschap-football-1543734/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-06T17:10Z",
@@ -213,6 +173,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_bayern-psg-live-streaming-1301812884/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/bayern-munchen-vs-paris-saint-germain-football-1540844/1",
         "calidad": "HD"
       }
@@ -274,26 +239,6 @@
       {
         "nombre": "Dsports 2 | OP3",
         "url": "https://tvtvhd.com/canales.php?stream=dsports2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-06T20:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Sudamericano Sub-17 Femenino",
-    "equipos": "Brasil vs Chile",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports + I OP2",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       }
     ],
