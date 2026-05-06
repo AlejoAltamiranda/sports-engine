@@ -998,6 +998,90 @@ def process_github_source(data):
     
     return matches
 
+
+def normalizar_nombre_equipo_con_alias(nombre_equipo):
+    """Normaliza nombre de equipo usando TEAMS_DB y aliases"""
+    if not nombre_equipo or not TEAMS_DB:
+        return nombre_equipo
+    
+    nombre_norm = normalizar_texto(nombre_equipo)
+    
+    for team in TEAMS_DB.values():
+        # Buscar por nombre oficial
+        if normalizar_texto(team.get('name', '')) == nombre_norm:
+            return team['name']
+        # Buscar por alias
+        for alias in team.get('aliases', []):
+            if normalizar_texto(alias) == nombre_norm:
+                return team['name']
+    
+    return nombre_equipo
+
+
+def unificar_por_equipos(all_matches):
+    """
+    Unifica eventos por nombre de equipos (ignorando liga y hora).
+    Prioriza la liga más específica (no genérica) y el logo correspondiente.
+    """
+    unificados = {}
+    
+    # Ordenar para que las ligas específicas tengan prioridad
+    def prioridad(liga):
+        if liga in ['Soccer', 'Deportes', 'Evento Deportivo', 'Fútbol']:
+            return 1
+        return 0
+    
+    for m in all_matches:
+        equipos = m['equipos']
+        hora = m.get('hora_utc', '')
+        liga = m.get('liga', '')
+        logo = m.get('logo', '')
+        
+        # Normalizar equipos con alias de teams.json
+        if ' vs ' in equipos:
+            partes = equipos.split(' vs ')
+            if len(partes) == 2:
+                eq1 = normalizar_nombre_equipo_con_alias(partes[0].strip())
+                eq2 = normalizar_nombre_equipo_con_alias(partes[1].strip())
+                if eq1.lower() > eq2.lower():
+                    equipos_norm = f"{eq2} vs {eq1}"
+                else:
+                    equipos_norm = f"{eq1} vs {eq2}"
+            else:
+                equipos_norm = equipos
+        else:
+            equipos_norm = equipos
+        
+        # Clave solo por equipos (ignoramos liga y hora)
+        key = equipos_norm
+        
+        if key not in unificados:
+            unificados[key] = m.copy()
+            unificados[key]['equipos'] = equipos_norm
+        else:
+            existing = unificados[key]
+            
+            # Priorizar la liga más específica
+            ligas_genericas = ['Soccer', 'Deportes', 'Evento Deportivo', 'Fútbol']
+            if existing['liga'] in ligas_genericas and liga not in ligas_genericas:
+                existing['liga'] = liga
+                existing['logo'] = logo
+            elif liga not in ligas_genericas and existing['liga'] not in ligas_genericas:
+                # Ambas específicas, mantener la primera (ya está)
+                pass
+            
+            # Unificar canales
+            for canal in m.get('canales', []):
+                url = canal.get('url', '')
+                if url and not any(c.get('url') == url for c in existing['canales']):
+                    existing['canales'].append(canal)
+            
+            # Usar la hora más temprana
+            if hora and (not existing.get('hora_utc') or hora < existing['hora_utc']):
+                existing['hora_utc'] = hora
+    
+    return list(unificados.values())
+
     
 
 # ============================================
@@ -1023,92 +1107,14 @@ def run_scraper():
         else:
             print(f'   ❌ Sin datos')
     
-    # ============================================================
-    # AGRUPACIÓN PARA F1: SOLO POR NOMBRE (ignorando hora)
-    # ============================================================
-    f1_matches = {}
-    other_matches = {}
-    
-    for m in all_matches:
-        # Detectar si es F1
-        es_f1 = m.get('liga') == 'Formula 1'
-        
-        if es_f1:
-            # Para F1: agrupar SOLO por nombre de equipos
-            equipos_key = m['equipos']
-            
-            if equipos_key not in f1_matches:
-                f1_matches[equipos_key] = m
-            else:
-                # Unificar canales
-                existing = f1_matches[equipos_key]
-                existing['canales'].extend(m['canales'])
-                # Quitar duplicados de canales por URL
-                urls_vistas = set()
-                canales_unicos = []
-                for canal in existing['canales']:
-                    url = canal.get('url', '')
-                    if url and url not in urls_vistas:
-                        urls_vistas.add(url)
-                        canales_unicos.append(canal)
-                    elif not url:
-                        canales_unicos.append(canal)
-                existing['canales'] = canales_unicos
-                # Usar la hora más temprana
-                if m['hora_utc'] and (not existing['hora_utc'] or m['hora_utc'] < existing['hora_utc']):
-                    existing['hora_utc'] = m['hora_utc']
-        else:
-            # Para otros deportes: usar la clave original con hora
-            if not m.get('hora_utc'):
-                continue
-            
-            equipos_original = m['equipos']
-            if ' vs ' in equipos_original:
-                partes = equipos_original.split(' vs ')
-                if len(partes) == 2:
-                    team1, team2 = partes[0].strip(), partes[1].strip()
-                    if team1.lower() > team2.lower():
-                        equipos_key = f"{team2} vs {team1}"
-                    else:
-                        equipos_key = equipos_original
-                else:
-                    equipos_key = equipos_original
-            else:
-                equipos_key = equipos_original
-            
-            hora_agrupada = obtener_clave_hora(m['hora_utc'])
-            key = f"{equipos_key}|{hora_agrupada}"
-            
-            if key not in other_matches:
-                other_matches[key] = m
-            else:
-                existing = other_matches[key]
-                existing['canales'].extend(m['canales'])
-                # Quitar duplicados de canales por URL
-                urls_vistas = set()
-                canales_unicos = []
-                for canal in existing['canales']:
-                    url = canal.get('url', '')
-                    if url and url not in urls_vistas:
-                        urls_vistas.add(url)
-                        canales_unicos.append(canal)
-                    elif not url:
-                        canales_unicos.append(canal)
-                existing['canales'] = canales_unicos
-                if m['hora_utc'] < existing['hora_utc']:
-                    existing['hora_utc'] = m['hora_utc']
-                if existing['logo'] == COUNTRY_LOGO['default'] and m['logo'] != COUNTRY_LOGO['default']:
-                    existing['logo'] = m['logo']
-    
-    # Combinar resultados
-    final_matches = list(f1_matches.values()) + list(other_matches.values())
+    # 🔥 NUEVA AGRUPACIÓN: Unificar por nombre de equipos (ignorando liga y hora)
+    final_matches = unificar_por_equipos(all_matches)
     final_matches.sort(key=lambda x: x.get('hora_utc', ''))
     
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_matches, f, indent=2, ensure_ascii=False)
     
     print(f'\n💾 Guardados {len(final_matches)} partidos únicos en {OUTPUT_FILE}')
-    print(f'   🔥 Eventos F1 unificados: {len(f1_matches)}')
     
     ligas = defaultdict(int)
     for m in final_matches:
