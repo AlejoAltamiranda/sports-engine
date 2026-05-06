@@ -1,385 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-05T22:40Z",
-    "hora_fin_utc": "2026-05-06T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Detroit Tigers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2332",
-        "url": "https://sharkstreams.net/player.php?channel=2332",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T22:40Z",
-    "hora_fin_utc": "2026-05-06T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Athletics vs Philadelphia Phillies",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2333",
-        "url": "https://sharkstreams.net/player.php?channel=2333",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T22:40Z",
-    "hora_fin_utc": "2026-05-06T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Miami Marlins",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2334",
-        "url": "https://sharkstreams.net/player.php?channel=2334",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T22:40Z",
-    "hora_fin_utc": "2026-05-06T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Tampa Bay Rays vs Toronto Blue Jays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2335",
-        "url": "https://sharkstreams.net/player.php?channel=2335",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T22:40Z",
-    "hora_fin_utc": "2026-05-06T01:55:00Z",
-    "liga": "MLB",
-    "equipos": "Minnesota Twins vs Washington Nationals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2336",
-        "url": "https://sharkstreams.net/player.php?channel=2336",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:00Z",
-    "hora_fin_utc": "2026-05-06T02:15:00Z",
-    "liga": "NBA",
-    "equipos": "Cleveland Cavaliers vs Detroit Pistons",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2329",
-        "url": "https://sharkstreams.net/player.php?channel=2329",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22206/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:00Z",
-    "hora_fin_utc": "2026-05-06T02:00:00Z",
-    "liga": "NHL",
-    "equipos": "Colorado Avalanche vs Minnesota Wild",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
-    "canales": [
-      {
-        "nombre": "2331",
-        "url": "https://sharkstreams.net/player.php?channel=2331",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:05Z",
-    "hora_fin_utc": "2026-05-06T02:20:00Z",
-    "liga": "MLB",
-    "equipos": "New York Yankees vs Texas Rangers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2337",
-        "url": "https://sharkstreams.net/player.php?channel=2337",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:40Z",
-    "hora_fin_utc": "2026-05-06T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Kansas City Royals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2339",
-        "url": "https://sharkstreams.net/player.php?channel=2339",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:40Z",
-    "hora_fin_utc": "2026-05-06T02:55:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Cincinnati Reds",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2338",
-        "url": "https://sharkstreams.net/player.php?channel=2338",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-05T23:45Z",
-    "hora_fin_utc": "2026-05-06T03:00:00Z",
-    "liga": "MLB",
-    "equipos": "Milwaukee Brewers vs St. Louis Cardinals",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2340",
-        "url": "https://sharkstreams.net/player.php?channel=2340",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T00:10Z",
-    "hora_fin_utc": "2026-05-06T03:25:00Z",
-    "liga": "MLB",
-    "equipos": "Houston Astros vs Los Angeles Dodgers",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2341",
-        "url": "https://sharkstreams.net/player.php?channel=2341",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T00:30Z",
-    "hora_fin_utc": "2026-05-06T03:45:00Z",
-    "liga": "NBA",
-    "equipos": "Los Angeles Lakers vs Oklahoma City Thunder",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "2330",
-        "url": "https://sharkstreams.net/player.php?channel=2330",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T00:40Z",
-    "hora_fin_utc": "2026-05-06T03:55:00Z",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs New York Mets",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2342",
-        "url": "https://sharkstreams.net/player.php?channel=2342",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T01:38Z",
-    "hora_fin_utc": "2026-05-06T04:53:00Z",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Los Angeles Angels",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2343",
-        "url": "https://sharkstreams.net/player.php?channel=2343",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-los-angeles-angels/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22196/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T01:40Z",
-    "hora_fin_utc": "2026-05-06T04:55:00Z",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs Seattle Mariners",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2344",
-        "url": "https://sharkstreams.net/player.php?channel=2344",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22197/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T01:40Z",
-    "hora_fin_utc": "2026-05-06T04:55:00Z",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs Pittsburgh Pirates",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2345",
-        "url": "https://sharkstreams.net/player.php?channel=2345",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22215/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T01:45Z",
-    "hora_fin_utc": "2026-05-06T05:00:00Z",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs San Francisco Giants",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "2346",
-        "url": "https://sharkstreams.net/player.php?channel=2346",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22195/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T13:00:00Z",
-    "hora_fin_utc": "2026-05-06T16:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Francisco Comesaña vs Jan-Lennard Struff",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T13:30:00Z",
-    "hora_fin_utc": "2026-05-06T16:00:00Z",
-    "liga": "Deportes",
-    "equipos": "Ciclismo – La Vuelta Femenina – Etapa #4",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T14:25:00Z",
-    "hora_fin_utc": "2026-05-06T17:25:00Z",
-    "liga": "Tenis",
-    "equipos": "Alejandro Tabilo vs Pablo Carreno-Busta",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-06T15:10:00Z",
     "hora_fin_utc": "2026-05-06T18:10:00Z",
     "liga": "Tenis",
@@ -450,6 +70,56 @@
       {
         "nombre": "ESPN NL | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/almere-city-fc-vs-de-graafschap-football-1543734/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T17:10Z",
+    "hora_fin_utc": "2026-05-06T20:25:00Z",
+    "liga": "MLB",
+    "equipos": "Tampa Bay Rays vs Toronto Blue Jays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2347",
+        "url": "https://sharkstreams.net/player.php?channel=2347",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T17:15Z",
+    "hora_fin_utc": "2026-05-06T20:30:00Z",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs St. Louis Cardinals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2348",
+        "url": "https://sharkstreams.net/player.php?channel=2348",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T18:10Z",
+    "hora_fin_utc": "2026-05-06T21:25:00Z",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Los Angeles Dodgers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2349",
+        "url": "https://sharkstreams.net/player.php?channel=2349",
         "calidad": "HD"
       }
     ]
@@ -566,6 +236,41 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22166/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/bayern-munchen-vs-paris-saint-germain-football-1540844/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T19:10Z",
+    "hora_fin_utc": "2026-05-06T22:25:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2350",
+        "url": "https://sharkstreams.net/player.php?channel=2350",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T19:45Z",
+    "hora_fin_utc": "2026-05-06T23:00:00Z",
+    "liga": "MLB",
+    "equipos": "San Diego Padres vs San Francisco Giants",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2351",
+        "url": "https://sharkstreams.net/player.php?channel=2351",
+        "calidad": "HD"
       }
     ]
   },
@@ -595,6 +300,36 @@
       {
         "nombre": "DSports +",
         "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T20:07Z",
+    "hora_fin_utc": "2026-05-06T23:22:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs Los Angeles Angels",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2352",
+        "url": "https://sharkstreams.net/player.php?channel=2352",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T20:10Z",
+    "hora_fin_utc": "2026-05-06T23:25:00Z",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Seattle Mariners",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2353",
+        "url": "https://sharkstreams.net/player.php?channel=2353",
         "calidad": "HD"
       }
     ]
@@ -735,6 +470,66 @@
     ]
   },
   {
+    "hora_utc": "2026-05-06T22:40Z",
+    "hora_fin_utc": "2026-05-07T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Miami Marlins",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2354",
+        "url": "https://sharkstreams.net/player.php?channel=2354",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T22:40Z",
+    "hora_fin_utc": "2026-05-07T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Athletics vs Philadelphia Phillies",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2355",
+        "url": "https://sharkstreams.net/player.php?channel=2355",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T22:40Z",
+    "hora_fin_utc": "2026-05-07T01:55:00Z",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Detroit Tigers",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2356",
+        "url": "https://sharkstreams.net/player.php?channel=2356",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T22:45Z",
+    "hora_fin_utc": "2026-05-07T02:00:00Z",
+    "liga": "MLB",
+    "equipos": "Minnesota Twins vs Washington Nationals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2357",
+        "url": "https://sharkstreams.net/player.php?channel=2357",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-06T23:00:00Z",
     "hora_fin_utc": "2026-05-07T02:15:00Z",
     "liga": "NBA",
@@ -758,6 +553,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "2363",
+        "url": "https://sharkstreams.net/player.php?channel=2363",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-philadelphia-76-ers-vs-new-york-knicks/1",
         "calidad": "HD"
@@ -771,12 +571,32 @@
   },
   {
     "hora_utc": "2026-05-06T23:00Z",
+    "hora_fin_utc": "2026-05-07T04:00:00Z",
+    "liga": "Boxing",
+    "equipos": "BKFC Championship: Blood 4 Blood",
+    "logo": "img/box.png",
+    "sport": "box",
+    "canales": [
+      {
+        "nombre": "2367",
+        "url": "https://sharkstreams.net/player.php?channel=2367",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T23:00Z",
     "hora_fin_utc": "2026-05-07T02:00:00Z",
     "liga": "NHL",
     "equipos": "Buffalo Sabres vs Montreal Canadiens",
     "logo": "img/nhl.png",
     "sport": "nhl",
     "canales": [
+      {
+        "nombre": "2365",
+        "url": "https://sharkstreams.net/player.php?channel=2365",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
@@ -798,8 +618,43 @@
     "sport": "mlb",
     "canales": [
       {
+        "nombre": "2358",
+        "url": "https://sharkstreams.net/player.php?channel=2358",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22210/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T23:40Z",
+    "hora_fin_utc": "2026-05-07T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Kansas City Royals",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2359",
+        "url": "https://sharkstreams.net/player.php?channel=2359",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-06T23:40Z",
+    "hora_fin_utc": "2026-05-07T02:55:00Z",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Cincinnati Reds",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2360",
+        "url": "https://sharkstreams.net/player.php?channel=2360",
         "calidad": "HD"
       }
     ]
@@ -950,6 +805,21 @@
     ]
   },
   {
+    "hora_utc": "2026-05-07T01:20Z",
+    "hora_fin_utc": "2026-05-07T04:35:00Z",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2361",
+        "url": "https://sharkstreams.net/player.php?channel=2361",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-07T01:30:00Z",
     "hora_fin_utc": "2026-05-07T04:45:00Z",
     "liga": "NBA",
@@ -970,6 +840,11 @@
       {
         "nombre": "ESPN 4 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2364",
+        "url": "https://sharkstreams.net/player.php?channel=2364",
         "calidad": "HD"
       },
       {
@@ -1038,6 +913,11 @@
     "sport": "nhl",
     "canales": [
       {
+        "nombre": "2366",
+        "url": "https://sharkstreams.net/player.php?channel=2366",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-vegas-golden-knights/1",
         "calidad": "HD"
@@ -1045,6 +925,21 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22190/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-07T01:40Z",
+    "hora_fin_utc": "2026-05-07T04:55:00Z",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs Pittsburgh Pirates",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2362",
+        "url": "https://sharkstreams.net/player.php?channel=2362",
         "calidad": "HD"
       }
     ]
@@ -1200,6 +1095,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-rayo-vallecano/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-07T23:00Z",
+    "hora_fin_utc": "2026-05-08T02:15:00Z",
+    "liga": "NBA",
+    "equipos": "Cleveland Cavaliers vs Detroit Pistons",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22206/1",
         "calidad": "HD"
       }
     ]
