@@ -28,7 +28,7 @@
     "hora_utc": "2026-05-06T16:30:00Z",
     "logo": "img/ar.png",
     "liga": "Liga Profesional",
-    "equipos": "Sarmiento vs Vélez Sársfield",
+    "equipos": "Sarmiento vs Vélez Sarsfield",
     "status": "pronto",
     "canales": [
       {
@@ -168,7 +168,7 @@
     "hora_utc": "2026-05-06T19:00:00Z",
     "logo": "img/champions.png",
     "liga": "UEFA Champions League",
-    "equipos": "Bayern München vs PSG",
+    "equipos": "Bayern München vs Paris Saint-Germain",
     "status": "pronto",
     "canales": [
       {
@@ -215,17 +215,7 @@
         "nombre": "Univision USA",
         "url": "https://tvtvhd.com/canales.php?stream=univision",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-06T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "Bayern Munich vs Paris SG",
-    "status": "pronto",
-    "canales": [
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-paris-saint-germain/1",
@@ -242,7 +232,7 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-06T19:10Z",
@@ -254,6 +244,11 @@
       {
         "nombre": "2350",
         "url": "https://sharkstreams.net/player.php?channel=2350",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "2361",
+        "url": "https://sharkstreams.net/player.php?channel=2361",
         "calidad": "HD"
       }
     ],
@@ -373,7 +368,7 @@
     "hora_utc": "2026-05-06T22:00:00Z",
     "logo": "img/sud.png",
     "liga": "Copa Sudamericana",
-    "equipos": "Palestino vs Torque",
+    "equipos": "Montevideo City Torque vs Palestino",
     "status": "pronto",
     "canales": [
       {
@@ -403,7 +398,7 @@
     "hora_utc": "2026-05-06T22:00:00Z",
     "logo": "img/lib.png",
     "liga": "Copa Libertadores",
-    "equipos": "Cusco vs Estudiantes",
+    "equipos": "Cusco FC vs Estudiantes de La Plata",
     "status": "pronto",
     "canales": [
       {
@@ -703,7 +698,7 @@
     "hora_utc": "2026-05-07T00:00:00Z",
     "logo": "img/sud.png",
     "liga": "Copa Sudamericana",
-    "equipos": "Barracas Central vs Olimpia",
+    "equipos": "Barracas Central vs Club Olimpia",
     "status": "pronto",
     "canales": [
       {
@@ -743,7 +738,7 @@
     "hora_utc": "2026-05-07T00:30:00Z",
     "logo": "img/sud.png",
     "liga": "Copa Sudamericana",
-    "equipos": "Botafogo vs Racing",
+    "equipos": "Botafogo vs Racing Club",
     "status": "pronto",
     "canales": [
       {
@@ -768,7 +763,7 @@
     "hora_utc": "2026-05-07T00:30:00Z",
     "logo": "img/lib.png",
     "liga": "Copa Libertadores",
-    "equipos": "Corinthians vs Santa Fe",
+    "equipos": "Corinthians vs Independiente Santa Fe",
     "status": "pronto",
     "canales": [
       {
@@ -843,21 +838,6 @@
       }
     ],
     "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-07T01:20Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs New York Mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2361",
-        "url": "https://sharkstreams.net/player.php?channel=2361",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-07T01:30:00Z",
@@ -1013,7 +993,7 @@
     "hora_utc": "2026-05-07T02:00:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
-    "equipos": "Deportes Tolima vs Nacional",
+    "equipos": "Atlético Nacional vs Deportes Tolima",
     "status": "pronto",
     "canales": [
       {
@@ -1073,7 +1053,7 @@
     "hora_utc": "2026-05-07T02:15:00Z",
     "logo": "img/default.png",
     "liga": "Liga Nacional",
-    "equipos": "Marathón vs Olimpia",
+    "equipos": "Club Olimpia vs Marathón",
     "status": "pronto",
     "canales": [
       {
@@ -1113,7 +1093,7 @@
     "hora_utc": "2026-05-07T19:00Z",
     "logo": "img/default.png",
     "liga": "Soccer",
-    "equipos": "Braga vs Freiburg",
+    "equipos": "SC Braga vs SC Freiburg",
     "status": "pronto",
     "canales": [
       {
@@ -1143,7 +1123,7 @@
     "hora_utc": "2026-05-07T19:00Z",
     "logo": "img/default.png",
     "liga": "Soccer",
-    "equipos": "Rayo Vallecano vs Strasbourg",
+    "equipos": "Rayo Vallecano vs RC Strasbourg",
     "status": "pronto",
     "canales": [
       {
