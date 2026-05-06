@@ -11,11 +11,6 @@
         "nombre": "2332",
         "url": "https://sharkstreams.net/player.php?channel=2332",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22200/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -30,11 +25,6 @@
       {
         "nombre": "2333",
         "url": "https://sharkstreams.net/player.php?channel=2333",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22198/1",
         "calidad": "HD"
       }
     ]
@@ -51,11 +41,6 @@
         "nombre": "2334",
         "url": "https://sharkstreams.net/player.php?channel=2334",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22199/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -70,11 +55,6 @@
       {
         "nombre": "2335",
         "url": "https://sharkstreams.net/player.php?channel=2335",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22191/1",
         "calidad": "HD"
       }
     ]
@@ -91,11 +71,6 @@
         "nombre": "2336",
         "url": "https://sharkstreams.net/player.php?channel=2336",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22201/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -110,26 +85,6 @@
       {
         "nombre": "2329",
         "url": "https://sharkstreams.net/player.php?channel=2329",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-cleveland-cavaliers-vs-detroit-pistons/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22168/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nba_pistons-cavaliers-live-streaming-1300182516/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/detroit-pistons-vs-cleveland-cavaliers-basketball-498882/1",
         "calidad": "HD"
       }
     ]
@@ -161,11 +116,6 @@
         "nombre": "2337",
         "url": "https://sharkstreams.net/player.php?channel=2337",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22202/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -180,11 +130,6 @@
       {
         "nombre": "2339",
         "url": "https://sharkstreams.net/player.php?channel=2339",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22204/1",
         "calidad": "HD"
       }
     ]
@@ -201,11 +146,6 @@
         "nombre": "2338",
         "url": "https://sharkstreams.net/player.php?channel=2338",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22203/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -220,41 +160,6 @@
       {
         "nombre": "2340",
         "url": "https://sharkstreams.net/player.php?channel=2340",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22192/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T00:00Z",
-    "hora_fin_utc": "2026-05-06T03:00:00Z",
-    "liga": "NHL",
-    "equipos": "Colorado Avalanche vs Minnesota Wild",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-wild-vs-colorado-avalanche/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22169/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_avalanche-wild-live-streaming-1293204501/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/colorado-avalanche-vs-minnesota-wild-hockey-425101/1",
         "calidad": "HD"
       }
     ]
@@ -271,11 +176,6 @@
         "nombre": "2341",
         "url": "https://sharkstreams.net/player.php?channel=2341",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22193/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -291,26 +191,6 @@
         "nombre": "2330",
         "url": "https://sharkstreams.net/player.php?channel=2330",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-lakers-vs-oklahoma-city-thunder/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22167/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nba_thunder-lakers-live-streaming-1295474229/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/oklahoma-city-thunder-vs-los-angeles-lakers-basketball-498797/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -325,26 +205,6 @@
       {
         "nombre": "2342",
         "url": "https://sharkstreams.net/player.php?channel=2342",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22194/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-06T01:30Z",
-    "hora_fin_utc": "2026-05-06T04:00:00Z",
-    "liga": "Soccer",
-    "equipos": "Nashville vs Tigres",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/tigres-uanl-vs-nashville-sc-football-1540847/1",
         "calidad": "HD"
       }
     ]
@@ -424,6 +284,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22195/1",
         "calidad": "HD"
       }
@@ -459,6 +324,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-76-ers-vs-new-york-knicks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22187/1",
         "calidad": "HD"
       }
@@ -474,6 +344,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22189/1",
         "calidad": "HD"
       }
@@ -504,6 +379,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22188/1",
         "calidad": "HD"
       }
@@ -519,6 +399,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-vegas-golden-knights/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22190/1",
         "calidad": "HD"
       }
