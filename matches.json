@@ -1,30 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-06T15:10:00Z",
-    "hora_fin_utc": "2026-05-06T18:10:00Z",
-    "liga": "Tenis",
-    "equipos": "Giovanni Mpetshi Perricard vs Jacob Fearnley",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-06T16:30:00Z",
     "hora_fin_utc": "2026-05-06T19:00:00Z",
     "liga": "Liga Profesional",
