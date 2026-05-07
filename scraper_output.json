@@ -1,33 +1,18 @@
 [
   {
-    "hora_utc": "2026-05-07T16:30:00Z",
+    "hora_utc": "2026-05-07T16:35Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "New York Yankees vs Texas Rangers",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
         "nombre": "2368",
         "url": "https://sharkstreams.net/player.php?channel=2368",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-07T17:00:00Z",
@@ -123,7 +108,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/al-shabab-vs-al-nassr-football-1436201/1",
+        "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-shabab-al-nassr-live-streaming-1096333569/1",
         "calidad": "HD"
       }
     ],
@@ -253,6 +238,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_strasbourg-rayo-vallecano-live-streaming-1301816880/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/1",
         "calidad": "HD"
       }
@@ -263,7 +253,7 @@
     "hora_utc": "2026-05-07T19:00:00Z",
     "logo": "img/default.png",
     "liga": "UEFA Europa League",
-    "equipos": "SC Freiburg vs Sporting Braga",
+    "equipos": "SC Braga vs SC Freiburg",
     "status": "pronto",
     "canales": [
       {
@@ -284,6 +274,16 @@
       {
         "nombre": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-braga/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/1",
         "calidad": "HD"
       }
     ],
@@ -308,6 +308,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_crystal-palace-shakhtar-live-streaming-1301815881/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/crystal-palace-vs-shakhtar-donetsk-football-1540881/1",
         "calidad": "HD"
       }
@@ -355,26 +360,6 @@
     "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-07T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "SC Braga vs SC Freiburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-braga/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-05-07T19:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -398,6 +383,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_rockies-mets-live-streaming-1301135562/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/colorado-rockies-vs-new-york-mets-baseball-178547/1",
         "calidad": "HD"
       }
