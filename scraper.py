@@ -555,6 +555,7 @@ TOURNAMENT_TO_COUNTRY = {
     'Primera División Uruguay': 'uruguay', 'Liga Uruguaya': 'uruguay','Liga AUF Uruguaya': 'uruguay',
     'Torneo Apertura Uruguay': 'uruguay','Torneo Clausura Uruguay': 'uruguay',
     'Champions League': 'champions', 'Champions': 'champions', 'UEFA Champions League': 'champions',
+    'UEFA Europa League': 'europaleague', 'UEFA Conference League': 'conference',
     'MLS': 'usa', 'MLB': 'mlb', 'NBA': 'nba','WNBA': 'nba','WWE': 'wwe','UFC': 'ufc','Boxing': 'box',
     'NFL': 'nfl','NHL': 'nhl','Formula 1': 'f1', 'Tenis': 'tenis', 'default': 'evento deportivo'
 }
@@ -568,6 +569,7 @@ COUNTRY_LOGO = {
     'mexico': 'img/mx.png', 'bolivia': 'img/bo.png', 'nba': 'img/nba.png', 
     'italy': 'img/it.png', 'france': 'img/fr.png', 'england': 'img/en.png',
     'mlb': 'img/mlb.png', 'wwe': 'img/wwe.png', 'champions':'img/champions.png', 
+    'europaleague': 'img/europa_league.png', 'conference': 'img/conference_league.png',
     'sudamericana':'img/sud.png', 'libertadores':'img/lib.png', 
     'f1': 'img/formula1.png', 'ufc': 'img/ufc.png', 'box': 'img/box.png',
     'nhl': 'img/nhl.png', 'nfl': 'img/nfl.png', 'default': 'img/default.png'
