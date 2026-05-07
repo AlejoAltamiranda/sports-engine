@@ -10,11 +10,6 @@
         "nombre": "2347",
         "url": "https://sharkstreams.net/player.php?channel=2347",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22191/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -30,11 +25,6 @@
         "nombre": "2348",
         "url": "https://sharkstreams.net/player.php?channel=2348",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22192/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -49,56 +39,6 @@
       {
         "nombre": "2349",
         "url": "https://sharkstreams.net/player.php?channel=2349",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22193/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_astros-dodgers-live-streaming-1266755976/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/houston-astros-vs-los-angeles-dodgers-baseball-178561/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T19:00Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "Bayern München vs Paris Saint-Germain",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-paris-saint-germain/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22166/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_uefa-champions-league-knockout-stage_bayern-psg-live-streaming-1301812884/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/bayern-munchen-vs-paris-saint-germain-football-1540844/1",
         "calidad": "HD"
       }
     ],
@@ -140,26 +80,6 @@
         "nombre": "2351",
         "url": "https://sharkstreams.net/player.php?channel=2351",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-san-francisco-giants/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22195/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_giants-padres-live-streaming-1266757974/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/san-francisco-giants-vs-san-diego-padres-baseball-178556/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -174,21 +94,6 @@
       {
         "nombre": "2352",
         "url": "https://sharkstreams.net/player.php?channel=2352",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-los-angeles-angels/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22196/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_angels-white-sox-live-streaming-1266758973/1",
         "calidad": "HD"
       }
     ],
@@ -208,22 +113,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22197/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_mariners-braves-live-streaming-1266759972/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/seattle-mariners-vs-atlanta-braves-baseball-178555/1",
         "calidad": "HD"
       }
     ],
@@ -293,6 +183,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_tigers-red-sox-live-streaming-1266760971/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/detroit-tigers-vs-boston-red-sox-baseball-178562/1",
         "calidad": "HD"
       }
@@ -388,6 +283,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_knicks-76ers-live-streaming-1298690010/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/new-york-knicks-vs-philadelphia-76ers-basketball-498815/1",
         "calidad": "HD"
       }
@@ -730,6 +630,11 @@
         "nombre": "FOX Sports 1 USA",
         "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-fc-football-1540848/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -755,6 +660,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22188/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/san-antonio-spurs-vs-minnesota-timberwolves-basketball-498798/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -779,6 +689,16 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22190/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1295511192/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/vegas-golden-knights-vs-anaheim-ducks-hockey-425103/1",
         "calidad": "HD"
       }
     ],
@@ -831,9 +751,9 @@
   },
   {
     "hora_utc": "2026-05-07T02:00:00Z",
-    "logo": "img/col.png",
-    "liga": "Liga Betplay",
-    "equipos": "Atlético Nacional vs Deportes Tolima",
+    "logo": "img/lib.png",
+    "liga": "Copa Libertadores",
+    "equipos": "Deportes Tolima vs Nacional",
     "status": "pronto",
     "canales": [
       {
