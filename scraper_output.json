@@ -1,241 +1,6 @@
 [
   {
-    "hora_utc": "2026-05-06T17:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Tampa Bay Rays vs Toronto Blue Jays",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2347",
-        "url": "https://sharkstreams.net/player.php?channel=2347",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T17:15Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Milwaukee Brewers vs St. Louis Cardinals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2348",
-        "url": "https://sharkstreams.net/player.php?channel=2348",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T18:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Houston Astros vs Los Angeles Dodgers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2349",
-        "url": "https://sharkstreams.net/player.php?channel=2349",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T19:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Colorado Rockies vs New York Mets",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2350",
-        "url": "https://sharkstreams.net/player.php?channel=2350",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2361",
-        "url": "https://sharkstreams.net/player.php?channel=2361",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22214/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T19:45Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "San Diego Padres vs San Francisco Giants",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2351",
-        "url": "https://sharkstreams.net/player.php?channel=2351",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T20:07Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Los Angeles Angels",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2352",
-        "url": "https://sharkstreams.net/player.php?channel=2352",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T20:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Atlanta Braves vs Seattle Mariners",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2353",
-        "url": "https://sharkstreams.net/player.php?channel=2353",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Baltimore Orioles vs Miami Marlins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2354",
-        "url": "https://sharkstreams.net/player.php?channel=2354",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Athletics vs Philadelphia Phillies",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2355",
-        "url": "https://sharkstreams.net/player.php?channel=2355",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T22:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Boston Red Sox vs Detroit Tigers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2356",
-        "url": "https://sharkstreams.net/player.php?channel=2356",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T22:45Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Minnesota Twins vs Washington Nationals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2357",
-        "url": "https://sharkstreams.net/player.php?channel=2357",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T23:00Z",
-    "logo": "img/box.png",
-    "liga": "Boxing",
-    "equipos": "BKFC Championship: Blood 4 Blood",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2367",
-        "url": "https://sharkstreams.net/player.php?channel=2367",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T23:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "Buffalo Sabres vs Montreal Canadiens",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2365",
-        "url": "https://sharkstreams.net/player.php?channel=2365",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22230/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T23:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "New York Knicks vs Philadelphia 76ers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2363",
-        "url": "https://sharkstreams.net/player.php?channel=2363",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22225/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T23:05Z",
+    "hora_utc": "2026-05-07T16:30:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "New York Yankees vs Texas Rangers",
@@ -257,93 +22,43 @@
         "calidad": "HD"
       },
       {
-        "nombre": "2358",
-        "url": "https://sharkstreams.net/player.php?channel=2358",
+        "nombre": "2368",
+        "url": "https://sharkstreams.net/player.php?channel=2368",
         "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-06T23:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Cleveland Guardians vs Kansas City Royals",
+    "hora_utc": "2026-05-07T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "ciclista Paris–Roubaix",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "2359",
-        "url": "https://sharkstreams.net/player.php?channel=2359",
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-06T23:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Chicago Cubs vs Cincinnati Reds",
-    "status": "pronto",
-    "canales": [
+      },
       {
-        "nombre": "2360",
-        "url": "https://sharkstreams.net/player.php?channel=2360",
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-07T01:30Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
-    "status": "pronto",
-    "canales": [
+      },
       {
-        "nombre": "2364",
-        "url": "https://sharkstreams.net/player.php?channel=2364",
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-07T01:30Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "Anaheim Ducks vs Vegas Golden Knights",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2366",
-        "url": "https://sharkstreams.net/player.php?channel=2366",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-07T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Arizona Diamondbacks vs Pittsburgh Pirates",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2362",
-        "url": "https://sharkstreams.net/player.php?channel=2362",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-07T15:00:00Z",
+    "hora_utc": "2026-05-07T17:00:00Z",
     "logo": "img/default.png",
     "liga": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "equipos": "Cristian Garin vs Juan Manuel Cerundolo",
+    "equipos": "Gianluca Cadenasso vs Thiago Agustin Tirante",
     "status": "pronto",
     "canales": [
       {
@@ -359,6 +74,56 @@
       {
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-07T17:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Minnesota Twins vs Washington Nationals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2369",
+        "url": "https://sharkstreams.net/player.php?channel=2369",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T18:00:00Z",
+    "logo": "img/sa.png",
+    "liga": "Saudi Pro League",
+    "equipos": "Al Nassr vs Al Shabab",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX ONE C",
+        "url": "https://tvtvhd.com/canales.php?stream=eventos",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/al-shabab-vs-al-nassr-football-1436201/1",
         "calidad": "HD"
       }
     ],
@@ -415,10 +180,40 @@
     "fuente": "pltvhd"
   },
   {
+    "hora_utc": "2026-05-07T18:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Kansas City Royals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2370",
+        "url": "https://sharkstreams.net/player.php?channel=2370",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T18:20Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Cincinnati Reds",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2371",
+        "url": "https://sharkstreams.net/player.php?channel=2371",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-07T18:40:00Z",
     "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
+    "liga": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
+    "equipos": "Denis Shapovalov vs Mariano Navone",
     "status": "pronto",
     "canales": [
       {
@@ -448,32 +243,17 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-strasbourg-vs-rayo-vallecano/1",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-07T19:00:00Z",
-    "logo": "img/default.png",
-    "liga": "UEFA Conference League",
-    "equipos": "Crystal Palace vs Shakhtar Donetsk",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
       },
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-crystal-palace-vs-shakhtar-donetsk/1",
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/1",
         "calidad": "HD"
       }
     ],
@@ -499,6 +279,36 @@
       {
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-07T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "UEFA Conference League",
+    "equipos": "Crystal Palace vs Shakhtar Donetsk",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-crystal-palace-vs-shakhtar-donetsk/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/crystal-palace-vs-shakhtar-donetsk-football-1540881/1",
         "calidad": "HD"
       }
     ],
@@ -527,8 +337,18 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-nottingham-forest/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/1",
         "calidad": "HD"
       }
     ],
@@ -545,9 +365,84 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-braga/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/sc-freiburg-vs-sc-braga-football-1540874/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T19:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs New York Mets",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2372",
+        "url": "https://sharkstreams.net/player.php?channel=2372",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22214/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/colorado-rockies-vs-new-york-mets-baseball-178547/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T19:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs Pittsburgh Pirates",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2373",
+        "url": "https://sharkstreams.net/player.php?channel=2373",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T21:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Colombia",
+    "equipos": "Jaguares de Córdoba vs Real Cundinamarca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-07T22:00:00Z",
@@ -569,6 +464,11 @@
       {
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
         "calidad": "HD"
       },
       {
@@ -605,25 +505,10 @@
         "nombre": "ESPN 5 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-07T22:00:00Z",
-    "logo": "img/lib.png",
-    "liga": "Copa Libertadores",
-    "equipos": "LDU Quito vs Mirassol",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
-        "calidad": "HD"
       },
       {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
         "calidad": "HD"
       }
     ],
@@ -640,6 +525,136 @@
         "nombre": "ESPN 3 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
         "calidad": "HD"
+      },
+      {
+        "nombre": "2376",
+        "url": "https://sharkstreams.net/player.php?channel=2376",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-07T22:00:00Z",
+    "logo": "img/sud.png",
+    "liga": "Copa Sudamericana",
+    "equipos": "Boston River vs Millonarios",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-07T22:00:00Z",
+    "logo": "img/lib.png",
+    "liga": "Copa Libertadores",
+    "equipos": "LDU Quito vs Mirassol",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Miami Marlins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2375",
+        "url": "https://sharkstreams.net/player.php?channel=2375",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Athletics vs Philadelphia Phillies",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2374",
+        "url": "https://sharkstreams.net/player.php?channel=2374",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-07T23:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Colombia",
+    "equipos": "Deportivo Pereira vs Ind. Yumbo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -651,6 +666,11 @@
     "equipos": "Cleveland Cavaliers vs Detroit Pistons",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "2378",
+        "url": "https://sharkstreams.net/player.php?channel=2378",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-cleveland-cavaliers-vs-detroit-pistons/1",
@@ -701,6 +721,11 @@
     "equipos": "Carolina Hurricanes vs Philadelphia Flyers",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "2380",
+        "url": "https://sharkstreams.net/player.php?channel=2380",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-carolina-hurricanes-vs-philadelphia-flyers/1",
@@ -775,12 +800,57 @@
     "fuente": "pltvhd"
   },
   {
+    "hora_utc": "2026-05-08T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX Femenil",
+    "equipos": "Monterrey vs Pachuca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FOX ONE C",
+        "url": "https://tvtvhd.com/canales.php?stream=eventos",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-08T01:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Colombia",
+    "equipos": "Atlético Bucaramanga vs Real Santander",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-08T01:30Z",
     "logo": "img/nba.png",
     "liga": "NBA",
     "equipos": "Los Angeles Lakers vs Oklahoma City Thunder",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "2379",
+        "url": "https://sharkstreams.net/player.php?channel=2379",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-los-angeles-lakers-vs-oklahoma-city-thunder/1",
@@ -824,6 +894,46 @@
       {
         "nombre": "BeIN Sports Ñ",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-08T02:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "San Diego Padres vs St. Louis Cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2377",
+        "url": "https://sharkstreams.net/player.php?channel=2377",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-08T03:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX Femenil",
+    "equipos": "América de Cali vs Toluca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
         "calidad": "HD"
       }
     ],
@@ -884,6 +994,36 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-levante-vs-osasuna/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-08T23:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "New York Knicks vs Philadelphia 76ers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22225/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-08T23:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "Buffalo Sabres vs Montreal Canadiens",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22230/1",
         "calidad": "HD"
       }
     ],
