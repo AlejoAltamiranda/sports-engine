@@ -1,7 +1,7 @@
 {
   "bayern": {
     "name": "Bayern München",
-    "aliases": ["bayern", "bayern munich", "bayern münchen"],
+    "aliases": ["bayern", "bayern munich", "bayern münchen","Bayern München"],
     "country": "germany",
     "league": "Bundesliga",
     "sport": "football"
@@ -731,7 +731,7 @@
 
   "atl_nacional": {
     "name": "Atlético Nacional",
-    "aliases": ["atl nacional", "atletico nacional", "nacional"],
+    "aliases": ["atl nacional", "atletico nacional"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
@@ -802,7 +802,7 @@
   },
   "bucaramanga": {
     "name": "Atlético Bucaramanga",
-    "aliases": ["bucaramanga", "atl bucaramanga"],
+    "aliases": ["bucaramanga", "atl bucaramanga", "Atlético Bucaramanga"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
@@ -830,7 +830,7 @@
   },
   "fortaleza_co": {
     "name": "Fortaleza CEIF",
-    "aliases": ["fortaleza"],
+    "aliases": ["fortaleza", "Fortaleza CEIF"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
@@ -851,21 +851,21 @@
   },
   "jaguares": {
     "name": "Jaguares de Córdoba",
-    "aliases": ["jaguares", "jaguares cordoba"],
+    "aliases": ["jaguares", "jaguares cordoba", "Jaguares de Córdoba"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
   },
   "boyaca_chico": {
     "name": "Boyacá Chicó",
-    "aliases": ["boyaca chico", "chico"],
+    "aliases": ["boyaca chico", "chico", "Boyacá Chicó"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
   },
   "pereira": {
     "name": "Deportivo Pereira",
-    "aliases": ["pereira", "deportivo pereira"],
+    "aliases": ["pereira", "deportivo pereira","Deportivo Pereira"],
     "country": "colombia",
     "league": "Liga Betplay",
     "sport": "football"
@@ -1775,7 +1775,7 @@
 },
 "alianza_atletico": {
   "name": "Alianza Atlético",
-  "aliases": ["alianza atletico", "alianza atl"],
+  "aliases": ["alianza atletico", "alianza atl", "Alianza Atlético"],
   "country": "peru",
   "league": "Liga1",
   "sport": "football"
@@ -1824,7 +1824,7 @@
 },
 "sport_huancayo": {
   "name": "Sport Huancayo",
-  "aliases": ["sport huancayo"],
+  "aliases": ["sport huancayo", "Sport Huancayo"],
   "country": "peru",
   "league": "Liga1",
   "sport": "football"
