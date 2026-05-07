@@ -65,6 +65,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22214/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -110,11 +115,6 @@
         "nombre": "2353",
         "url": "https://sharkstreams.net/player.php?channel=2353",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22197/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -129,11 +129,6 @@
       {
         "nombre": "2354",
         "url": "https://sharkstreams.net/player.php?channel=2354",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22217/1",
         "calidad": "HD"
       }
     ],
@@ -150,11 +145,6 @@
         "nombre": "2355",
         "url": "https://sharkstreams.net/player.php?channel=2355",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22216/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -170,26 +160,6 @@
         "nombre": "2356",
         "url": "https://sharkstreams.net/player.php?channel=2356",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-boston-red-sox-vs-detroit-tigers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22200/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_tigers-red-sox-live-streaming-1266760971/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/detroit-tigers-vs-boston-red-sox-baseball-178562/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -204,11 +174,6 @@
       {
         "nombre": "2357",
         "url": "https://sharkstreams.net/player.php?channel=2357",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22211/1",
         "calidad": "HD"
       }
     ],
@@ -240,21 +205,6 @@
         "nombre": "2365",
         "url": "https://sharkstreams.net/player.php?channel=2365",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22189/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/buffalo-sabres-vs-montreal-canadiens-hockey-425102/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -269,26 +219,6 @@
       {
         "nombre": "2363",
         "url": "https://sharkstreams.net/player.php?channel=2363",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-76-ers-vs-new-york-knicks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22187/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nba_knicks-76ers-live-streaming-1298690010/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/new-york-knicks-vs-philadelphia-76ers-basketball-498815/1",
         "calidad": "HD"
       }
     ],
@@ -320,11 +250,6 @@
         "nombre": "2358",
         "url": "https://sharkstreams.net/player.php?channel=2358",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22210/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -340,11 +265,6 @@
         "nombre": "2359",
         "url": "https://sharkstreams.net/player.php?channel=2359",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22212/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -359,11 +279,6 @@
       {
         "nombre": "2360",
         "url": "https://sharkstreams.net/player.php?channel=2360",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22213/1",
         "calidad": "HD"
       }
     ],
@@ -383,17 +298,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22188/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/san-antonio-spurs-vs-minnesota-timberwolves-basketball-498798/1",
         "calidad": "HD"
       }
     ],
@@ -413,37 +318,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-anaheim-ducks-vs-vegas-golden-knights/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22190/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1295511192/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/vegas-golden-knights-vs-anaheim-ducks-hockey-425103/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-07T01:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "Los Angeles vs Toluca",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/toluca-vs-los-angeles-fc-football-1540848/1",
         "calidad": "HD"
       }
     ],
