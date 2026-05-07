@@ -15,56 +15,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-07T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "ciclista Paris–Roubaix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-07T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "equipos": "Gianluca Cadenasso vs Thiago Agustin Tirante",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-07T17:05Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -221,7 +171,7 @@
   },
   {
     "hora_utc": "2026-05-07T19:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/conference_league.png",
     "liga": "UEFA Conference League",
     "equipos": "Rayo Vallecano vs RC Strasbourg",
     "status": "pronto",
@@ -251,7 +201,7 @@
   },
   {
     "hora_utc": "2026-05-07T19:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/europa_league.png",
     "liga": "UEFA Europa League",
     "equipos": "SC Braga vs SC Freiburg",
     "status": "pronto",
@@ -291,7 +241,7 @@
   },
   {
     "hora_utc": "2026-05-07T19:00:00Z",
-    "logo": "img/default.png",
+    "logo": "img/conference_league.png",
     "liga": "UEFA Conference League",
     "equipos": "Crystal Palace vs Shakhtar Donetsk",
     "status": "pronto",

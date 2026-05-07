@@ -15,56 +15,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-07T17:00:00Z",
-    "hora_fin_utc": "2026-05-07T19:30:00Z",
-    "liga": "Deportes",
-    "equipos": "ciclista Paris–Roubaix",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T17:00:00Z",
-    "hora_fin_utc": "2026-05-07T20:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Gianluca Cadenasso vs Thiago Agustin Tirante",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-07T17:05Z",
     "hora_fin_utc": "2026-05-07T20:20:00Z",
     "liga": "MLB",
@@ -209,7 +159,7 @@
     "hora_fin_utc": "2026-05-07T21:30:00Z",
     "liga": "UEFA Conference League",
     "equipos": "Rayo Vallecano vs RC Strasbourg",
-    "logo": "⚽",
+    "logo": "img/conference_league.png",
     "sport": "football",
     "canales": [
       {
@@ -239,7 +189,7 @@
     "hora_fin_utc": "2026-05-07T21:30:00Z",
     "liga": "UEFA Europa League",
     "equipos": "SC Braga vs SC Freiburg",
-    "logo": "⚽",
+    "logo": "img/europa_league.png",
     "sport": "football",
     "canales": [
       {
@@ -279,7 +229,7 @@
     "hora_fin_utc": "2026-05-07T21:30:00Z",
     "liga": "UEFA Conference League",
     "equipos": "Crystal Palace vs Shakhtar Donetsk",
-    "logo": "⚽",
+    "logo": "img/conference_league.png",
     "sport": "football",
     "canales": [
       {
