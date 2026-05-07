@@ -2125,7 +2125,7 @@
   },
   "benfica": {
     "name": "SL Benfica",
-    "aliases": ["benfica", "sl benfica", "águias", "aguias", "encarnados"],
+    "aliases": ["benfica", "sl benfica", "águias", "SL Benfica"],
     "country": "portugal",
     "league": "Primeira Liga",
     "sport": "football"
@@ -2139,7 +2139,7 @@
   },
   "braga": {
     "name": "SC Braga",
-    "aliases": ["braga", "sc braga", "arsenalista", "guerreiros"],
+    "aliases": ["braga", "sc braga", "SC Braga", "Sporting Braga"],
     "country": "portugal",
     "league": "Primeira Liga",
     "sport": "football"
