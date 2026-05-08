@@ -29,37 +29,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-washington-nationals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22211/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_nationals-twins-live-streaming-1266862869/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/washington-nationals-vs-minnesota-twins-baseball-178569/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T18:00Z",
-    "hora_fin_utc": "2026-05-07T20:30:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al Nassr vs Al Shabab",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-shabab-al-nassr-live-streaming-1096333569/1",
         "calidad": "HD"
       }
     ]
@@ -79,22 +49,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-cleveland-guardians-vs-kansas-city-royals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22212/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_royals-guardians-live-streaming-1266863868/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/kansas-city-royals-vs-cleveland-guardians-baseball-178572/1",
         "calidad": "HD"
       }
     ]
@@ -114,22 +69,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-cincinnati-reds-vs-chicago-cubs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22213/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_cubs-reds-live-streaming-1266864867/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/chicago-cubs-vs-cincinnati-reds-baseball-178573/1",
         "calidad": "HD"
       }
     ]
@@ -144,16 +84,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-nottingham-forest/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_uefa-europa-league-knockout-stage_aston-villa-forest-live-streaming-1301813883/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/aston-villa-vs-nottingham-forest-football-1540873/1",
         "calidad": "HD"
       }
@@ -194,11 +124,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_crystal-palace-shakhtar-live-streaming-1301815881/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/crystal-palace-vs-shakhtar-donetsk-football-1540881/1",
         "calidad": "HD"
       }
@@ -219,11 +144,6 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_uefa-europa-conference-league-knockout-stage_strasbourg-rayo-vallecano-live-streaming-1301816880/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/strasbourg-vs-rayo-vallecano-football-1540882/1",
         "calidad": "HD"
       }
@@ -244,22 +164,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-mets-vs-colorado-rockies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22214/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_rockies-mets-live-streaming-1301135562/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/colorado-rockies-vs-new-york-mets-baseball-178547/1",
         "calidad": "HD"
       }
     ]
@@ -285,176 +190,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22215/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_diamondbacks-pirates-live-streaming-1266865866/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/arizona-diamondbacks-vs-pittsburgh-pirates-baseball-178571/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T21:00:00Z",
-    "hora_fin_utc": "2026-05-07T23:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Jaguares de Córdoba vs Real Cundinamarca",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T22:00:00Z",
-    "hora_fin_utc": "2026-05-08T00:30:00Z",
-    "liga": "Copa Libertadores",
-    "equipos": "Peñarol vs Platense",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney8",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports\n",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T22:00:00Z",
-    "hora_fin_utc": "2026-05-08T00:30:00Z",
-    "liga": "Copa Sudamericana",
-    "equipos": "O'Higgins vs São Paulo",
-    "logo": "img/sud.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T22:00:00Z",
-    "hora_fin_utc": "2026-05-08T00:30:00Z",
-    "liga": "Copa Sudamericana",
-    "equipos": "Boston River vs Millonarios",
-    "logo": "img/sud.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-07T22:00:00Z",
-    "hora_fin_utc": "2026-05-08T00:30:00Z",
-    "liga": "Copa Libertadores",
-    "equipos": "LDU Quito vs Mirassol",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Fox Sports 2",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
         "calidad": "HD"
       }
     ]
@@ -484,6 +219,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_marlins-orioles-live-streaming-1266866865/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/miami-marlins-vs-baltimore-orioles-baseball-178570/1",
         "calidad": "HD"
       }
@@ -520,26 +260,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-07T23:00:00Z",
-    "hora_fin_utc": "2026-05-08T01:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Deportivo Pereira vs Ind. Yumbo",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-07T23:00Z",
     "hora_fin_utc": "2026-05-08T02:15:00Z",
     "liga": "NBA",
@@ -564,6 +284,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_pistons-cavaliers-live-streaming-1300199499/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/detroit-pistons-vs-cleveland-cavaliers-basketball-498883/1",
         "calidad": "HD"
       }
@@ -613,6 +338,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Fox Sports 3",
         "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
         "calidad": "HD"
@@ -653,8 +383,43 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-08T00:30:00Z",
+    "hora_fin_utc": "2026-05-08T03:00:00Z",
+    "liga": "Copa Libertadores",
+    "equipos": "Flamengo vs Independiente Medellín",
+    "logo": "img/lib.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports\n",
         "calidad": "HD"
       }
     ]
@@ -671,50 +436,20 @@
         "nombre": "DSports",
         "url": "https://tvtvhd.com/canales.php?stream=dsports",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T00:30:00Z",
-    "hora_fin_utc": "2026-05-08T03:00:00Z",
-    "liga": "Copa Libertadores",
-    "equipos": "Flamengo vs Independiente Medellín",
-    "logo": "img/lib.png",
-    "sport": "football",
-    "canales": [
+      },
       {
-        "nombre": "Fox Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsports\n",
+        "nombre": "DSports | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "nombre": "DSports | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T01:00:00Z",
-    "hora_fin_utc": "2026-05-08T03:30:00Z",
-    "liga": "Liga MX Femenil",
-    "equipos": "Monterrey vs Pachuca",
-    "logo": "img/mx.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "FOX ONE C",
-        "url": "https://tvtvhd.com/canales.php?stream=eventos",
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
         "calidad": "HD"
       }
     ]
