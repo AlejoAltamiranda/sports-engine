@@ -105,31 +105,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-08T13:00:00Z",
-    "hora_fin_utc": "2026-05-08T15:30:00Z",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – Segunda Ronda",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-08T16:30:00Z",
     "hora_fin_utc": "2026-05-08T19:00:00Z",
     "liga": "2. Bundesliga",
