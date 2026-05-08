@@ -15,36 +15,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-08T16:30:00Z",
-    "logo": "img/default.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Karlsruher vs Paderborn",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T16:30:00Z",
-    "logo": "img/default.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Arminia Bielefeld vs Kaiserslautern",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-08T18:00:00Z",
     "logo": "img/nl.png",
     "liga": "Eredivisie",
@@ -219,6 +189,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-torino-vs-sassuolo/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/torino-vs-sassuolo-football-1378222/1",
         "calidad": "HD"
       }
     ],
