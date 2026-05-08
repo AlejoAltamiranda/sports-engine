@@ -201,21 +201,6 @@
   },
   {
     "hora_utc": "2026-05-08T18:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Eredivisie Femenina",
-    "equipos": "ADO Den Haag vs PSV Eindhoven",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2 NL",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T18:00:00Z",
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "Al Kholood vs Al-Hilal",
@@ -234,6 +219,41 @@
       {
         "nombre": "FOX Deportes | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-08T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Eredivisie Femenina",
+    "equipos": "ADO Den Haag vs PSV Eindhoven",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2 NL",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-08T18:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Cádiz vs Deportivo La Coruña",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ],
@@ -262,6 +282,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
@@ -269,21 +294,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-borussia-dortmund-vs-eintracht-frankfurt/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T18:30:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Cádiz vs Deportivo La Coruña",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
         "calidad": "HD"
       }
     ],
@@ -324,6 +334,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-lens-vs-nantes/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/lens-vs-nantes-football-1387989/1",
         "calidad": "HD"
       }
     ],
@@ -394,6 +409,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-levante-vs-osasuna/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/levante-vs-osasuna-football-1391163/1",
         "calidad": "HD"
       }
     ],
