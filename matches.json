@@ -11,6 +11,11 @@
         "nombre": "2378",
         "url": "https://sharkstreams.net/player.php?channel=2378",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22251/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -29,12 +34,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-rays-vs-boston-red-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22236/1",
+        "url": "https://embedsports.top/embed/golf/22262/1",
         "calidad": "HD"
       }
     ]
@@ -50,6 +50,11 @@
       {
         "nombre": "2380",
         "url": "https://sharkstreams.net/player.php?channel=2380",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22257/1",
         "calidad": "HD"
       }
     ]
@@ -80,16 +85,6 @@
       {
         "nombre": "2377",
         "url": "https://sharkstreams.net/player.php?channel=2377",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-san-diego-padres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22244/1",
         "calidad": "HD"
       }
     ]
@@ -489,12 +484,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-houston-astros-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22232/1",
+        "url": "https://embedsports.top/embed/golf/22261/1",
         "calidad": "HD"
       }
     ]
@@ -561,6 +551,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22225/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_76ers-knicks-live-streaming-1297284417/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -609,12 +604,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-twins-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22238/1",
+        "url": "https://embedsports.top/embed/golf/22265/1",
         "calidad": "HD"
       }
     ]
@@ -709,12 +699,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-milwaukee-brewers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22240/1",
+        "url": "https://embedsports.top/embed/golf/22268/1",
         "calidad": "HD"
       }
     ]
@@ -729,12 +714,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-kansas-city-royals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22239/1",
+        "url": "https://embedsports.top/embed/golf/22267/1",
         "calidad": "HD"
       }
     ]
@@ -1170,6 +1150,21 @@
     ]
   },
   {
+    "hora_utc": "2026-05-09T17:00Z",
+    "hora_fin_utc": "2026-05-09T20:15:00Z",
+    "liga": "WNBA",
+    "equipos": "Dallas Wings vs Indiana Fever",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22253/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-09T17:30Z",
     "hora_fin_utc": "2026-05-09T20:45:00Z",
     "liga": "NFL",
@@ -1225,6 +1220,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-real-betis/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-09T19:30Z",
+    "hora_fin_utc": "2026-05-09T22:45:00Z",
+    "liga": "WNBA",
+    "equipos": "Las Vegas Aces vs Phoenix Mercury",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22254/1",
         "calidad": "HD"
       }
     ]
