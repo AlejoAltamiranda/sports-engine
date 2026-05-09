@@ -435,36 +435,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-09T11:30Z",
-    "hora_fin_utc": "2026-05-09T14:00:00Z",
-    "liga": "Premier League",
-    "equipos": "Chelsea vs Liverpool",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-liverpool-vs-chelsea/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T12:00Z",
-    "hora_fin_utc": "2026-05-09T14:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Deportivo Alavés vs Elche",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-elche-vs-alav-s/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-09T13:00Z",
     "hora_fin_utc": "2026-05-09T15:30:00Z",
     "liga": "Serie A",
@@ -480,6 +450,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/delta/live_serie-a_cagliari-udinese-live-streaming-1096205697/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/cagliari-vs-udinese-football-1378214/1",
         "calidad": "HD"
       }
     ]
@@ -575,18 +550,43 @@
     ]
   },
   {
-    "hora_utc": "2026-05-09T14:00:00Z",
+    "hora_utc": "2026-05-09T14:00Z",
+    "hora_fin_utc": "2026-05-09T16:30:00Z",
+    "liga": "Premier League",
+    "equipos": "AFC Bournemouth vs Fulham",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-afc-bournemouth/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22222/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_fulham-bournemouth-live-streaming-1096055847/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/fulham-vs-bournemouth-football-1379322/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-09T14:00Z",
     "hora_fin_utc": "2026-05-09T16:30:00Z",
     "liga": "Premier League",
     "equipos": "Manchester United vs Sunderland",
     "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sunderland-vs-manchester-united/1",
@@ -610,67 +610,7 @@
     ]
   },
   {
-    "hora_utc": "2026-05-09T14:00:00Z",
-    "hora_fin_utc": "2026-05-09T16:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Wolverhampton Wanderers",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T14:00:00Z",
-    "hora_fin_utc": "2026-05-09T16:30:00Z",
-    "liga": "Premier League",
-    "equipos": "AFC Bournemouth vs Fulham",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-afc-bournemouth/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22222/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/fulham-vs-bournemouth-football-1379322/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T14:00:00Z",
-    "hora_fin_utc": "2026-05-09T16:30:00Z",
-    "liga": "League One",
-    "equipos": "Stevenage vs Stockport County",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T14:15:00Z",
+    "hora_utc": "2026-05-09T14:15Z",
     "hora_fin_utc": "2026-05-09T16:45:00Z",
     "liga": "LaLiga",
     "equipos": "Espanyol vs Sevilla",
@@ -678,105 +618,30 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-espanyol/1",
         "calidad": "HD"
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_sevilla-espanyol-live-streaming-1096224678/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/sevilla-vs-espanyol-football-1391168/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-09T14:15:00Z",
-    "hora_fin_utc": "2026-05-09T16:45:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Albacete vs Cultural Leonesa",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion 2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T14:15:00Z",
-    "hora_fin_utc": "2026-05-09T16:45:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Almería vs Burgos",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney11",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T14:30:00Z",
+    "hora_utc": "2026-05-09T14:30Z",
     "hora_fin_utc": "2026-05-09T17:00:00Z",
-    "liga": "Eerste Divisie",
+    "liga": "Soccer",
     "equipos": "RKC Waalwijk vs Willem II",
     "logo": "⚽",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN NL ",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/echo/willem-ii-vs-waalwijk-football-1543678/1",
@@ -1215,6 +1080,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22253/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_fever-wings-live-streaming-1207154637/1",
         "calidad": "HD"
       }
     ]
@@ -2430,6 +2300,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-portland-fire/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22256/1",
         "calidad": "HD"
       }
     ]
