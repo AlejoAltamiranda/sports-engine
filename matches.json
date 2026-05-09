@@ -15,31 +15,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-08T18:30Z",
-    "hora_fin_utc": "2026-05-08T21:00:00Z",
-    "liga": "Bundesliga",
-    "equipos": "Borussia Dortmund vs Eintracht Frankfurt",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-borussia-dortmund-vs-eintracht-frankfurt/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_dortmund-frankfurt-live-streaming-1096064838/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/borussia-dortmund-vs-eintracht-frankfurt-football-1388597/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-08T18:45Z",
     "hora_fin_utc": "2026-05-08T21:15:00Z",
     "liga": "Serie A",
@@ -49,32 +24,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-torino-vs-sassuolo/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/torino-vs-sassuolo-football-1378222/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T18:45Z",
-    "hora_fin_utc": "2026-05-08T21:15:00Z",
-    "liga": "Ligue 1",
-    "equipos": "FC Nantes vs RC Lens",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-nantes/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/lens-vs-nantes-football-1387989/1",
+        "url": "https://embedsports.top/embed/delta/live_serie-a_torino-sassuolo-live-streaming-1096214688/1",
         "calidad": "HD"
       }
     ]
@@ -89,92 +39,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-levante-vs-osasuna/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/levante-vs-osasuna-football-1391163/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "hora_fin_utc": "2026-05-08T22:30:00Z",
-    "liga": "Liga1",
-    "equipos": "FC Cajamarca vs UTC",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "hora_fin_utc": "2026-05-08T22:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Alianza vs Boca Juniors de Cali",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "hora_fin_utc": "2026-05-08T22:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Fortaleza CEIF vs Leones",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T22:00:00Z",
-    "hora_fin_utc": "2026-05-09T00:30:00Z",
-    "liga": "Primera B",
-    "equipos": "Barranquilla vs Bogotá",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "url": "https://embedsports.top/embed/delta/live_laliga_levante-osasuna-live-streaming-1096219683/1",
         "calidad": "HD"
       }
     ]
@@ -200,21 +65,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-08T22:30:00Z",
-    "hora_fin_utc": "2026-05-09T01:00:00Z",
-    "liga": "Primera División",
-    "equipos": "Liverpool vs Montevideo Wanderers",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-08T22:40Z",
     "hora_fin_utc": "2026-05-09T01:55:00Z",
     "liga": "MLB",
@@ -230,21 +80,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22264/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-08T23:00:00Z",
-    "hora_fin_utc": "2026-05-09T01:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Aurora vs Nacional Potosí",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
         "calidad": "HD"
       }
     ]

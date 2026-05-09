@@ -15,31 +15,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-08T18:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Borussia Dortmund vs Eintracht Frankfurt",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-borussia-dortmund-vs-eintracht-frankfurt/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_dortmund-frankfurt-live-streaming-1096064838/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/borussia-dortmund-vs-eintracht-frankfurt-football-1388597/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-05-08T18:45Z",
     "logo": "img/it.png",
     "liga": "Serie A",
@@ -48,32 +23,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-torino-vs-sassuolo/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/torino-vs-sassuolo-football-1378222/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-08T18:45Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
-    "equipos": "FC Nantes vs RC Lens",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-lens-vs-nantes/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/lens-vs-nantes-football-1387989/1",
+        "url": "https://embedsports.top/embed/delta/live_serie-a_torino-sassuolo-live-streaming-1096214688/1",
         "calidad": "HD"
       }
     ],
@@ -88,116 +38,11 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-levante-vs-osasuna/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/levante-vs-osasuna-football-1391163/1",
+        "url": "https://embedsports.top/embed/delta/live_laliga_levante-osasuna-live-streaming-1096219683/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "logo": "img/pe.png",
-    "liga": "Liga1",
-    "equipos": "FC Cajamarca vs UTC",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Colombia",
-    "equipos": "Alianza vs Boca Juniors de Cali",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T20:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Colombia",
-    "equipos": "Fortaleza CEIF vs Leones",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-08T22:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Primera B",
-    "equipos": "Barranquilla vs Bogotá",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-08T22:10Z",
@@ -220,21 +65,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-08T22:30:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "Liverpool vs Montevideo Wanderers",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-08T22:40Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -253,31 +83,6 @@
       }
     ],
     "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-08T23:00:00Z",
-    "logo": "img/bo.png",
-    "liga": "Primera División",
-    "equipos": "Aurora vs Nacional Potosí",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP2",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Futbol Canal | OP3",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-08T23:00Z",
