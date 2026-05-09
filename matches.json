@@ -1,95 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-09T16:00Z",
-    "hora_fin_utc": "2026-05-09T18:30:00Z",
-    "liga": "Serie A",
-    "equipos": "Inter Milan vs Lazio",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-lazio-vs-inter-milan/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T16:30Z",
-    "hora_fin_utc": "2026-05-09T19:00:00Z",
-    "liga": "Premier League",
-    "equipos": "Brentford vs Manchester City",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-manchester-city-vs-brentford/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22224/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_premier-league_man-city-brentford-live-streaming-1096057845/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/manchester-city-vs-brentford-football-1379324/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T16:30Z",
-    "hora_fin_utc": "2026-05-09T19:00:00Z",
-    "liga": "Soccer",
-    "equipos": "Atlético de Madrid vs Celta Vigo",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-atl-tico-madrid-vs-celta-vigo/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_atl-madrid-celta-live-streaming-1096216686/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T16:30Z",
-    "hora_fin_utc": "2026-05-09T19:00:00Z",
-    "liga": "Bundesliga",
-    "equipos": "Bayern München vs VfL Wolfsburg",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-bayern-munich/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_wolfsburg-bayern-live-streaming-1096070832/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/vfl-wolfsburg-vs-bayern-munchen-football-1388604/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-09T17:00Z",
     "hora_fin_utc": "2026-05-09T19:30:00Z",
     "liga": "MLS",
@@ -100,16 +10,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-inter-miami-cf/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_mls_toronto-inter-miami-live-streaming-1241410347/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/toronto-fc-vs-inter-miami-football-1490267/1",
         "calidad": "HD"
       }
     ]
@@ -130,11 +30,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22253/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_fever-wings-live-streaming-1207154637/1",
         "calidad": "HD"
       }
     ]
@@ -195,48 +90,13 @@
     ]
   },
   {
-    "hora_utc": "2026-05-09T18:00:00Z",
+    "hora_utc": "2026-05-09T18:00Z",
     "hora_fin_utc": "2026-05-09T20:30:00Z",
-    "liga": "Liga 1",
-    "equipos": "ADT vs Deportivo Moquegua",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T18:00:00Z",
-    "hora_fin_utc": "2026-05-09T20:30:00Z",
-    "liga": "Eerste Divisie",
+    "liga": "Soccer",
     "equipos": "Almere City vs De Graafschap",
     "logo": "⚽",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN NL ",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/echo/de-graafschap-vs-almere-city-fc-football-1543735/1",
@@ -245,63 +105,28 @@
     ]
   },
   {
-    "hora_utc": "2026-05-09T18:30:00Z",
+    "hora_utc": "2026-05-09T18:30Z",
     "hora_fin_utc": "2026-05-09T21:00:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "Nürnberg vs Schalke 04",
-    "logo": "⚽",
+    "liga": "MLS",
+    "equipos": "Chicago Fire vs New York Red Bulls",
+    "logo": "img/usa.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/chicago-fire-vs-new-york-red-bulls-football-1490266/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-09T18:30:00Z",
-    "hora_fin_utc": "2026-05-09T21:00:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Albion FC vs Danubio FC",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T18:45:00Z",
+    "hora_utc": "2026-05-09T18:45Z",
     "hora_fin_utc": "2026-05-09T21:15:00Z",
     "liga": "Serie A",
     "equipos": "Juventus vs Lecce",
     "logo": "img/it.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-juventus/1",
@@ -315,196 +140,6 @@
       {
         "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/lecce-vs-juventus-football-1378218/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "Segunda División",
-    "equipos": "Huracán vs Paysandu",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "Audax Italiano vs La Serena",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Coritiba vs Internacional",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Real Oruro vs Universitario de Vinto",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "League One",
-    "equipos": "Bolton Wanderers vs Bradford City",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Real Betis vs Real Sociedad",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-real-betis/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_real-sociedad-real-betis-live-streaming-1096223679/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/real-sociedad-vs-real-betis-football-1391166/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T21:30:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Málaga vs Sporting Gijón",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-09T19:00:00Z",
-    "hora_fin_utc": "2026-05-09T22:15:00Z",
-    "liga": "NBA",
-    "equipos": "Cavaliers vs Pistons",
-    "logo": "img/nba.png",
-    "sport": "nba",
-    "canales": [
-      {
-        "nombre": "ESPN MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
         "calidad": "HD"
       }
     ]
@@ -534,7 +169,37 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_cavaliers-pistons-live-streaming-1300252446/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-498884/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-09T19:00Z",
+    "hora_fin_utc": "2026-05-09T21:30:00Z",
+    "liga": "LaLiga",
+    "equipos": "Real Betis vs Real Sociedad",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-real-betis/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_real-sociedad-real-betis-live-streaming-1096223679/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/real-sociedad-vs-real-betis-football-1391166/1",
         "calidad": "HD"
       }
     ]
@@ -640,6 +305,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22254/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_las-vegas-mercury-live-streaming-1207155636/1",
         "calidad": "HD"
       }
     ]
