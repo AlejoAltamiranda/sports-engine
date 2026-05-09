@@ -380,137 +380,12 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T10:50:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Ciclismo – La Vuelta Femenina – Etapa #7",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Dynamo Dresden vs Eintracht Braunschweig",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
-    "equipos": "Arsenal vs Aston Villa",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Bochum vs Hannover 96",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:00:00Z",
-    "logo": "img/default.png",
-    "liga": "2. Bundesliga",
-    "equipos": "Holstein Kiel vs Magdeburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Championship",
-    "equipos": "Middlesbrough vs Southampton",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T11:30:00Z",
+    "hora_utc": "2026-05-09T11:30Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Chelsea vs Liverpool",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-liverpool-vs-chelsea/1",
@@ -523,11 +398,16 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_liverpool-chelsea-live-streaming-1096056846/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/liverpool-vs-chelsea-football-1379323/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-09T12:00:00Z",
@@ -605,6 +485,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-elche-vs-alav-s/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_elche-alaves-live-streaming-1096218684/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -664,6 +549,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-cagliari-vs-udinese/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_serie-a_cagliari-udinese-live-streaming-1096205697/1",
         "calidad": "HD"
       }
     ],
@@ -980,6 +870,11 @@
         "nombre": "ESPN NL | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/willem-ii-vs-waalwijk-football-1543678/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -1084,6 +979,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-bayern-munich/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/vfl-wolfsburg-vs-bayern-munchen-football-1388604/1",
         "calidad": "HD"
       }
     ],
@@ -1494,6 +1394,11 @@
       {
         "nombre": "ESPN NL | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/de-graafschap-vs-almere-city-fc-football-1543735/1",
         "calidad": "HD"
       }
     ],
