@@ -110,6 +110,11 @@
         "nombre": "Server 3",
         "url": "https://embedsports.top/embed/delta/live_nba_76ers-knicks-live-streaming-1297284417/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/philadelphia-76ers-vs-new-york-knicks-basketball-498816/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -134,6 +139,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22230/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/buffalo-sabres-vs-montreal-canadiens-hockey-425105/1",
         "calidad": "HD"
       }
     ],
@@ -240,41 +250,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-08T23:30:00Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Chicago White Sox vs Seattle Mariners",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2395",
-        "url": "https://sharkstreams.net/player.php?channel=2395",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22269/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-08T23:30Z",
     "logo": "img/nba.png",
     "liga": "WNBA",
@@ -289,6 +264,16 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-toronto-tempo/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22228/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_tempo-mystics-live-streaming-1207058733/1",
         "calidad": "HD"
       }
     ],
@@ -365,6 +350,26 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-08T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Chicago White Sox vs Seattle Mariners",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2395",
+        "url": "https://sharkstreams.net/player.php?channel=2395",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22269/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-09T00:00Z",
     "logo": "img/nfl.png",
     "liga": "NFL",
@@ -374,6 +379,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-columbus-aviators-vs-st-louis-battlehawks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_ufl_st-louis-battlehawks-columbus-aviators-live-streaming-1266968763/1",
         "calidad": "HD"
       }
     ],
@@ -415,96 +425,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T00:10:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Argentina",
-    "equipos": "Banfield vs San Martín Tucumán",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "TYC Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports | OP2",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TYC Sports | OP3",
-        "url": "https://tvtvhd.com/canales.php?stream=tycsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional",
-        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports International | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T00:30:00Z",
-    "logo": "img/default.png",
-    "liga": "Primera B",
-    "equipos": "Real Cartagena vs Unión Magdalena",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-09T01:30:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "Semifinales de Conferencia – Anaheim Ducks vs Vegas Golden Knights",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-09T01:30Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
@@ -524,6 +444,16 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22231/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_ducks-golden-knights-live-streaming-1295645058/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/anaheim-ducks-vs-vegas-golden-knights-hockey-425106/1",
         "calidad": "HD"
       }
     ],
@@ -549,6 +479,16 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22226/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_timberwolves-spurs-live-streaming-1296720981/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/minnesota-timberwolves-vs-san-antonio-spurs-basketball-498800/1",
         "calidad": "HD"
       }
     ],
@@ -595,31 +535,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T02:00:00Z",
-    "logo": "img/default.png",
-    "liga": "BOXEO",
-    "equipos": "Gabriel Valenzuela vs Rogelio Jimenez",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-09T02:00Z",
     "logo": "img/nba.png",
     "liga": "WNBA",
@@ -663,12 +578,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-atlanta-braves-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22245/1",
+        "url": "https://embedsports.top/embed/golf/22273/1",
         "calidad": "HD"
       }
     ],
@@ -688,24 +598,169 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-pittsburgh-pirates-vs-san-francisco-giants/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22246/1",
+        "url": "https://embedsports.top/embed/golf/22272/1",
         "calidad": "HD"
       }
     ],
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T11:30Z",
+    "hora_utc": "2026-05-09T08:45:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "F1 France - Qualifying",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T10:50:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "Ciclismo – La Vuelta Femenina – Etapa #7",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:00:00Z",
+    "logo": "img/default.png",
+    "liga": "2. Bundesliga",
+    "equipos": "Dynamo Dresden vs Eintracht Braunschweig",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "Arsenal vs Aston Villa",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:00:00Z",
+    "logo": "img/default.png",
+    "liga": "2. Bundesliga",
+    "equipos": "Bochum vs Hannover 96",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:00:00Z",
+    "logo": "img/default.png",
+    "liga": "2. Bundesliga",
+    "equipos": "Holstein Kiel vs Magdeburg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Championship",
+    "equipos": "Middlesbrough vs Southampton",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T11:30:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Chelsea vs Liverpool",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-liverpool-vs-chelsea/1",
@@ -717,125 +772,270 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T12:00Z",
+    "hora_utc": "2026-05-09T12:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "CD Castellon vs Ceuta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T12:00:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Deportivo Alavés vs Elche",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-elche-vs-alav-s/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T13:00Z",
+    "hora_utc": "2026-05-09T12:30:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "F1 France - Sprint",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T13:00:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "Cagliari vs Udinese",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-cagliari-vs-udinese/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Borussia Mönchengladbach vs FC Augsburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-borussia-m-nchengladbach/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-09T13:30Z",
+    "hora_utc": "2026-05-09T13:00:00Z",
     "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "TSG Hoffenheim vs Werder Bremen",
+    "liga": "Tenis",
+    "equipos": "Internazionali BNL d’Italia – Segunda Ronda",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-werder-bremen/1",
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T13:30Z",
+    "hora_utc": "2026-05-09T13:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "Deportivo Colonia vs La Luz",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T13:00:00Z",
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "FC St. Pauli vs RB Leipzig",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-rb-leipzig-vs-st-pauli/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T13:30Z",
+    "hora_utc": "2026-05-09T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Borussia Mönchengladbach vs FC Augsburg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-fc-augsburg-vs-borussia-m-nchengladbach/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T13:30:00Z",
     "logo": "img/de.png",
     "liga": "Bundesliga",
     "equipos": "Bayer Leverkusen vs VfB Stuttgart",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-vf-b-stuttgart-vs-bayer-leverkusen/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T14:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
-    "equipos": "AFC Bournemouth vs Fulham",
+    "hora_utc": "2026-05-09T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "TSG Hoffenheim vs Werder Bremen",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-afc-bournemouth/1",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
         "calidad": "HD"
       },
       {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22222/1",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-tsg-hoffenheim-vs-werder-bremen/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T14:00Z",
+    "hora_utc": "2026-05-09T14:00:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Manchester United vs Sunderland",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sunderland-vs-manchester-united/1",
@@ -847,45 +1047,255 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T14:15Z",
+    "hora_utc": "2026-05-09T14:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "Brighton & Hove Albion vs Wolverhampton Wanderers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T14:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "AFC Bournemouth vs Fulham",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-fulham-vs-afc-bournemouth/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22222/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T14:00:00Z",
+    "logo": "img/default.png",
+    "liga": "League One",
+    "equipos": "Stevenage vs Stockport County",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T14:15:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
     "equipos": "Espanyol vs Sevilla",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-espanyol/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T16:00Z",
+    "hora_utc": "2026-05-09T14:15:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Albacete vs Cultural Leonesa",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion 2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T14:15:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Almería vs Burgos",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T14:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Eerste Divisie",
+    "equipos": "RKC Waalwijk vs Willem II",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN NL ",
+        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T16:00:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "Inter Milan vs Lazio",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-lazio-vs-inter-milan/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T16:30Z",
+    "hora_utc": "2026-05-09T16:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Bayern München vs VfL Wolfsburg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-bayern-munich/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T16:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Real Valladolid vs Real Zaragoza",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T16:30:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Brentford vs Manchester City",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-manchester-city-vs-brentford/1",
@@ -897,7 +1307,32 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T16:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Atlético de Madrid vs Celta de Vigo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-09T16:30Z",
@@ -915,34 +1350,184 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T16:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Bayern München vs VfL Wolfsburg",
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Super Lig",
+    "equipos": "İstanbul Başakşehir vs Samsunspor",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-vf-l-wolfsburg-vs-bayern-munich/1",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-09T17:00Z",
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/tr.png",
+    "liga": "Süper Lig",
+    "equipos": "Beşiktaş vs Trabzonspor",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Golf",
+    "equipos": "Truist Championship – Tercera Vuelta",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Sudamericano Sub-17 Femenino",
+    "equipos": "Colombia vs Venezuela",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/tr.png",
+    "liga": "Süper Lig",
+    "equipos": "Eyüpspor vs Çaykur Rizespor",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Fox Sports 3",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/tr.png",
+    "liga": "Süper Lig",
+    "equipos": "Antalyaspor vs Galatasaray",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/tr.png",
+    "liga": "Süper Lig",
+    "equipos": "Fenerbahçe vs Konyaspor",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Fox Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=foxsports2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
     "logo": "img/usa.png",
     "liga": "MLS",
     "equipos": "Inter Miami vs Toronto FC",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "MLS 01 | EN",
+        "url": "https://tvtvhd.com/canales.php?stream=mls1en",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-toronto-fc-vs-inter-miami-cf/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T17:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Indiana vs. Dallas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-09T17:00Z",
@@ -990,19 +1575,244 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T18:45Z",
+    "hora_utc": "2026-05-09T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga 1",
+    "equipos": "ADT vs Deportivo Moquegua",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Eerste Divisie",
+    "equipos": "Almere City vs De Graafschap",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN NL ",
+        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN NL | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T18:30:00Z",
+    "logo": "img/default.png",
+    "liga": "2. Bundesliga",
+    "equipos": "Nürnberg vs Schalke 04",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T18:30:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Albion FC vs Danubio FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T18:45:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
     "equipos": "Juventus vs Lecce",
     "status": "pronto",
     "canales": [
       {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-lecce-vs-juventus/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "Huracán vs Paysandu",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "Coritiba vs Internacional",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Canal 1",
+        "url": "#",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "Real Oruro vs Universitario de Vinto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP2",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP3",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Real Betis vs Real Sociedad",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-real-betis/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/default.png",
+    "liga": "League One",
+    "equipos": "Bolton Wanderers vs Bradford City",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:00:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Málaga vs Sporting Gijón",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-09T19:00Z",
@@ -1020,19 +1830,69 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-09T19:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Real Betis vs Real Sociedad",
+    "hora_utc": "2026-05-09T19:30:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Las Vegas vs Phoenix",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-real-sociedad-vs-real-betis/1",
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
         "calidad": "HD"
       }
     ],
-    "fuente": "github"
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T19:30:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Belgrano vs Talleres",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports International | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-09T19:30Z",
@@ -1050,6 +1910,101 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-09T19:55:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "F1 Miami - Grand Prix",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T20:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Sudamericano Sub-17 Femenino",
+    "equipos": "Chile vs Ecuador",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T20:15:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "Atlético Grau vs Cienciano",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T20:30:00Z",
+    "logo": "img/formula1.png",
+    "liga": "Formula 1",
+    "equipos": "F1 GP - Grand Prix",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-09T20:30Z",
     "logo": "img/usa.png",
     "liga": "MLS",
@@ -1065,6 +2020,231 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-09T20:55:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "Queens League – A Confirmar",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T21:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "Premier Padel Asunción – Semifinales Masculinas",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 2",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T21:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "Fluminense vs Vitória",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T21:00:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "Atlético Nacional vs Inter Bogotá",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T21:15:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "Guabirá vs Gualberto Villarroel SJ",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP2",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP3",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T21:30:00Z",
+    "logo": "img/uy.png",
+    "liga": "Liga AUF Uruguaya",
+    "equipos": "Central Español vs Racing Club",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T22:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "Fénix vs Plaza Colonia",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T22:00:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Boca Juniors vs Huracán",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP3",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports International | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T22:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Copa Colombia",
+    "equipos": "Cúcuta Deportivo vs Orsomarso",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-09T22:00Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
@@ -1078,6 +2258,96 @@
       }
     ],
     "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-09T22:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Sudamericano Sub-17 Femenino",
+    "equipos": "Argentina vs Brasil",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports + I OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T23:10:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "Deportes Tolima vs Deportivo Pasto",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T23:30:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Barcelona SC vs Real Madrid",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "BeIN Sports Ñ",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-barcelona-vs-real-madrid/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-09T23:30:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "Real Tomayapo vs San Antonio Bulo Bulo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP2",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Futbol Canal | OP3",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-09T23:30Z",
@@ -1125,6 +2395,46 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-10T00:00:00Z",
+    "logo": "img/br.png",
+    "liga": "Brasilerao",
+    "equipos": "Bahia vs Cruzeiro",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T00:00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Oklahoma City Thunder vs Semifinales de Conferencia – Juego #3 – LA Lakers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-10T00:00Z",
     "logo": "img/nfl.png",
     "liga": "NFL",
@@ -1134,6 +2444,101 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-dallas-renegades-vs-birmingham-stallions/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T00:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Atlanta Dream vs Minnesota Lynx",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22255/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T00:30:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Independiente Rivadavia vs Unión Santa Fe",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T00:30:00Z",
+    "logo": "img/ar.png",
+    "liga": "Liga Profesional",
+    "equipos": "Argentinos Juniors vs Lanús",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TNT Sports | OP3",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports Internacional | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TyC Sports International | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T00:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Los Angeles Lakers vs Oklahoma City Thunder",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22252/1",
         "calidad": "HD"
       }
     ],
@@ -1155,6 +2560,81 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-10T01:00:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga de Expansión MX",
+    "equipos": "CDS Tampico Madero vs Tepatitlán",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3mx",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T01:00:00Z",
+    "logo": "img/pe.png",
+    "liga": "Liga1",
+    "equipos": "Alianza Lima vs Sporting Cristal",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Liga1MAX",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Liga1Max | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T01:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "Colorado Avalanche vs Minnesota Wild",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22258/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T01:07:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "Chivas Guadalajara vs Tigres UANL",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Telemundo",
+        "url": "https://tvtvhd.com/canales.php?stream=telemundo",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Universo",
+        "url": "https://tvtvhd.com/canales.php?stream=universo",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-10T01:15Z",
     "logo": "img/usa.png",
     "liga": "MLS",
@@ -1170,6 +2650,31 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-10T01:20:00Z",
+    "logo": "img/col.png",
+    "liga": "Liga Betplay",
+    "equipos": "América de Cali vs Independiente Santa Fe",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-10T01:30Z",
     "logo": "img/usa.png",
     "liga": "MLS",
@@ -1179,6 +2684,36 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-colorado-rapids-vs-st-louis-city-sc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T02:00:00Z",
+    "logo": "img/bo.png",
+    "liga": "Primera División",
+    "equipos": "Cartaginés vs Herediano",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "FUTV",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-10T02:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "San Diego FC vs Seattle Sounders",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-diego-fc/1",
         "calidad": "HD"
       }
     ],
@@ -1213,6 +2748,41 @@
       }
     ],
     "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T03:15:00Z",
+    "logo": "img/mx.png",
+    "liga": "Liga MX",
+    "equipos": "Atlas vs Cruz Azul",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=canal5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA",
+        "url": "https://tvtvhd.com/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "TUDN USA | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Univision USA",
+        "url": "https://tvtvhd.com/canales.php?stream=univision",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-10T10:30Z",
@@ -1335,6 +2905,21 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-10T13:30Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Hamburger SV vs SC Freiburg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-hamburg-sv-vs-sc-freiburg/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-10T15:30Z",
     "logo": "img/en.png",
     "liga": "Premier League",
@@ -1349,6 +2934,21 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22250/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T16:00Z",
+    "logo": "img/it.png",
+    "liga": "Serie A",
+    "equipos": "AS Roma vs Parma",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-parma-vs-as-roma/1",
         "calidad": "HD"
       }
     ],
@@ -1370,6 +2970,21 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-10T17:30Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Mainz 05 vs Union Berlin",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-mainz-vs-1-fc-union-berlin/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-10T18:45Z",
     "logo": "img/it.png",
     "liga": "Serie A",
@@ -1379,21 +2994,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-ac-milan-vs-atalanta/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-10T19:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Barcelona SC vs Real Madrid",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-barcelona-vs-real-madrid/1",
         "calidad": "HD"
       }
     ],
@@ -1418,12 +3018,72 @@
     "hora_utc": "2026-05-10T19:00Z",
     "logo": "img/fr.png",
     "liga": "Ligue 1",
+    "equipos": "AJ Auxerre vs OGC Nice",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-aj-auxerre-vs-nice/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T19:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
+    "equipos": "Le Havre AC vs Olympique de Marseille",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-le-havre-ac-vs-marseille/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T19:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
     "equipos": "FC Lorient vs FC Metz",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-metz-vs-lorient/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T19:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
+    "equipos": "AS Monaco vs LOSC Lille",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-as-monaco-vs-lille/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T19:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
+    "equipos": "Paris Saint-Germain vs Stade Brestois",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-paris-saint-germain-vs-brest/1",
         "calidad": "HD"
       }
     ],
@@ -1469,6 +3129,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-houston-gamblers/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-10T23:00Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Austin FC vs Minnesota United",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-united-fc-vs-austin-fc/1",
         "calidad": "HD"
       }
     ],
