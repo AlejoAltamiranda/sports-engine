@@ -1,30 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-09T03:00Z",
-    "hora_fin_utc": "2026-05-09T08:00:00Z",
-    "liga": "Boxing",
-    "equipos": "Angelo Leo vs Raeese Aleem",
-    "logo": "img/box.png",
-    "sport": "box",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/delta/live-event_angelo-leo-vs-raeese-aleem-live-stream/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22279/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live-event_angelo-leo-vs-raeese-aleem-live-stream/2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-09T17:30Z",
     "hora_fin_utc": "2026-05-09T22:30:00Z",
     "liga": "Boxing",
@@ -445,102 +420,7 @@
     ]
   },
   {
-    "hora_utc": "2026-05-10T12:00:00Z",
-    "hora_fin_utc": "2026-05-10T14:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Mallorca vs Villarreal",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T12:00:00Z",
-    "hora_fin_utc": "2026-05-10T14:30:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "FC Andorra vs Las Palmas",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney6",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T12:45:00Z",
-    "hora_fin_utc": "2026-05-10T15:15:00Z",
-    "liga": "Segunda División",
-    "equipos": "Miramar Misiones vs River Plate",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
+    "hora_utc": "2026-05-10T13:00Z",
     "hora_fin_utc": "2026-05-10T15:30:00Z",
     "liga": "Premier League",
     "equipos": "Aston Villa vs Burnley",
@@ -548,74 +428,14 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/pl/2026-05-10/bur-avl",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-10T13:00:00Z",
-    "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Serie A femenina",
-    "equipos": "Inter Milano vs Juventus",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
-    "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Serie A",
-    "equipos": "AS Roma vs Sassuolo",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Soccer Plus C.",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
-    "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Serie A",
-    "equipos": "Cremonese vs Pisa",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney8",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
-    "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Newcastle United vs Nottingham Forest",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
+    "hora_utc": "2026-05-10T13:00Z",
     "hora_fin_utc": "2026-05-10T15:30:00Z",
     "liga": "Premier League",
     "equipos": "Crystal Palace vs Everton",
@@ -623,93 +443,23 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/pl/2026-05-10/cry-eve",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-10T13:00:00Z",
+    "hora_utc": "2026-05-10T13:00Z",
     "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Serie A",
-    "equipos": "Fiorentina vs Genoa",
-    "logo": "img/it.png",
+    "liga": "Premier League",
+    "equipos": "Newcastle United vs Nottingham Forest",
+    "logo": "img/en.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney9",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:15:00Z",
-    "hora_fin_utc": "2026-05-10T15:45:00Z",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – Tercera Ronda",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:30:00Z",
-    "hora_fin_utc": "2026-05-10T16:00:00Z",
-    "liga": "Bundesliga",
-    "equipos": "Hamburger SV vs SC Freiburg",
-    "logo": "img/de.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/pl/2026-05-10/nfo-new",
         "calidad": "HD"
       }
     ]
@@ -911,6 +661,11 @@
         "nombre": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/pl/2026-05-10/whu-ars",
+        "calidad": "HD"
       }
     ]
   },
@@ -996,6 +751,46 @@
         "nombre": "LaLiga TV Hypermotion 2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T16:30:00Z",
+    "hora_fin_utc": "2026-05-10T19:00:00Z",
+    "liga": "Primera B",
+    "equipos": "Antofagasta vs Atlético de San Luis",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T16:30:00Z",
+    "hora_fin_utc": "2026-05-10T19:00:00Z",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Córdoba vs Granada",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
       }
     ]
   },
@@ -1023,6 +818,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney20",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
         "calidad": "HD"
@@ -1036,35 +836,10 @@
         "nombre": "ESPN Deportes  | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T16:30:00Z",
-    "hora_fin_utc": "2026-05-10T19:00:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Córdoba vs Granada",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
+      },
       {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T16:30:00Z",
-    "hora_fin_utc": "2026-05-10T19:00:00Z",
-    "liga": "Primera B",
-    "equipos": "Antofagasta vs Atlético de San Luis",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
         "calidad": "HD"
       }
     ]
@@ -1097,6 +872,21 @@
   {
     "hora_utc": "2026-05-10T17:00:00Z",
     "hora_fin_utc": "2026-05-10T19:30:00Z",
+    "liga": "Segunda División",
+    "equipos": "Cerrito vs Oriental",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T17:00:00Z",
+    "hora_fin_utc": "2026-05-10T19:30:00Z",
     "liga": "League Two",
     "equipos": "Chesterfield vs Notts County",
     "logo": "⚽",
@@ -1104,7 +894,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
         "calidad": "HD"
       }
     ]
@@ -1119,7 +909,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ]
@@ -1147,6 +937,26 @@
   {
     "hora_utc": "2026-05-10T18:00:00Z",
     "hora_fin_utc": "2026-05-10T20:30:00Z",
+    "liga": "Saudi Pro League",
+    "equipos": "Al-Ittihad FC vs Damac",
+    "logo": "img/sa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T18:00:00Z",
+    "hora_fin_utc": "2026-05-10T20:30:00Z",
     "liga": "Liga Profesional",
     "equipos": "Independiente vs Rosario Central",
     "logo": "img/ar.png",
@@ -1161,25 +971,15 @@
         "nombre": "ESPN Premium┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T18:00:00Z",
-    "hora_fin_utc": "2026-05-10T20:30:00Z",
-    "liga": "Saudi Pro League",
-    "equipos": "Al-Ittihad FC vs Damac",
-    "logo": "img/sa.png",
-    "sport": "football",
-    "canales": [
+      },
       {
-        "nombre": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
         "calidad": "HD"
       },
       {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "nombre": "fanatiz 01",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz1",
         "calidad": "HD"
       }
     ]
@@ -1219,7 +1019,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
         "calidad": "HD"
       }
     ]
@@ -1235,21 +1035,6 @@
       {
         "nombre": "TNT Sports Premiun CL",
         "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T19:00:00Z",
-    "hora_fin_utc": "2026-05-10T21:30:00Z",
-    "liga": "Ligue 1",
-    "equipos": "Angers SCO vs RC Strasbourg",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
         "calidad": "HD"
       }
     ]
@@ -1279,7 +1064,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
         "calidad": "HD"
       }
     ]
@@ -1294,7 +1079,22 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T19:00:00Z",
+    "hora_fin_utc": "2026-05-10T21:30:00Z",
+    "liga": "Ligue 1",
+    "equipos": "Angers SCO vs RC Strasbourg",
+    "logo": "img/fr.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11",
         "calidad": "HD"
       }
     ]
@@ -1309,7 +1109,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
         "calidad": "HD"
       }
     ]
@@ -1324,7 +1124,22 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T19:00:00Z",
+    "hora_fin_utc": "2026-05-10T21:30:00Z",
+    "liga": "Copa de la Liga",
+    "equipos": "Universidad Chile vs Unión La Calera",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premiun CL",
+        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
@@ -1351,6 +1166,11 @@
         "nombre": "ESPN AR┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12",
+        "calidad": "HD"
       }
     ]
   },
@@ -1363,8 +1183,13 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Premiere 3 BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "fanatiz 04",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz4",
         "calidad": "HD"
       }
     ]
@@ -1377,6 +1202,16 @@
     "logo": "img/br.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "fanatiz 03",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz3",
+        "calidad": "HD"
+      },
       {
         "nombre": "Win Sports",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
@@ -1392,41 +1227,11 @@
   {
     "hora_utc": "2026-05-10T19:00:00Z",
     "hora_fin_utc": "2026-05-10T21:30:00Z",
-    "liga": "Copa de la Liga",
-    "equipos": "Universidad Chile vs Unión La Calera",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T19:00:00Z",
-    "hora_fin_utc": "2026-05-10T21:30:00Z",
     "liga": "LaLiga",
     "equipos": "Barcelona SC vs Real Madrid",
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
       {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
@@ -1443,8 +1248,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/laliga/2026-05-10/bar-rma",
         "calidad": "HD"
       }
     ]
@@ -1459,7 +1274,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
         "calidad": "HD"
       }
     ]
@@ -1474,7 +1289,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7",
         "calidad": "HD"
       }
     ]
@@ -1501,6 +1316,26 @@
         "nombre": "ESPN 2 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://pooembed.eu/embed/nba/2026-05-10/ny-phi",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T20:00:00Z",
+    "hora_fin_utc": "2026-05-10T22:30:00Z",
+    "liga": "Segunda División",
+    "equipos": "Rentistas vs Tacuarembó",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney16",
+        "calidad": "HD"
       }
     ]
   },
@@ -1520,6 +1355,31 @@
       {
         "nombre": "ECDF LigaPro",
         "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T20:00:00Z",
+    "hora_fin_utc": "2026-05-10T22:30:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Jaguares de Córdoba vs Rionegro Águilas",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
         "calidad": "HD"
       }
     ]
@@ -1551,30 +1411,10 @@
         "nombre": "TyC Sports International | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T20:00:00Z",
-    "hora_fin_utc": "2026-05-10T22:30:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "Jaguares de Córdoba vs Rionegro Águilas",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports 2",
-        "url": "https://tvtvhd.com/canales.php?stream=winsports2",
-        "calidad": "HD"
       },
       {
-        "nombre": "Win Sports 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
+        "nombre": "fanatiz 05",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz5",
         "calidad": "HD"
       }
     ]
@@ -1846,31 +1686,6 @@
   },
   {
     "hora_utc": "2026-05-10T23:00:00Z",
-    "hora_fin_utc": "2026-05-11T02:00:00Z",
-    "liga": "NHL",
-    "equipos": "Buffalo Sabres vs Montreal Canadiens",
-    "logo": "img/nhl.png",
-    "sport": "nhl",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T23:00:00Z",
     "hora_fin_utc": "2026-05-11T01:30:00Z",
     "liga": "Liga MX",
     "equipos": "Pachuca vs Toluca",
@@ -1890,6 +1705,31 @@
       {
         "nombre": "TUDN USA | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T23:00:00Z",
+    "hora_fin_utc": "2026-05-11T02:00:00Z",
+    "liga": "NHL",
+    "equipos": "Buffalo Sabres vs Montreal Canadiens",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
         "calidad": "HD"
       }
     ]
