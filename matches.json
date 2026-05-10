@@ -445,126 +445,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-10T10:30:00Z",
-    "hora_fin_utc": "2026-05-10T13:00:00Z",
-    "liga": "Serie A",
-    "equipos": "AC Milan vs Parma",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Fox Soccer Plus C.",
-        "url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T10:30:00Z",
-    "hora_fin_utc": "2026-05-10T13:00:00Z",
-    "liga": "Serie A",
-    "equipos": "Como 1907 vs Hellas Verona",
-    "logo": "img/it.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN MX | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T11:15:00Z",
-    "hora_fin_utc": "2026-05-10T13:45:00Z",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Liverpool",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T11:30:00Z",
-    "hora_fin_utc": "2026-05-10T14:00:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "Darmstadt 98 vs Preußen Münster",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T11:30:00Z",
-    "hora_fin_utc": "2026-05-10T14:00:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "Greuther Fürth vs Hertha BSC",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T11:30:00Z",
-    "hora_fin_utc": "2026-05-10T14:00:00Z",
-    "liga": "2. Bundesliga",
-    "equipos": "Elversberg vs Fortuna Düsseldorf",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-10T12:00:00Z",
     "hora_fin_utc": "2026-05-10T14:30:00Z",
     "liga": "LaLiga",
@@ -826,6 +706,11 @@
         "nombre": "ESPN 5 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "calidad": "HD"
       }
     ]
   },
@@ -839,7 +724,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4pl",
         "calidad": "HD"
       }
     ]
@@ -854,7 +739,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11",
         "calidad": "HD"
       }
     ]
@@ -896,6 +781,11 @@
         "nombre": "ESPN Deportes  | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
+        "calidad": "HD"
       }
     ]
   },
@@ -908,8 +798,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5pl",
         "calidad": "HD"
       }
     ]
@@ -924,7 +814,42 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney15",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T14:45:00Z",
+    "hora_fin_utc": "2026-05-10T17:15:00Z",
+    "liga": "LaLiga SmartBank",
+    "equipos": "Leganés vs Racing Santander",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion ",
+        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T14:45:00Z",
+    "hora_fin_utc": "2026-05-10T17:15:00Z",
+    "liga": "Eredivisie",
+    "equipos": "Go Ahead Eagles vs PSV Eindhoven",
+    "logo": "img/nl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney14",
         "calidad": "HD"
       }
     ]
@@ -946,35 +871,10 @@
         "nombre": "ESPN 2 NL",
         "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T14:45:00Z",
-    "hora_fin_utc": "2026-05-10T17:15:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Go Ahead Eagles vs PSV Eindhoven",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
+      },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T14:45:00Z",
-    "hora_fin_utc": "2026-05-10T17:15:00Z",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Leganés vs Racing Santander",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
         "calidad": "HD"
       }
     ]
@@ -991,6 +891,11 @@
         "nombre": "ESPN 3 NL",
         "url": "https://tvtvhd.com/canales.php?stream=espn3_nl",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney16",
+        "calidad": "HD"
       }
     ]
   },
@@ -1004,7 +909,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
         "calidad": "HD"
       }
     ]
@@ -1031,6 +936,11 @@
         "nombre": "ESPN 5 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney17",
+        "calidad": "HD"
       }
     ]
   },
@@ -1055,6 +965,21 @@
       {
         "nombre": "ESPN MX | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney18",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
         "calidad": "HD"
       }
     ]
