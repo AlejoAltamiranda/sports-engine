@@ -445,31 +445,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-10T08:45:00Z",
-    "hora_fin_utc": "2026-05-10T11:45:00Z",
-    "liga": "Formula 1",
-    "equipos": "F1 France - Grand Prix",
-    "logo": "img/formula1.png",
-    "sport": "f1",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-10T10:30:00Z",
     "hora_fin_utc": "2026-05-10T13:00:00Z",
     "liga": "Serie A",
@@ -636,6 +611,16 @@
         "nombre": "Sky Sports LaLiga MX",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
+        "calidad": "HD"
       }
     ]
   },
@@ -729,7 +714,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
         "calidad": "HD"
       }
     ]
@@ -745,6 +730,21 @@
       {
         "nombre": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-10T13:00:00Z",
+    "hora_fin_utc": "2026-05-10T15:30:00Z",
+    "liga": "Premier League",
+    "equipos": "Crystal Palace vs Everton",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
         "calidad": "HD"
       }
     ]
@@ -771,20 +771,10 @@
         "nombre": "ESPN MX | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
         "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-10T13:00:00Z",
-    "hora_fin_utc": "2026-05-10T15:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Crystal Palace vs Everton",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
+      },
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
         "calidad": "HD"
       }
     ]
