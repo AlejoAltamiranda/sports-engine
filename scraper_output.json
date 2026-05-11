@@ -540,6 +540,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-tottenham-hotspur-vs-leeds-united/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/tottenham-vs-leeds-football-1379327/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -619,6 +624,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-rayo-vallecano-vs-girona/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/rayo-vallecano-vs-girona-football-1391165/1",
         "calidad": "HD"
       }
     ],
@@ -740,6 +750,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-cleveland-guardians/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/cleveland-guardians-vs-los-angeles-angels-baseball-178625/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -754,6 +769,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-baltimore-orioles/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/baltimore-orioles-vs-new-york-yankees-baseball-178624/1",
         "calidad": "HD"
       }
     ],
@@ -784,6 +804,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-rays-vs-toronto-blue-jays/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/toronto-blue-jays-vs-tampa-bay-rays-baseball-178620/1",
         "calidad": "HD"
       }
     ],
@@ -940,6 +965,36 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-12T00:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs Texas Rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-texas-rangers/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-12T00:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Seattle Mariners",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-houston-astros/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-12T01:00:00Z",
     "logo": "img/col.png",
     "liga": "Liga Betplay",
@@ -988,6 +1043,21 @@
       }
     ],
     "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-12T02:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Los Angeles Dodgers vs San Francisco Giants",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-12T02:30Z",
@@ -1044,6 +1114,111 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-atl-tico-madrid/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T17:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Sevilla vs Villarreal",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-villarreal-vs-sevilla/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T17:00Z",
+    "logo": "img/fr.png",
+    "liga": "Ligue 1",
+    "equipos": "RC Strasbourg vs Stade Brestois",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-strasbourg/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T19:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "Crystal Palace vs Manchester City",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-manchester-city-vs-crystal-palace/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T19:30Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Getafe vs Mallorca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T23:15Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Charlotte FC vs New York City FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-new-york-city-fc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T23:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Nashville SC vs New England Revolution",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-england-revolution-vs-nashville-sc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T23:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "CF Montreal vs Portland Timbers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-cf-montr-al-vs-portland-timbers/1",
         "calidad": "HD"
       }
     ],
