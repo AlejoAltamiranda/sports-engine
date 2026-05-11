@@ -375,46 +375,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-11T13:00:00Z",
-    "hora_fin_utc": "2026-05-11T16:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Internazionali BNL d’Italia – Tercera Ronda",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-11T18:00:00Z",
     "hora_fin_utc": "2026-05-11T20:30:00Z",
     "liga": "Liga1",
@@ -456,6 +416,31 @@
   },
   {
     "hora_utc": "2026-05-11T18:30:00Z",
+    "hora_fin_utc": "2026-05-11T21:30:00Z",
+    "liga": "Tenis",
+    "equipos": "Internazionali BNL d’Italia – Tercera Ronda",
+    "logo": "🎾",
+    "sport": "tenis",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T18:30:00Z",
     "hora_fin_utc": "2026-05-11T21:00:00Z",
     "liga": "LaLiga SmartBank",
     "equipos": "Huesca vs Real Sociedad II",
@@ -465,6 +450,11 @@
       {
         "nombre": "LaLiga TV Hypermotion ",
         "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ]
@@ -493,13 +483,33 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN 4 MX",
         "url": "https://tvtvhd.com/canales.php?stream=espn4mx",
         "calidad": "HD"
       },
       {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-napoli-vs-bologna/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/napoli-vs-bologna-football-1378220/1",
         "calidad": "HD"
       }
     ]
@@ -514,12 +524,27 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
         "calidad": "HD"
       },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-tottenham-hotspur-vs-leeds-united/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:00:00Z",
+    "hora_fin_utc": "2026-05-11T21:30:00Z",
+    "liga": "Primera División",
+    "equipos": "ABB vs Oriente Petrolero",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
         "calidad": "HD"
       }
     ]
@@ -545,6 +570,11 @@
       {
         "nombre": "ESPN AR┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       },
       {
@@ -577,39 +607,89 @@
   {
     "hora_utc": "2026-05-11T19:00:00Z",
     "hora_fin_utc": "2026-05-11T21:30:00Z",
-    "liga": "Primera División",
-    "equipos": "ABB vs Oriente Petrolero",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-11T19:00:00Z",
-    "hora_fin_utc": "2026-05-11T21:30:00Z",
     "liga": "Championship",
     "equipos": "Hull City vs Millwall",
     "logo": "⚽",
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:15Z",
+    "hora_fin_utc": "2026-05-11T21:45:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "SC Braga vs SL Benfica",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
       {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/benfica-vs-sc-braga-football-1396527/1",
         "calidad": "HD"
-      },
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:15Z",
+    "hora_fin_utc": "2026-05-11T21:45:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "Estrela da Amadora vs FC Famalicão",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
       {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/estrela-vs-famalicao-football-1396528/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:15Z",
+    "hora_fin_utc": "2026-05-11T21:45:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "FC Arouca vs Gil Vicente",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/gil-vicente-vs-arouca-football-1396529/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:15Z",
+    "hora_fin_utc": "2026-05-11T21:45:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "Rio Ave FC vs Sporting CP",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/rio-ave-vs-sporting-cp-football-1396530/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-11T19:15Z",
+    "hora_fin_utc": "2026-05-11T21:45:00Z",
+    "liga": "Primeira Liga",
+    "equipos": "CD Tondela vs Moreirense FC",
+    "logo": "img/pt.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/tondela-vs-moreirense-football-1396532/1",
         "calidad": "HD"
       }
     ]
@@ -624,7 +704,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ]
