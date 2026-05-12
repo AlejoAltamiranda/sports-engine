@@ -200,56 +200,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-12T17:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Celta de Vigo vs Levante",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports + I OP2",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-12T17:00Z",
     "logo": "img/default.png",
     "liga": "Soccer",
@@ -263,6 +213,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_celta-levante-live-streaming-1096317585/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/celta-vigo-vs-levante-football-1391171/1",
         "calidad": "HD"
       }
@@ -270,57 +225,32 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-12T18:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Defensa y Justicia vs Platense",
+    "hora_utc": "2026-05-12T18:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Elche vs Real Betis",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-12T18:00:00Z",
+    "hora_utc": "2026-05-12T18:00Z",
     "logo": "img/sa.png",
     "liga": "Saudi Pro League",
     "equipos": "Al Nassr vs Al-Hilal",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-al-nassr-vs-al-hilal/1",
@@ -337,57 +267,7 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-12T18:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Elche vs Real Betis",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-12T18:30:00Z",
@@ -567,23 +447,13 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "nombre": "ECDF LigaPro",
+        "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
         "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-12T20:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Copa Colombia",
-    "equipos": "Boca Juniors de Cali vs Real Santander",
-    "status": "pronto",
-    "canales": [
+      },
       {
-        "nombre": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
+        "nombre": "Zapping TV",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even3",
         "calidad": "HD"
       }
     ],
@@ -597,18 +467,18 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "nombre": "Win Sports 2",
+        "url": "https://tvtvhd.com/canales.php?stream=winsports2",
         "calidad": "HD"
       },
       {
-        "nombre": "Win Sports + | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "nombre": "Win Sports 2 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports2",
         "calidad": "HD"
       },
       {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "nombre": "Win Sports 2 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports2",
         "calidad": "HD"
       }
     ],
