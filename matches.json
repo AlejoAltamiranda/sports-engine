@@ -39,6 +39,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-baltimore-orioles/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22326/1",
         "calidad": "HD"
       }
@@ -129,6 +134,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-texas-rangers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22336/1",
         "calidad": "HD"
       }
@@ -149,6 +159,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22337/1",
         "calidad": "HD"
       }
@@ -190,11 +205,6 @@
       {
         "nombre": "2460",
         "url": "https://sharkstreams.net/player.php?channel=2460",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22305/1",
         "calidad": "HD"
       }
     ]
@@ -276,6 +286,36 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-celta-vigo-vs-levante/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/celta-vigo-vs-levante-football-1391171/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T18:00:00Z",
+    "hora_fin_utc": "2026-05-12T20:30:00Z",
+    "liga": "Liga Profesional",
+    "equipos": "Defensa y Justicia vs Platense",
+    "logo": "img/ar.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 4",
+        "url": "https://tvtvhd.com/canales.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 4 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
+        "calidad": "HD"
       }
     ]
   },
@@ -310,7 +350,7 @@
     ]
   },
   {
-    "hora_utc": "2026-05-12T18:00Z",
+    "hora_utc": "2026-05-12T18:00:00Z",
     "hora_fin_utc": "2026-05-12T20:30:00Z",
     "liga": "Saudi Pro League",
     "equipos": "Al Nassr vs Al-Hilal",
@@ -318,7 +358,27 @@
     "sport": "football",
     "canales": [
       {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-al-nassr-vs-al-hilal/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-nassr-al-hilal-live-streaming-1095959943/1",
         "calidad": "HD"
       }
@@ -342,6 +402,26 @@
   {
     "hora_utc": "2026-05-12T19:00:00Z",
     "hora_fin_utc": "2026-05-12T21:30:00Z",
+    "liga": "Copa Colombia",
+    "equipos": "Leones vs Orsomarso",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T19:00:00Z",
+    "hora_fin_utc": "2026-05-12T21:30:00Z",
     "liga": "Primera División",
     "equipos": "San Antonio Bulo Bulo vs Universitario de Vinto",
     "logo": "img/bo.png",
@@ -350,6 +430,31 @@
       {
         "nombre": "Futbol Canal",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T19:00:00Z",
+    "hora_fin_utc": "2026-05-12T21:30:00Z",
+    "liga": "Championship",
+    "equipos": "Middlesbrough vs Southampton",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 7",
+        "url": "https://tvtvhd.com/canales.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
         "calidad": "HD"
       }
     ]
@@ -400,6 +505,36 @@
     ]
   },
   {
+    "hora_utc": "2026-05-12T20:00:00Z",
+    "hora_fin_utc": "2026-05-12T22:30:00Z",
+    "liga": "Copa Ecuador",
+    "equipos": "Barcelona SC vs Insutec",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T20:00:00Z",
+    "hora_fin_utc": "2026-05-12T22:30:00Z",
+    "liga": "Copa Colombia",
+    "equipos": "Boca Juniors de Cali vs Real Santander",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-12T20:00Z",
     "hora_fin_utc": "2026-05-12T23:15:00Z",
     "liga": "NBA",
@@ -415,6 +550,26 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22319/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T21:00:00Z",
+    "hora_fin_utc": "2026-05-12T23:30:00Z",
+    "liga": "Primera B",
+    "equipos": "Real Cartagena vs Unión Magdalena",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
@@ -450,6 +605,21 @@
       {
         "nombre": "Futbol Canal",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T22:30:00Z",
+    "hora_fin_utc": "2026-05-13T01:00:00Z",
+    "liga": "Copa de Brasil",
+    "equipos": "Athletic Club vs Internacional",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Canal 1",
+        "url": "#",
         "calidad": "HD"
       }
     ]
@@ -510,6 +680,21 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22329/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T23:00:00Z",
+    "hora_fin_utc": "2026-05-13T01:30:00Z",
+    "liga": "Copa Ecuador",
+    "equipos": "Baños Ciudad de Fuego vs Delfín",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       }
     ]
@@ -600,6 +785,26 @@
     ]
   },
   {
+    "hora_utc": "2026-05-12T23:20:00Z",
+    "hora_fin_utc": "2026-05-13T01:50:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "Atlético Nacional vs Inter Bogotá",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-12T23:40Z",
     "hora_fin_utc": "2026-05-13T02:55:00Z",
     "liga": "MLB",
@@ -662,6 +867,21 @@
   {
     "hora_utc": "2026-05-13T00:00:00Z",
     "hora_fin_utc": "2026-05-13T02:30:00Z",
+    "liga": "Copa de Brasil",
+    "equipos": "Cruzeiro vs Goiás",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T00:00:00Z",
+    "hora_fin_utc": "2026-05-13T02:30:00Z",
     "liga": "Primera División",
     "equipos": "Aurora vs Real Oruro",
     "logo": "img/bo.png",
@@ -702,6 +922,21 @@
   {
     "hora_utc": "2026-05-13T00:30:00Z",
     "hora_fin_utc": "2026-05-13T03:00:00Z",
+    "liga": "Copa de Brasil",
+    "equipos": "Fluminense vs Operário PR",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T00:30:00Z",
+    "hora_fin_utc": "2026-05-13T03:00:00Z",
     "liga": "Liga Profesional",
     "equipos": "Argentinos Juniors vs Huracán",
     "logo": "img/ar.png",
@@ -735,6 +970,26 @@
       {
         "nombre": "TyC Sports International | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T01:30:00Z",
+    "hora_fin_utc": "2026-05-13T04:00:00Z",
+    "liga": "Liga Betplay",
+    "equipos": "América de Cali vs Independiente Santa Fe",
+    "logo": "img/col.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
@@ -805,6 +1060,26 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22322/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T02:15:00Z",
+    "hora_fin_utc": "2026-05-13T04:45:00Z",
+    "liga": "Liga Nacional",
+    "equipos": "Club Olimpia vs Real España",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
         "calidad": "HD"
       }
     ]
