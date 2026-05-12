@@ -14,12 +14,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-angels-vs-cleveland-guardians/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22325/1",
+        "url": "https://embedsports.top/embed/golf/22353/1",
         "calidad": "HD"
       }
     ]
@@ -39,12 +34,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-baltimore-orioles/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22326/1",
+        "url": "https://embedsports.top/embed/golf/22354/1",
         "calidad": "HD"
       }
     ]
@@ -64,12 +54,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-tampa-bay-rays-vs-toronto-blue-jays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22330/1",
+        "url": "https://embedsports.top/embed/golf/22358/1",
         "calidad": "HD"
       }
     ]
@@ -100,6 +85,11 @@
       {
         "nombre": "2459",
         "url": "https://sharkstreams.net/player.php?channel=2459",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22347/1",
         "calidad": "HD"
       }
     ]
@@ -210,31 +200,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-12T13:00:00Z",
-    "hora_fin_utc": "2026-05-12T16:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Internazionali BNL d’Italia",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-12T17:00:00Z",
     "hora_fin_utc": "2026-05-12T19:30:00Z",
     "liga": "LaLiga",
@@ -242,21 +207,6 @@
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
       {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
@@ -270,6 +220,26 @@
       {
         "nombre": "ESPN Deportes  | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
         "calidad": "HD"
       }
     ]
@@ -308,6 +278,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN 4 | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
         "calidad": "HD"
@@ -315,36 +290,6 @@
       {
         "nombre": "ESPN 4 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-12T18:00:00Z",
-    "hora_fin_utc": "2026-05-12T20:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Elche vs Real Betis",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
         "calidad": "HD"
       }
     ]
@@ -385,6 +330,51 @@
     ]
   },
   {
+    "hora_utc": "2026-05-12T18:00:00Z",
+    "hora_fin_utc": "2026-05-12T20:30:00Z",
+    "liga": "LaLiga",
+    "equipos": "Elche vs Real Betis",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus4",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-12T18:30:00Z",
     "hora_fin_utc": "2026-05-12T21:00:00Z",
     "liga": "Ligue 1",
@@ -392,6 +382,11 @@
     "logo": "img/fr.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      },
       {
         "nombre": "BeIN Sports Ñ",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
@@ -422,26 +417,16 @@
   {
     "hora_utc": "2026-05-12T19:00:00Z",
     "hora_fin_utc": "2026-05-12T21:30:00Z",
-    "liga": "Primera División",
-    "equipos": "San Antonio Bulo Bulo vs Universitario de Vinto",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-12T19:00:00Z",
-    "hora_fin_utc": "2026-05-12T21:30:00Z",
     "liga": "Championship",
     "equipos": "Middlesbrough vs Southampton",
     "logo": "⚽",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN 7",
         "url": "https://tvtvhd.com/canales.php?stream=espn7",
@@ -460,6 +445,21 @@
     ]
   },
   {
+    "hora_utc": "2026-05-12T19:00:00Z",
+    "hora_fin_utc": "2026-05-12T21:30:00Z",
+    "liga": "Primera División",
+    "equipos": "San Antonio Bulo Bulo vs Universitario de Vinto",
+    "logo": "img/bo.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Futbol Canal",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-12T19:30:00Z",
     "hora_fin_utc": "2026-05-12T22:00:00Z",
     "liga": "LaLiga",
@@ -467,21 +467,6 @@
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
       {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
@@ -634,12 +619,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22327/1",
+        "url": "https://embedsports.top/embed/golf/22355/1",
         "calidad": "HD"
       }
     ]
@@ -654,12 +634,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-washington-nationals-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22328/1",
+        "url": "https://embedsports.top/embed/golf/22356/1",
         "calidad": "HD"
       }
     ]
@@ -674,12 +649,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-boston-red-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22329/1",
+        "url": "https://embedsports.top/embed/golf/22357/1",
         "calidad": "HD"
       }
     ]
@@ -754,12 +724,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-new-york-mets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22331/1",
+        "url": "https://embedsports.top/embed/golf/22359/1",
         "calidad": "HD"
       }
     ]
@@ -774,12 +739,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-atlanta-braves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22332/1",
+        "url": "https://embedsports.top/embed/golf/22360/1",
         "calidad": "HD"
       }
     ]
@@ -814,12 +774,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22334/1",
+        "url": "https://embedsports.top/embed/golf/22362/1",
         "calidad": "HD"
       }
     ]
@@ -834,12 +789,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-milwaukee-brewers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22335/1",
+        "url": "https://embedsports.top/embed/golf/22363/1",
         "calidad": "HD"
       }
     ]
@@ -854,12 +804,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22333/1",
+        "url": "https://embedsports.top/embed/golf/22361/1",
         "calidad": "HD"
       }
     ]
@@ -1195,6 +1140,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T23:00Z",
+    "hora_fin_utc": "2026-05-14T02:15:00Z",
+    "liga": "WNBA",
+    "equipos": "Seattle Storm vs Toronto Tempo",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22348/1",
         "calidad": "HD"
       }
     ]
