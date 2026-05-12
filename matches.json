@@ -200,31 +200,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-12T17:00Z",
-    "hora_fin_utc": "2026-05-12T19:30:00Z",
-    "liga": "Soccer",
-    "equipos": "Celta Vigo vs Levante",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-celta-vigo-vs-levante/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_celta-levante-live-streaming-1096317585/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/celta-vigo-vs-levante-football-1391171/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-12T18:00Z",
     "hora_fin_utc": "2026-05-12T20:30:00Z",
     "liga": "LaLiga",
@@ -235,11 +210,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1",
         "calidad": "HD"
       }
     ]
@@ -270,26 +240,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-12T18:30:00Z",
-    "hora_fin_utc": "2026-05-12T21:00:00Z",
-    "liga": "Ligue 1",
-    "equipos": "Red Star vs Rodez",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-12T18:30Z",
     "hora_fin_utc": "2026-05-12T21:00:00Z",
     "liga": "Soccer",
@@ -305,72 +255,7 @@
     ]
   },
   {
-    "hora_utc": "2026-05-12T19:00:00Z",
-    "hora_fin_utc": "2026-05-12T21:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Leones vs Orsomarso",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-12T19:00:00Z",
-    "hora_fin_utc": "2026-05-12T21:30:00Z",
-    "liga": "Championship",
-    "equipos": "Middlesbrough vs Southampton",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7",
-        "url": "https://tvtvhd.com/canales.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn7",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 7 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn7",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-12T19:00:00Z",
-    "hora_fin_utc": "2026-05-12T21:30:00Z",
-    "liga": "Primera División",
-    "equipos": "San Antonio Bulo Bulo vs Universitario de Vinto",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-12T19:30:00Z",
+    "hora_utc": "2026-05-12T19:30Z",
     "hora_fin_utc": "2026-05-12T22:00:00Z",
     "liga": "LaLiga",
     "equipos": "Atlético de Madrid vs Osasuna",
@@ -378,48 +263,13 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-osasuna-vs-atl-tico-madrid/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_osasuna-atl-madrid-live-streaming-1096322580/1",
         "calidad": "HD"
       }
     ]
@@ -440,6 +290,26 @@
       {
         "nombre": "Zapping TV",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-12T20:00:00Z",
+    "hora_fin_utc": "2026-05-12T22:30:00Z",
+    "liga": "Primera B",
+    "equipos": "Leones vs Orsomarso",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Win Sports + | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
         "calidad": "HD"
       }
     ]
@@ -523,8 +393,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Amazon Prime C",
+        "url": "https://tvtvhd.com/canales.php?stream=amazon_prime1",
         "calidad": "HD"
       }
     ]
@@ -583,8 +453,13 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "nombre": "ECDF LigaPro",
+        "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Zapping TV",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=even3",
         "calidad": "HD"
       }
     ]
@@ -756,6 +631,11 @@
         "nombre": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
       }
     ]
   },
@@ -848,8 +728,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       }
     ]
