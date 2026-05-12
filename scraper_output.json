@@ -282,11 +282,6 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney10",
-        "calidad": "HD"
-      },
-      {
         "nombre": "ESPN 4 | OP2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
         "calidad": "HD"
@@ -335,6 +330,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-nassr-al-hilal-live-streaming-1095959943/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/al-nassr-vs-al-hilal-saudi-fc-football-1436194/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -380,6 +380,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-real-betis-vs-elche/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/real-betis-vs-elche-football-1391170/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -403,6 +408,21 @@
       }
     ],
     "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-12T18:30Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "Red Star vs Rodez AF",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/red-star-fc-93-vs-rodez-football-1544684/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-12T19:00:00Z",
@@ -492,6 +512,21 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "DSports",
+        "url": "https://tvtvhd.com/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
         "calidad": "HD"
@@ -504,6 +539,16 @@
       {
         "nombre": "ESPN Deportes  | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
         "calidad": "HD"
       },
       {
@@ -543,26 +588,6 @@
       }
     ],
     "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-12T20:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22319/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-12T21:00:00Z",
@@ -609,6 +634,21 @@
       {
         "nombre": "FOX Deportes | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Premium┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
         "calidad": "HD"
       }
     ],
@@ -734,6 +774,21 @@
       {
         "nombre": "ESPN 3 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN MX | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espnmx",
         "calidad": "HD"
       }
     ],
@@ -925,6 +980,46 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-13T00:00Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-timberwolves-vs-san-antonio-spurs/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22319/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T00:00Z",
+    "logo": "img/wwe.png",
+    "liga": "WWE",
+    "equipos": "NXT #837",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-wwe-nxt/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/admin/ppv-wwe-nxt/2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-13T00:30:00Z",
     "logo": "img/default.png",
     "liga": "Copa de Brasil",
@@ -1034,6 +1129,26 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22324/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-13T01:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Athletics vs St. Louis Cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22338/1",
         "calidad": "HD"
       }
     ],
@@ -1344,6 +1459,96 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-chicago-fire-fc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T00:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "LA Galaxy vs Sporting Kansas City",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-sporting-kansas-city-vs-la-galaxy/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T00:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "FC Dallas vs Vancouver Whitecaps",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-fc-dallas-vs-vancouver-whitecaps/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T01:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Austin FC vs San Diego FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-austin-fc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T17:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Rayo Vallecano vs Valencia CF",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-rayo-vallecano/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T18:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Girona vs Real Sociedad",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-girona-vs-real-sociedad/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-14T19:30Z",
+    "logo": "img/default.png",
+    "liga": "Soccer",
+    "equipos": "Real Madrid vs Real Oviedo",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/1",
         "calidad": "HD"
       }
     ],
