@@ -74,6 +74,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-pittsburgh-pirates/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22355/1",
         "calidad": "HD"
       }
@@ -296,16 +301,6 @@
         "nombre": "2481",
         "url": "https://sharkstreams.net/player.php?channel=2481",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22366/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -351,41 +346,6 @@
         "nombre": "2482",
         "url": "https://sharkstreams.net/player.php?channel=2482",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22367/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T11:00:00Z",
-    "hora_fin_utc": "2026-05-13T14:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Iga Swiatek vs Jessica Pegula",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
       }
     ]
   },
@@ -398,18 +358,8 @@
     "sport": "tenis",
     "canales": [
       {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "ESPN 2 MX",
+        "url": "https://tvtvhd.com/canales.php?stream=espn2mx",
         "calidad": "HD"
       }
     ]
@@ -546,6 +496,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-brest-vs-strasbourg/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/stade-brestois-29-vs-strasbourg-football-1387951/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -605,6 +560,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-espanyol-vs-athletic-club/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/espanyol-vs-athletic-club-football-1391172/1",
         "calidad": "HD"
       }
     ]
@@ -766,6 +726,11 @@
         "nombre": "Win Sports ┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/lazio-vs-inter-football-1542548/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -875,6 +840,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-getafe-vs-mallorca/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/getafe-vs-mallorca-football-1391173/1",
         "calidad": "HD"
       }
     ]
@@ -1554,6 +1524,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-golden-state-valkyries/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22350/1",
         "calidad": "HD"
       }
@@ -1569,6 +1544,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-indiana-fever-vs-los-angeles-sparks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22351/1",
         "calidad": "HD"
       }
