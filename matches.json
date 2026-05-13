@@ -455,156 +455,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-13T17:00:00Z",
-    "hora_fin_utc": "2026-05-13T19:30:00Z",
-    "liga": "Ligue 1",
-    "equipos": "RC Strasbourg vs Stade Brestois",
-    "logo": "img/fr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-strasbourg/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/stade-brestois-29-vs-strasbourg-football-1387951/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T17:00:00Z",
-    "hora_fin_utc": "2026-05-13T20:00:00Z",
-    "liga": "Tenis",
-    "equipos": "Casper Ruud vs Karen Khachanov",
-    "logo": "🎾",
-    "sport": "tenis",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T17:00:00Z",
-    "hora_fin_utc": "2026-05-13T19:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Athletic Club vs Espanyol",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T17:00:00Z",
-    "hora_fin_utc": "2026-05-13T19:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Sevilla vs Villarreal",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-villarreal-vs-sevilla/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_villarreal-sevilla-live-streaming-1096326576/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/villarreal-vs-sevilla-football-1391178/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-13T17:00Z",
     "hora_fin_utc": "2026-05-13T19:30:00Z",
     "liga": "Soccer",
@@ -616,55 +466,40 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-espanyol-vs-athletic-club/1",
         "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T17:00Z",
+    "hora_fin_utc": "2026-05-13T19:30:00Z",
+    "liga": "LaLiga",
+    "equipos": "Sevilla vs Villarreal",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-villarreal-vs-sevilla/1",
+        "calidad": "HD"
       },
       {
         "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_espanyol-athletic-club-live-streaming-1096319583/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/espanyol-vs-athletic-club-football-1391172/1",
+        "url": "https://embedsports.top/embed/delta/live_laliga_villarreal-sevilla-live-streaming-1096326576/1",
         "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-13T18:00:00Z",
-    "hora_fin_utc": "2026-05-13T20:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Arsenal vs Everton",
-    "logo": "img/en.png",
+    "hora_utc": "2026-05-13T17:00Z",
+    "hora_fin_utc": "2026-05-13T19:30:00Z",
+    "liga": "Ligue 1",
+    "equipos": "RC Strasbourg vs Stade Brestois",
+    "logo": "img/fr.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T18:00:00Z",
-    "hora_fin_utc": "2026-05-13T20:30:00Z",
-    "liga": "Eerste Divisie",
-    "equipos": "Almere City vs Willem II",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN NL ",
-        "url": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN NL | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-brest-vs-strasbourg/1",
         "calidad": "HD"
       }
     ]
@@ -688,7 +523,7 @@
     "hora_utc": "2026-05-13T18:30:00Z",
     "hora_fin_utc": "2026-05-13T21:30:00Z",
     "liga": "Tenis",
-    "equipos": "Luciano Darderi vs Rafael Jodar",
+    "equipos": "Elena Rybakina vs Elina Svitolina",
     "logo": "🎾",
     "sport": "tenis",
     "canales": [
@@ -734,6 +569,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_man-city-crystal-palace-live-streaming-1314399285/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/manchester-city-vs-crystal-palace-football-1379275/1",
         "calidad": "HD"
       }
@@ -989,7 +829,27 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_getafe-mallorca-live-streaming-1096320582/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/getafe-vs-mallorca-football-1391173/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T20:00:00Z",
+    "hora_fin_utc": "2026-05-13T22:30:00Z",
+    "liga": "Liga de Basket de Lima",
+    "equipos": "Club de Regatas Lima vs Real Club de Lima",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ]
@@ -1096,6 +956,16 @@
         "nombre": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
       }
     ]
   },
@@ -1185,13 +1055,28 @@
     ]
   },
   {
-    "hora_utc": "2026-05-13T23:15Z",
+    "hora_utc": "2026-05-13T23:15:00Z",
     "hora_fin_utc": "2026-05-14T01:45:00Z",
     "liga": "MLS",
     "equipos": "Charlotte FC vs New York City FC",
     "logo": "img/usa.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "MLS 01 | EN",
+        "url": "https://tvtvhd.com/canales.php?stream=mls1en",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-new-york-city-fc/1",
@@ -1341,6 +1226,11 @@
         "nombre": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
       }
     ]
   },
@@ -1457,21 +1347,6 @@
   {
     "hora_utc": "2026-05-14T00:30:00Z",
     "hora_fin_utc": "2026-05-14T03:00:00Z",
-    "liga": "Copa de Brasil",
-    "equipos": "Jacuipense vs Palmeiras",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Canal 1",
-        "url": "#",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-14T00:30:00Z",
-    "hora_fin_utc": "2026-05-14T03:00:00Z",
     "liga": "Liga Profesional",
     "equipos": "Gimnasia y Esgrima La Plata vs River Plate",
     "logo": "img/ar.png",
@@ -1505,6 +1380,21 @@
       {
         "nombre": "ESPN Premium┃OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T00:30:00Z",
+    "hora_fin_utc": "2026-05-14T03:00:00Z",
+    "liga": "Copa de Brasil",
+    "equipos": "Jacuipense vs Palmeiras",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Amazon Prime C",
+        "url": "https://tvtvhd.com/canales.php?stream=amazon_prime1",
         "calidad": "HD"
       }
     ]
@@ -1578,13 +1468,28 @@
     "hora_utc": "2026-05-14T01:30Z",
     "hora_fin_utc": "2026-05-14T04:00:00Z",
     "liga": "MLS",
-    "equipos": "San Jose Earthquakes vs Seattle Sounders",
+    "equipos": "Austin FC vs San Diego FC",
     "logo": "img/usa.png",
     "sport": "football",
     "canales": [
       {
+        "nombre": "FOX Deportes",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Deportes | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "FOX Sports 1 USA",
+        "url": "https://tvtvhd.com/tv/canal.php?stream=foxsports1_usa",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-jose-earthquakes/1",
+        "url": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-austin-fc/1",
         "calidad": "HD"
       }
     ]
@@ -1593,13 +1498,13 @@
     "hora_utc": "2026-05-14T01:30Z",
     "hora_fin_utc": "2026-05-14T04:00:00Z",
     "liga": "MLS",
-    "equipos": "Austin FC vs San Diego FC",
+    "equipos": "San Jose Earthquakes vs Seattle Sounders",
     "logo": "img/usa.png",
     "sport": "football",
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-austin-fc/1",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-jose-earthquakes/1",
         "calidad": "HD"
       }
     ]
@@ -1645,6 +1550,21 @@
       {
         "nombre": "TUDN USA | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=tudn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7",
+        "url": "https://tvtvhd.com/canales.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=azteca7",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Azteca 7 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=azteca7",
         "calidad": "HD"
       }
     ]
