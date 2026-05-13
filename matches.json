@@ -126,6 +126,11 @@
         "nombre": "Server 3",
         "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_canadiens-sabres-live-streaming-1302244452/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/montreal-canadiens-vs-buffalo-sabres-hockey-425112/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -260,41 +265,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-13T00:00:00Z",
-    "hora_fin_utc": "2026-05-13T02:30:00Z",
-    "liga": "Copa de Brasil",
-    "equipos": "Cruzeiro vs Goiás",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T00:00:00Z",
-    "hora_fin_utc": "2026-05-13T02:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Aurora vs Real Oruro",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-13T00:00Z",
     "hora_fin_utc": "2026-05-13T03:15:00Z",
     "liga": "WNBA",
@@ -315,6 +285,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22320/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_wings-atlanta-live-streaming-1210320468/1",
         "calidad": "HD"
       }
     ]
@@ -340,6 +315,16 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22319/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_spurs-timberwolves-live-streaming-1297381320/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/san-antonio-spurs-vs-minnesota-timberwolves-basketball-499120/1",
         "calidad": "HD"
       }
     ]
@@ -379,12 +364,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-arizona-diamondbacks-vs-texas-rangers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22336/1",
+        "url": "https://embedsports.top/embed/golf/22364/1",
         "calidad": "HD"
       }
     ]
@@ -404,87 +384,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-houston-astros/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22337/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T00:30:00Z",
-    "hora_fin_utc": "2026-05-13T03:00:00Z",
-    "liga": "Copa de Brasil",
-    "equipos": "Fluminense vs Operário PR",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "DSports +",
-        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T00:30:00Z",
-    "hora_fin_utc": "2026-05-13T03:00:00Z",
-    "liga": "Liga Profesional",
-    "equipos": "Argentinos Juniors vs Huracán",
-    "logo": "img/ar.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional",
-        "url": "https://tvtvhd.com/canales.php?stream=tycinternacional",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports Internacional | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=tycinternacional",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "TyC Sports International | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=tycinternacional",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T01:30:00Z",
-    "hora_fin_utc": "2026-05-13T04:00:00Z",
-    "liga": "Liga Betplay",
-    "equipos": "América de Cali vs Independiente Santa Fe",
-    "logo": "img/col.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "url": "https://embedsports.top/embed/golf/22365/1",
         "calidad": "HD"
       }
     ]
@@ -511,6 +411,16 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22324/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_golden-knights-ducks-live-streaming-1297287414/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/vegas-golden-knights-vs-anaheim-ducks-hockey-425156/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -529,12 +439,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22338/1",
+        "url": "https://embedsports.top/embed/golf/22366/1",
         "calidad": "HD"
       }
     ]
@@ -561,6 +466,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22321/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_mercury-lynx-live-streaming-1210321467/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -586,6 +496,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22322/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_fire-liberty-live-streaming-1210322466/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -604,32 +519,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22339/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-13T02:15:00Z",
-    "hora_fin_utc": "2026-05-13T04:45:00Z",
-    "liga": "Liga Nacional",
-    "equipos": "Club Olimpia vs Real España",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
+        "url": "https://embedsports.top/embed/golf/22367/1",
         "calidad": "HD"
       }
     ]
@@ -675,6 +565,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-brest-vs-strasbourg/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-13T18:00Z",
+    "hora_fin_utc": "2026-05-13T21:15:00Z",
+    "liga": "NBA",
+    "equipos": "NBA Draft Combine",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "2483",
+        "url": "https://sharkstreams.net/player.php?channel=2483",
         "calidad": "HD"
       }
     ]
@@ -757,6 +662,11 @@
     "logo": "img/nba.png",
     "sport": "nba",
     "canales": [
+      {
+        "nombre": "2484",
+        "url": "https://sharkstreams.net/player.php?channel=2484",
+        "calidad": "HD"
+      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22347/1",
@@ -885,6 +795,36 @@
     ]
   },
   {
+    "hora_utc": "2026-05-14T00:00Z",
+    "hora_fin_utc": "2026-05-14T03:00:00Z",
+    "liga": "NHL",
+    "equipos": "Colorado Avalanche vs Minnesota Wild",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22352/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T00:00Z",
+    "hora_fin_utc": "2026-05-14T03:15:00Z",
+    "liga": "WNBA",
+    "equipos": "Connecticut Sun vs Las Vegas Aces",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22349/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-14T00:30Z",
     "hora_fin_utc": "2026-05-14T03:00:00Z",
     "liga": "MLS",
@@ -915,6 +855,36 @@
     ]
   },
   {
+    "hora_utc": "2026-05-14T00:30Z",
+    "hora_fin_utc": "2026-05-14T03:00:00Z",
+    "liga": "MLS",
+    "equipos": "Colorado Rapids vs Minnesota United",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-minnesota-united-fc-vs-colorado-rapids/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T01:30Z",
+    "hora_fin_utc": "2026-05-14T04:00:00Z",
+    "liga": "MLS",
+    "equipos": "San Jose Earthquakes vs Seattle Sounders",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-sounders-fc-vs-san-jose-earthquakes/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-14T01:30Z",
     "hora_fin_utc": "2026-05-14T04:00:00Z",
     "liga": "MLS",
@@ -925,6 +895,51 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-san-diego-fc-vs-austin-fc/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T01:30Z",
+    "hora_fin_utc": "2026-05-14T04:00:00Z",
+    "liga": "MLS",
+    "equipos": "Houston Dynamo vs Real Salt Lake",
+    "logo": "img/usa.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-real-salt-lake-vs-houston-dynamo-fc/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T02:00Z",
+    "hora_fin_utc": "2026-05-14T05:15:00Z",
+    "liga": "WNBA",
+    "equipos": "Chicago Sky vs Golden State Valkyries",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22350/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T02:30Z",
+    "hora_fin_utc": "2026-05-14T05:45:00Z",
+    "liga": "WNBA",
+    "equipos": "Indiana Fever vs Los Angeles Sparks",
+    "logo": "img/nba.png",
+    "sport": "nba",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22351/1",
         "calidad": "HD"
       }
     ]
