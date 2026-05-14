@@ -1,55 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-14T13:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – WTA Semifinal #1",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-14T16:00:00Z",
-    "logo": "img/ar.png",
-    "liga": "Liga Profesional",
-    "equipos": "Huracán vs Independiente",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-14T16:35Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -73,6 +23,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_pirates-rockies-live-streaming-1277060661/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-colorado-rockies-baseball-178656/1",
         "calidad": "HD"
       }
@@ -89,6 +44,26 @@
       {
         "nombre": "2504",
         "url": "https://sharkstreams.net/player.php?channel=2504",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-washington-nationals-vs-cincinnati-reds/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22375/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_reds-nationals-live-streaming-1277061660/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/cincinnati-reds-vs-washington-nationals-baseball-178662/1",
         "calidad": "HD"
       }
     ],
@@ -170,6 +145,26 @@
         "nombre": "2505",
         "url": "https://sharkstreams.net/player.php?channel=2505",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-detroit-tigers-vs-new-york-mets/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22376/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_mets-tigers-live-streaming-1277062659/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/new-york-mets-vs-detroit-tigers-baseball-178657/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -233,6 +228,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_valencia-rayo-vallecano-live-streaming-1096325577/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/valencia-vs-rayo-vallecano-football-1391177/1",
         "calidad": "HD"
       }
@@ -250,6 +250,26 @@
         "nombre": "2506",
         "url": "https://sharkstreams.net/player.php?channel=2506",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-minnesota-twins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22377/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_twins-marlins-live-streaming-1277064657/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/minnesota-twins-vs-miami-marlins-baseball-178658/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -264,6 +284,26 @@
       {
         "nombre": "2507",
         "url": "https://sharkstreams.net/player.php?channel=2507",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-diego-padres-vs-milwaukee-brewers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22378/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_brewers-padres-live-streaming-1277063658/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/milwaukee-brewers-vs-san-diego-padres-baseball-178659/1",
         "calidad": "HD"
       }
     ],
@@ -313,6 +353,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_girona-real-sociedad-live-streaming-1096321581/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/girona-vs-real-sociedad-football-1391174/1",
         "calidad": "HD"
       }
@@ -329,6 +374,21 @@
       {
         "nombre": "2508",
         "url": "https://sharkstreams.net/player.php?channel=2508",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-seattle-mariners-vs-houston-astros/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22379/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/houston-astros-vs-seattle-mariners-baseball-178661/1",
         "calidad": "HD"
       }
     ],
@@ -384,6 +444,21 @@
       {
         "nombre": "2509",
         "url": "https://sharkstreams.net/player.php?channel=2509",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-athletics/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22380/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/athletics-vs-stlouis-cardinals-baseball-178666/1",
         "calidad": "HD"
       }
     ],
@@ -464,6 +539,21 @@
       {
         "nombre": "ECDF LigaPro",
         "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-14T20:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Primera División de Paraguay",
+    "equipos": "2 de Mayo vs Libertad FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "fanatiz 01",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz1",
         "calidad": "HD"
       }
     ],
@@ -590,6 +680,21 @@
         "nombre": "2510",
         "url": "https://sharkstreams.net/player.php?channel=2510",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-boston-red-sox/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22381/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/boston-red-sox-vs-philadelphia-phillies-baseball-178664/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -645,6 +750,21 @@
         "nombre": "2511",
         "url": "https://sharkstreams.net/player.php?channel=2511",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-atlanta-braves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22382/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178665/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -659,6 +779,16 @@
       {
         "nombre": "2512",
         "url": "https://sharkstreams.net/player.php?channel=2512",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22383/1",
         "calidad": "HD"
       }
     ],
@@ -870,6 +1000,16 @@
         "nombre": "2513",
         "url": "https://sharkstreams.net/player.php?channel=2513",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22384/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -910,20 +1050,30 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T20:00Z",
-    "logo": "img/nba.png",
-    "liga": "NBA",
-    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
+    "hora_utc": "2026-05-15T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Philadelphia Phillies vs Pittsburgh Pirates",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "2516",
-        "url": "https://sharkstreams.net/player.php?channel=2516",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22391/1",
         "calidad": "HD"
-      },
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T22:45Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Baltimore Orioles vs Washington Nationals",
+    "status": "pronto",
+    "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22386/1",
+        "url": "https://embedsports.top/embed/golf/22393/1",
         "calidad": "HD"
       }
     ],
@@ -944,6 +1094,51 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22385/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs Tampa Bay Rays",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22395/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T23:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs Minnesota Twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22397/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T23:15Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "New York Mets vs New York Yankees",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22396/1",
         "calidad": "HD"
       }
     ],
@@ -974,6 +1169,146 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22388/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T00:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "Dallas Renegades vs Orlando Storm",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-dallas-renegades/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T01:30Z",
+    "logo": "img/nba.png",
+    "liga": "NBA",
+    "equipos": "Minnesota Timberwolves vs San Antonio Spurs",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2516",
+        "url": "https://sharkstreams.net/player.php?channel=2516",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22386/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Borussia Dortmund vs Werder Bremen",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-borussia-dortmund/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T14:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "Chelsea vs Manchester City",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-city/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T16:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "DC Defenders vs Louisville Kings",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-louisville-kings/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T19:00Z",
+    "logo": "img/nfl.png",
+    "liga": "NFL",
+    "equipos": "Houston Gamblers vs St Louis BattleHawks",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-houston-gamblers-vs-st-louis-battlehawks/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T23:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Columbus Crew vs Philadelphia Union",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-union-vs-columbus-crew/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T23:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "Charlotte FC vs Toronto FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-toronto-fc/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T23:30Z",
+    "logo": "img/usa.png",
+    "liga": "MLS",
+    "equipos": "DC United vs St. Louis City",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-d-c-united-vs-st-louis-city-sc/1",
         "calidad": "HD"
       }
     ],
