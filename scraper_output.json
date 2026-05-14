@@ -70,77 +70,37 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-14T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Golf – PGA Championship – Primera Vuelta",
+    "hora_utc": "2026-05-14T17:00Z",
+    "logo": "img/es.png",
+    "liga": "LaLiga",
+    "equipos": "Rayo Vallecano vs Valencia CF",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-rayo-vallecano/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_valencia-rayo-vallecano-live-streaming-1096325577/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/valencia-vs-rayo-vallecano-football-1391177/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-14T17:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – Cuartos de Final",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-14T17:00:00Z",
+    "hora_utc": "2026-05-14T17:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "Detroit Tigers vs New York Mets",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
       {
         "nombre": "2505",
         "url": "https://sharkstreams.net/player.php?channel=2505",
@@ -167,77 +127,7 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-14T17:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga",
-    "equipos": "Rayo Vallecano vs Valencia CF",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-rayo-vallecano/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_valencia-rayo-vallecano-live-streaming-1096325577/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/valencia-vs-rayo-vallecano-football-1391177/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-14T17:40Z",
@@ -388,6 +278,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_astros-mariners-live-streaming-1277065656/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/houston-astros-vs-seattle-mariners-baseball-178661/1",
         "calidad": "HD"
       }
@@ -458,6 +353,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_athletics-cardinals-live-streaming-1277066655/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/athletics-vs-stlouis-cardinals-baseball-178666/1",
         "calidad": "HD"
       }
@@ -523,6 +423,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_laliga_real-madrid-real-oviedo-live-streaming-1096324578/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/real-madrid-vs-oviedo-football-1391176/1",
         "calidad": "HD"
       }
@@ -567,6 +472,11 @@
     "status": "pronto",
     "canales": [
       {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
         "nombre": "Sportv BR",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
@@ -594,6 +504,11 @@
       {
         "nombre": "Win Sports + | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "fanatiz 02",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz2",
         "calidad": "HD"
       }
     ],
@@ -632,8 +547,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
+        "nombre": "Premiere 2 BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere2",
         "calidad": "HD"
       }
     ],
@@ -647,8 +562,8 @@
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Amazon Prime C",
+        "url": "https://tvtvhd.com/canales.php?stream=amazon_prime1",
         "calidad": "HD"
       }
     ],
@@ -693,6 +608,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_red-sox-phillies-live-streaming-1277067654/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/boston-red-sox-vs-philadelphia-phillies-baseball-178664/1",
         "calidad": "HD"
       }
