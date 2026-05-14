@@ -11,26 +11,6 @@
         "nombre": "2503",
         "url": "https://sharkstreams.net/player.php?channel=2503",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-colorado-rockies-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22374/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_pirates-rockies-live-streaming-1277060661/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/pittsburgh-pirates-vs-colorado-rockies-baseball-178656/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -45,51 +25,6 @@
       {
         "nombre": "2504",
         "url": "https://sharkstreams.net/player.php?channel=2504",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-washington-nationals-vs-cincinnati-reds/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22375/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_reds-nationals-live-streaming-1277061660/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/cincinnati-reds-vs-washington-nationals-baseball-178662/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-14T17:00Z",
-    "hora_fin_utc": "2026-05-14T19:30:00Z",
-    "liga": "LaLiga",
-    "equipos": "Rayo Vallecano vs Valencia CF",
-    "logo": "img/es.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-rayo-vallecano/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_laliga_valencia-rayo-vallecano-live-streaming-1096325577/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/valencia-vs-rayo-vallecano-football-1391177/1",
         "calidad": "HD"
       }
     ]
@@ -200,43 +135,13 @@
     ]
   },
   {
-    "hora_utc": "2026-05-14T18:00:00Z",
+    "hora_utc": "2026-05-14T18:00Z",
     "hora_fin_utc": "2026-05-14T20:30:00Z",
     "liga": "LaLiga",
     "equipos": "Girona vs Real Sociedad",
     "logo": "img/es.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus4",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-girona-vs-real-sociedad/1",
@@ -290,46 +195,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-14T18:30:00Z",
-    "hora_fin_utc": "2026-05-14T21:00:00Z",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – WTA Semifinal #2",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-14T19:00:00Z",
-    "hora_fin_utc": "2026-05-14T21:30:00Z",
-    "liga": "League One",
-    "equipos": "Bolton Wanderers vs Bradford City",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-14T19:05Z",
     "hora_fin_utc": "2026-05-14T22:20:00Z",
     "liga": "MLB",
@@ -365,58 +230,13 @@
     ]
   },
   {
-    "hora_utc": "2026-05-14T19:30:00Z",
+    "hora_utc": "2026-05-14T19:30Z",
     "hora_fin_utc": "2026-05-14T22:00:00Z",
-    "liga": "LaLiga",
+    "liga": "Soccer",
     "equipos": "Real Madrid vs Real Oviedo",
-    "logo": "img/es.png",
+    "logo": "⚽",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "DSports",
-        "url": "https://tvtvhd.com/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "DSports | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=dsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN Deportes  | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Espn+",
-        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sky_sports_laliga",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/1",
@@ -425,11 +245,6 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/delta/live_laliga_real-madrid-real-oviedo-live-streaming-1096324578/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/real-madrid-vs-oviedo-football-1391176/1",
         "calidad": "HD"
       }
     ]
@@ -551,6 +366,11 @@
         "nombre": "Amazon Prime C",
         "url": "https://tvtvhd.com/canales.php?stream=amazon_prime1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Eventos",
+        "url": "https://futbollibrelibre.com/canales.php?stream=eventos6",
+        "calidad": "HD"
       }
     ]
   },
@@ -563,8 +383,8 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Amazon Prime C 2",
+        "url": "https://tvtvhd.com/canales.php?stream=amazon_prime2",
         "calidad": "HD"
       }
     ]
@@ -613,8 +433,38 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "Amazon Prime C",
+        "url": "https://tvtvhd.com/canales.php?stream=amazon_prime1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T23:00:00Z",
+    "hora_fin_utc": "2026-05-15T02:00:00Z",
+    "liga": "NHL",
+    "equipos": "Ducks vs. Golden Knights - Playoffs",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus2",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-14T23:00:00Z",
+    "hora_fin_utc": "2026-05-15T02:00:00Z",
+    "liga": "NHL",
+    "equipos": "Canadiens - Playoffs vs Sabres",
+    "logo": "img/nhl.png",
+    "sport": "nhl",
+    "canales": [
+      {
+        "nombre": "Espn+",
+        "url": "https://tvtvhd.com/canales.php?stream=espnplus1",
         "calidad": "HD"
       }
     ]
@@ -723,8 +573,18 @@
     "sport": "football",
     "canales": [
       {
-        "nombre": "Canal 1",
-        "url": "#",
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Premiere BR ",
+        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Sportv BR",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
         "calidad": "HD"
       }
     ]
