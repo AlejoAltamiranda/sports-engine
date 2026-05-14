@@ -1,55 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-14T01:40Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Athletics vs St. Louis Cardinals",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2509",
-        "url": "https://sharkstreams.net/player.php?channel=2509",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-st-louis-cardinals-vs-athletics/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22380/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-14T02:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Los Angeles Dodgers vs San Francisco Giants",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2513",
-        "url": "https://sharkstreams.net/player.php?channel=2513",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22384/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-05-14T11:00:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -260,6 +210,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-valencia-vs-rayo-vallecano/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/valencia-vs-rayo-vallecano-football-1391177/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -319,6 +274,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-girona-vs-real-sociedad/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/girona-vs-real-sociedad-football-1391174/1",
         "calidad": "HD"
       }
     ],
@@ -380,6 +340,21 @@
     "fuente": "pltvhd"
   },
   {
+    "hora_utc": "2026-05-14T19:05Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Athletics vs St. Louis Cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2509",
+        "url": "https://sharkstreams.net/player.php?channel=2509",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-14T19:30:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga",
@@ -419,6 +394,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-real-madrid-vs-real-oviedo/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/real-madrid-vs-oviedo-football-1391176/1",
         "calidad": "HD"
       }
     ],
@@ -819,6 +799,21 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22370/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T02:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Los Angeles Dodgers vs San Francisco Giants",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2513",
+        "url": "https://sharkstreams.net/player.php?channel=2513",
         "calidad": "HD"
       }
     ],
