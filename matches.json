@@ -221,11 +221,6 @@
         "nombre": "2513",
         "url": "https://sharkstreams.net/player.php?channel=2513",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22384/1",
-        "calidad": "HD"
       }
     ]
   },
@@ -329,7 +324,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ]
@@ -359,7 +354,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
         "calidad": "HD"
       }
     ]
@@ -372,6 +367,11 @@
     "logo": "img/fr.png",
     "sport": "football",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      },
       {
         "nombre": "BeIN Sports Ñ",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
@@ -395,6 +395,21 @@
     ]
   },
   {
+    "hora_utc": "2026-05-15T18:30Z",
+    "hora_fin_utc": "2026-05-15T21:00:00Z",
+    "liga": "Soccer",
+    "equipos": "Rodez AF vs St Etienne",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/saint-etienne-vs-rodez-football-1544972/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
     "hora_utc": "2026-05-15T19:00:00Z",
     "hora_fin_utc": "2026-05-15T21:30:00Z",
     "liga": "League Two",
@@ -404,7 +419,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
         "calidad": "HD"
       }
     ]
@@ -421,6 +436,11 @@
         "nombre": "LaLiga TV Hypermotion 2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
+        "calidad": "HD"
       }
     ]
   },
@@ -434,7 +454,22 @@
     "canales": [
       {
         "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN",
         "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
         "calidad": "HD"
       },
       {
@@ -609,7 +644,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ]
@@ -805,6 +840,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-dallas-renegades/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_ufl_dallas-renegades-orlando-storm-live-streaming-1277172549/1",
         "calidad": "HD"
       }
     ]
