@@ -115,46 +115,6 @@
         "nombre": "2510",
         "url": "https://sharkstreams.net/player.php?channel=2510",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-boston-red-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22381/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/boston-red-sox-vs-philadelphia-phillies-baseball-178664/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-14T23:00Z",
-    "logo": "img/nhl.png",
-    "liga": "NHL",
-    "equipos": "Buffalo Sabres vs Montreal Canadiens",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2517",
-        "url": "https://sharkstreams.net/player.php?channel=2517",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22371/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -169,21 +129,6 @@
       {
         "nombre": "2511",
         "url": "https://sharkstreams.net/player.php?channel=2511",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-cubs-vs-atlanta-braves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22382/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/atlanta-braves-vs-chicago-cubs-baseball-178665/1",
         "calidad": "HD"
       }
     ],
@@ -200,25 +145,20 @@
         "nombre": "2512",
         "url": "https://sharkstreams.net/player.php?channel=2512",
         "calidad": "HD"
-      },
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-15T00:00Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "Buffalo Sabres vs Montreal Canadiens",
+    "status": "pronto",
+    "canales": [
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-chicago-white-sox/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22383/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_white-sox-royals-live-streaming-1277069652/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/chicago-white-sox-vs-kansas-city-royals-baseball-178663/1",
+        "nombre": "2517",
+        "url": "https://sharkstreams.net/player.php?channel=2517",
         "calidad": "HD"
       }
     ],
@@ -235,27 +175,12 @@
         "nombre": "2519",
         "url": "https://sharkstreams.net/player.php?channel=2519",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-minnesota-lynx-vs-dallas-wings/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22369/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_wings-lynx-live-streaming-1210330458/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T01:30Z",
+    "hora_utc": "2026-05-15T02:00Z",
     "logo": "img/nhl.png",
     "liga": "NHL",
     "equipos": "Anaheim Ducks vs Vegas Golden Knights",
@@ -264,26 +189,6 @@
       {
         "nombre": "2518",
         "url": "https://sharkstreams.net/player.php?channel=2518",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-vegas-golden-knights-vs-anaheim-ducks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22372/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nhl-playoffs_ducks-golden-knights-live-streaming-1303922772/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/anaheim-ducks-vs-vegas-golden-knights-hockey-425187/1",
         "calidad": "HD"
       }
     ],
@@ -299,21 +204,6 @@
       {
         "nombre": "2520",
         "url": "https://sharkstreams.net/player.php?channel=2520",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-liberty-vs-portland-fire/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22370/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_fire-liberty-live-streaming-1210331457/1",
         "calidad": "HD"
       }
     ],
@@ -333,22 +223,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-los-angeles-dodgers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22384/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_mlb_dodgers-giants-live-streaming-1277070651/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/los-angeles-dodgers-vs-san-francisco-giants-baseball-178660/1",
         "calidad": "HD"
       }
     ],
@@ -648,6 +523,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-pittsburgh-pirates/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22391/1",
         "calidad": "HD"
       }
@@ -663,6 +543,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-washington-nationals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22393/1",
         "calidad": "HD"
       }
@@ -718,6 +603,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-tampa-bay-rays/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22395/1",
         "calidad": "HD"
       }
@@ -753,6 +643,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-detroit-pistons-vs-cleveland-cavaliers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22385/1",
         "calidad": "HD"
       }
@@ -768,6 +663,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-minnesota-twins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22397/1",
         "calidad": "HD"
       }
@@ -783,6 +683,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-new-york-mets/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22396/1",
         "calidad": "HD"
       }
@@ -798,6 +703,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-las-vegas-aces-vs-connecticut-sun/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22387/1",
         "calidad": "HD"
       }
@@ -813,6 +723,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-indiana-fever/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22388/1",
         "calidad": "HD"
       }
@@ -1018,6 +933,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22386/1",
         "calidad": "HD"
       }
@@ -1033,6 +953,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-phoenix-mercury/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22390/1",
         "calidad": "HD"
       }
@@ -1048,6 +973,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-toronto-tempo-vs-los-angeles-sparks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22389/1",
         "calidad": "HD"
       }
