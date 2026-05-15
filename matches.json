@@ -1,45 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-15T17:00:00Z",
-    "hora_fin_utc": "2026-05-15T19:30:00Z",
-    "liga": "Deportes",
-    "equipos": "Golf – PGA Championship – Segunda Vuelta",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T17:00:00Z",
-    "hora_fin_utc": "2026-05-15T19:30:00Z",
-    "liga": "Süper Lig",
-    "equipos": "Beşiktaş vs Çaykur Rizespor",
-    "logo": "img/tr.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-15T17:00Z",
     "hora_fin_utc": "2026-05-15T22:00:00Z",
     "liga": "Boxing",
@@ -50,21 +10,6 @@
       {
         "nombre": "2545",
         "url": "https://sharkstreams.net/player.php?channel=2545",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T18:00:00Z",
-    "hora_fin_utc": "2026-05-15T20:30:00Z",
-    "liga": "Liga 2",
-    "equipos": "Minas vs Sport Huancayo 2",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ]
@@ -209,7 +154,27 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_aston-villa-liverpool-live-streaming-1096550352/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/aston-villa-vs-liverpool-football-1379330/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-15T20:00:00Z",
+    "hora_fin_utc": "2026-05-15T22:30:00Z",
+    "liga": "Primera División de Paraguay",
+    "equipos": "Cerro Porteño vs Sportivo Trinidense",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "fanatiz 02",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz2",
         "calidad": "HD"
       }
     ]
@@ -230,6 +195,36 @@
       {
         "nombre": "Liga1Max | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-15T20:00:00Z",
+    "hora_fin_utc": "2026-05-15T22:30:00Z",
+    "liga": "Primera División de Paraguay",
+    "equipos": "Club Nacional (Asunción) vs Rubio Ñu",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "fanatiz 03",
+        "url": "https://tvtvhd.com/canales.php?stream=fanatiz3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-15T20:00:00Z",
+    "hora_fin_utc": "2026-05-15T22:30:00Z",
+    "liga": "Liga de Naciones Femenina de CONMEBOL",
+    "equipos": "Melgar vs Universidad Nacional de San Agustín",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ]
@@ -845,6 +840,26 @@
       {
         "nombre": "2544",
         "url": "https://sharkstreams.net/player.php?channel=2544",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-16T01:00Z",
+    "hora_fin_utc": "2026-05-16T04:00:00Z",
+    "liga": "WWE",
+    "equipos": "SmackDown #1395",
+    "logo": "img/wwe.png",
+    "sport": "wwe",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1",
         "calidad": "HD"
       }
     ]
