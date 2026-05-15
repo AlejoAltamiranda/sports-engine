@@ -225,46 +225,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T12:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Premier Padel Buenos Aires – Cuartos de final",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-15T13:30:00Z",
     "logo": "img/default.png",
     "liga": "Deportes",
@@ -510,6 +470,31 @@
     "fuente": "pltvhd"
   },
   {
+    "hora_utc": "2026-05-15T20:30:00Z",
+    "logo": "img/default.png",
+    "liga": "Deportes",
+    "equipos": "Premier Padel Buenos Aires – Cuartos de final",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "ESPN 3",
+        "url": "https://tvtvhd.com/canales.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 3 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
     "hora_utc": "2026-05-15T21:30:00Z",
     "logo": "img/ec.png",
     "liga": "Liga Pro",
@@ -558,12 +543,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-philadelphia-phillies-vs-pittsburgh-pirates/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22391/1",
+        "url": "https://embedsports.top/embed/golf/22417/1",
         "calidad": "HD"
       }
     ],
@@ -578,12 +558,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-baltimore-orioles-vs-washington-nationals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22393/1",
+        "url": "https://embedsports.top/embed/golf/22416/1",
         "calidad": "HD"
       }
     ],
@@ -638,12 +613,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-miami-marlins-vs-tampa-bay-rays/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22395/1",
+        "url": "https://embedsports.top/embed/golf/22418/1",
         "calidad": "HD"
       }
     ],
@@ -698,12 +668,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22397/1",
+        "url": "https://embedsports.top/embed/golf/22421/1",
         "calidad": "HD"
       }
     ],
@@ -718,12 +683,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-new-york-yankees-vs-new-york-mets/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22396/1",
+        "url": "https://embedsports.top/embed/golf/22424/1",
         "calidad": "HD"
       }
     ],
