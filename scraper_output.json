@@ -15,54 +15,19 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T18:15:00Z",
+    "hora_utc": "2026-05-15T18:00Z",
     "logo": "img/default.png",
-    "liga": "League Two",
-    "equipos": "Grimsby Town vs Salford City",
+    "liga": "Soccer",
+    "equipos": "Al Riyadh vs Al-Taawoun",
     "status": "pronto",
     "canales": [
       {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-taawoun-al-riyadh-live-streaming-1096334568/1",
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-15T18:30:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
-    "equipos": "Rodez vs Saint-Étienne",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "BeIN Sports Ñ",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-15T18:30:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga SmartBank",
-    "equipos": "CD Castellon vs Cádiz",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-15T18:30Z",
@@ -80,67 +45,12 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T19:00:00Z",
-    "logo": "img/default.png",
-    "liga": "League Two",
-    "equipos": "Chesterfield vs Notts County",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-15T19:00:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Albacete vs Córdoba",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion 2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-15T19:00:00Z",
+    "hora_utc": "2026-05-15T19:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Aston Villa vs Liverpool",
     "status": "pronto",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-liverpool/1",
@@ -162,7 +72,7 @@
         "calidad": "HD"
       }
     ],
-    "fuente": "pltvhd"
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-15T20:00:00Z",
@@ -469,6 +379,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22385/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/1",
         "calidad": "HD"
       }
     ],
