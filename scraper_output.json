@@ -1,310 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Bayer Leverkusen vs Hamburger SV",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-bayer-leverkusen-vs-hamburg-sv/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_leverkusen-hsv-live-streaming-1096423479/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/bayer-leverkusen-vs-hamburger-sv-football-1388605/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "Bayern München vs FC Köln",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-bayern-munich-vs-fc-cologne/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_bayern-koln-live-streaming-1096426476/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/bayern-munchen-vs-1-fc-koln-football-1388606/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "Borussia Mönchengladbach vs TSG Hoffenheim",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/echo/borussia-monchengladbach-vs-1899-hoffenheim-football-1388607/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Eintracht Frankfurt vs VfB Stuttgart",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-vf-b-stuttgart/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_frankfurt-stuttgart-live-streaming-1096425477/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/eintracht-frankfurt-vs-vfb-stuttgart-football-1388608/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "RB Leipzig vs SC Freiburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-rb-leipzig/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_freiburg-leipzig-live-streaming-1096428474/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/sc-freiburg-vs-rb-leipzig-football-1388609/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/default.png",
-    "liga": "Soccer",
-    "equipos": "FC Heidenheim vs Mainz 05",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-heidenheim-1846-vs-mainz/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_heidenheim-mainz-05-live-streaming-1096421481/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/1-fc-heidenheim-vs-fsv-mainz-05-football-1388610/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "FC St. Pauli vs VfL Wolfsburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-st-pauli-vs-vf-l-wolfsburg/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_st-pauli-wolfsburg-live-streaming-1096427475/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/fc-st-pauli-vs-vfl-wolfsburg-football-1388611/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "FC Augsburg vs Union Berlin",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-fc-augsburg/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_union-berlin-augsburg-live-streaming-1096422480/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/union-berlin-vs-fc-augsburg-football-1388612/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Borussia Dortmund vs Werder Bremen",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-borussia-dortmund/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_bundesliga_bremen-dortmund-live-streaming-1096429473/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/werder-bremen-vs-borussia-dortmund-football-1388613/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T14:00:00Z",
-    "logo": "img/en.png",
-    "liga": "Premier League",
-    "equipos": "Chelsea vs Manchester City",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN AR┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-city/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22457/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_fa-cup_chelsea-man-city-live-streaming-1314529155/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/chelsea-vs-manchester-city-football-1542889/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T14:15:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Ceuta vs Málaga",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion ",
-        "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T14:15:00Z",
-    "logo": "img/es.png",
-    "liga": "LaLiga SmartBank",
-    "equipos": "Cultural Leonesa vs Eibar",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion 2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney12",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-16T14:30Z",
     "logo": "img/pt.png",
     "liga": "Primeira Liga",
@@ -318,61 +13,6 @@
       }
     ],
     "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T15:00:00Z",
-    "logo": "img/uy.png",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Boston River vs CA Cerro",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney13",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T15:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Segunda División",
-    "equipos": "Paysandu vs River Plate",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T15:00:00Z",
-    "logo": "img/default.png",
-    "liga": "Deportes",
-    "equipos": "Tenis – WTA Internazionali BNL d’Italia – Final",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 4",
-        "url": "https://tvtvhd.com/canales.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 4 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn4",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
   },
   {
     "hora_utc": "2026-05-16T16:00Z",
@@ -399,6 +39,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-dc-defenders-vs-louisville-kings/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_ufl_louisville-kings-dc-defenders-live-streaming-1277303418/1",
         "calidad": "HD"
       }
     ],
@@ -565,6 +210,51 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-16T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "CD Tondela vs FC Arouca",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/arouca-vs-tondela-football-1396534/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "Estrela da Amadora vs SC Braga",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/sc-braga-vs-estrela-football-1396535/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T17:00Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "Casa Pia AC vs Rio Ave FC",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/casa-pia-vs-rio-ave-football-1396536/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-16T17:10Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -675,6 +365,11 @@
         "nombre": "Fox Soccer Plus C.",
         "url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/al-ahli-jeddah-vs-al-kholood-football-1436204/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -739,6 +434,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22453/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/ppv-event-04-allen-v-hrgovic-ppv-004/1",
         "calidad": "HD"
       }
     ],
@@ -919,6 +619,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22445/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T19:30Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "Gil Vicente vs Sporting CP",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/sporting-cp-vs-gil-vicente-football-1396542/1",
         "calidad": "HD"
       }
     ],
@@ -1494,6 +1209,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-charlotte-fc-vs-toronto-fc/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/charlotte-vs-toronto-fc-football-1490298/1",
         "calidad": "HD"
       }
     ],
@@ -2254,21 +1974,6 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-lorient-vs-le-havre-ac/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-17T19:00Z",
-    "logo": "img/fr.png",
-    "liga": "Ligue 1",
-    "equipos": "Olympique Lyonnais vs RC Lens",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-lyon-vs-lens/1",
         "calidad": "HD"
       }
     ],
