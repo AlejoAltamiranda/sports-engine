@@ -636,6 +636,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-rb-leipzig/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/delta/live_bundesliga_freiburg-leipzig-live-streaming-1096428474/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -724,6 +729,11 @@
       },
       {
         "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22457/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
         "url": "https://embedsports.top/embed/echo/chelsea-vs-manchester-city-football-1542889/1",
         "calidad": "HD"
       }
@@ -875,6 +885,11 @@
       {
         "nombre": "Fox Soccer Plus C.",
         "url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/al-hilal-saudi-fc-vs-neom-football-1436205/1",
         "calidad": "HD"
       }
     ]
@@ -1157,6 +1172,66 @@
   {
     "hora_utc": "2026-05-16T19:00:00Z",
     "hora_fin_utc": "2026-05-16T21:30:00Z",
+    "liga": "LaLiga",
+    "equipos": "Atlético de Madrid vs Barcelona SC",
+    "logo": "img/es.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney19",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5",
+        "url": "https://tvtvhd.com/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN 5 | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN Deportes  | OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-16T19:00:00Z",
+    "hora_fin_utc": "2026-05-16T21:30:00Z",
+    "liga": "Segunda División",
+    "equipos": "Deportivo Colonia vs Plaza Colonia",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney20",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-16T19:00:00Z",
+    "hora_fin_utc": "2026-05-16T21:30:00Z",
     "liga": "Liga Pro",
     "equipos": "Independiente del Valle vs Macará",
     "logo": "img/ec.png",
@@ -1220,6 +1295,21 @@
       {
         "nombre": "ESPN 3 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-16T20:00:00Z",
+    "hora_fin_utc": "2026-05-16T22:30:00Z",
+    "liga": "Liga 2",
+    "equipos": "Binacional vs Comerciantes",
+    "logo": "⚽",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ]
@@ -2106,6 +2196,11 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-real-madrid/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22466/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -2300,6 +2395,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-barcelona-vs-real-betis/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22467/1",
         "calidad": "HD"
       }
     ]
