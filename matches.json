@@ -15,191 +15,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-15T18:00Z",
-    "hora_fin_utc": "2026-05-15T20:30:00Z",
-    "liga": "Soccer",
-    "equipos": "Al Riyadh vs Al-Taawoun",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/delta/live_saudi-pro-league_al-taawoun-al-riyadh-live-streaming-1096334568/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T18:30Z",
-    "hora_fin_utc": "2026-05-15T21:00:00Z",
-    "liga": "Soccer",
-    "equipos": "Rodez AF vs St Etienne",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/saint-etienne-vs-rodez-football-1544972/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T19:00Z",
-    "hora_fin_utc": "2026-05-15T21:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Aston Villa vs Liverpool",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-aston-villa-vs-liverpool/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22368/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_premier-league_aston-villa-liverpool-live-streaming-1096550352/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/aston-villa-vs-liverpool-football-1379330/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T20:00:00Z",
-    "hora_fin_utc": "2026-05-15T22:30:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Cerro Porteño vs Sportivo Trinidense",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "fanatiz 02",
-        "url": "https://tvtvhd.com/canales.php?stream=fanatiz2",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T20:00:00Z",
-    "hora_fin_utc": "2026-05-15T22:30:00Z",
-    "liga": "Liga1",
-    "equipos": "FC Cajamarca vs Sporting Cristal",
-    "logo": "img/pe.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Liga1MAX",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Liga1Max | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=liga1max",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T20:00:00Z",
-    "hora_fin_utc": "2026-05-15T22:30:00Z",
-    "liga": "Primera División de Paraguay",
-    "equipos": "Club Nacional (Asunción) vs Rubio Ñu",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "fanatiz 03",
-        "url": "https://tvtvhd.com/canales.php?stream=fanatiz3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T20:00:00Z",
-    "hora_fin_utc": "2026-05-15T22:30:00Z",
-    "liga": "Liga de Naciones Femenina de CONMEBOL",
-    "equipos": "Melgar vs Universidad Nacional de San Agustín",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Deportes TV. C",
-        "url": "https://tvtvhd.com/canales.php?stream=goltv",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T20:30:00Z",
-    "hora_fin_utc": "2026-05-15T23:00:00Z",
-    "liga": "Deportes",
-    "equipos": "Premier Padel Buenos Aires – Cuartos de final",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T21:30:00Z",
-    "hora_fin_utc": "2026-05-16T00:00:00Z",
-    "liga": "Liga Pro",
-    "equipos": "LDU Quito vs Técnico Universitario",
-    "logo": "img/ec.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "ECDF LigaPro",
-        "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T21:45:00Z",
-    "hora_fin_utc": "2026-05-16T00:15:00Z",
-    "liga": "Liga Nacional",
-    "equipos": "Olancho vs Policía Nacional",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "FOX Deportes",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "FOX Deportes | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=foxdeportes",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-15T22:30Z",
     "hora_fin_utc": "2026-05-16T01:00:00Z",
     "liga": "MMA",
@@ -275,76 +90,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-15T23:00:00Z",
-    "hora_fin_utc": "2026-05-16T01:30:00Z",
-    "liga": "Copa Colombia",
-    "equipos": "Millonarios vs Patriotas Boyacá",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T23:00:00Z",
-    "hora_fin_utc": "2026-05-16T02:15:00Z",
-    "liga": "MLB",
-    "equipos": "Miami Marlins vs Tampa Bay Rays",
-    "logo": "img/mlb.png",
-    "sport": "mlb",
-    "canales": [
-      {
-        "nombre": "ESPN 5",
-        "url": "https://tvtvhd.com/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 5 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "2532",
-        "url": "https://sharkstreams.net/player.php?channel=2532",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22418/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-15T23:00:00Z",
-    "hora_fin_utc": "2026-05-16T01:30:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Montevideo City Torque vs Nacional",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-15T23:00Z",
     "hora_fin_utc": "2026-05-16T02:15:00Z",
     "liga": "NBA",
@@ -369,7 +114,32 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_nba_cavaliers-pistons-live-streaming-1306878813/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-15T23:10Z",
+    "hora_fin_utc": "2026-05-16T02:25:00Z",
+    "liga": "MLB",
+    "equipos": "Miami Marlins vs Tampa Bay Rays",
+    "logo": "img/mlb.png",
+    "sport": "mlb",
+    "canales": [
+      {
+        "nombre": "2532",
+        "url": "https://sharkstreams.net/player.php?channel=2532",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22418/1",
         "calidad": "HD"
       }
     ]
@@ -527,6 +297,21 @@
   {
     "hora_utc": "2026-05-16T00:00:00Z",
     "hora_fin_utc": "2026-05-16T02:30:00Z",
+    "liga": "Liga de Primera",
+    "equipos": "La Serena vs Palestino",
+    "logo": "img/cl.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "MAX",
+        "url": "https://Tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvYnRyY2h2anQxdi9vdXQvdjEvMGE1ZmJjYzNmYzEyNGNmOWI5OTYyMDEwODdhNThiMmYvY2VuYy5tcGQ=&k=NTkzM2JkNjA1ZWI3YTFlNWI4NDAzZWIzNzRkNmQ2MGI6OGViMTNjMjg3ZjcxZTk0ZDQwZjYwNGNkMTJlMzVkN2I=",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-16T00:00:00Z",
+    "hora_fin_utc": "2026-05-16T02:30:00Z",
     "liga": "Primera División",
     "equipos": "Aurora vs Real Tomayapo",
     "logo": "img/bo.png",
@@ -535,21 +320,6 @@
       {
         "nombre": "Futbol Canal",
         "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-16T00:00:00Z",
-    "hora_fin_utc": "2026-05-16T02:30:00Z",
-    "liga": "Liga de Primera",
-    "equipos": "La Serena vs Palestino",
-    "logo": "img/cl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
         "calidad": "HD"
       }
     ]
