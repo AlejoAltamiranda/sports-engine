@@ -73,7 +73,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22416/1",
+        "url": "https://embedsports.top/embed/golf/22435/1",
         "calidad": "HD"
       }
     ],
@@ -108,7 +108,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22418/1",
+        "url": "https://embedsports.top/embed/golf/22434/1",
         "calidad": "HD"
       }
     ],
@@ -233,6 +233,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-minnesota-twins/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22421/1",
         "calidad": "HD"
       }
@@ -253,6 +258,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-st-louis-cardinals/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22414/1",
         "calidad": "HD"
       }
@@ -290,26 +300,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-16T01:00Z",
-    "logo": "img/wwe.png",
-    "liga": "WWE",
-    "equipos": "SmackDown #1395",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-wwe-friday-night-smackdown/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-05-16T01:30Z",
     "logo": "img/nba.png",
     "liga": "NBA",
@@ -319,11 +309,6 @@
       {
         "nombre": "2516",
         "url": "https://sharkstreams.net/player.php?channel=2516",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22386/1",
         "calidad": "HD"
       }
     ],
@@ -340,11 +325,6 @@
         "nombre": "2540",
         "url": "https://sharkstreams.net/player.php?channel=2540",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22426/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -360,11 +340,6 @@
         "nombre": "2541",
         "url": "https://sharkstreams.net/player.php?channel=2541",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22427/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -379,11 +354,6 @@
       {
         "nombre": "2542",
         "url": "https://sharkstreams.net/player.php?channel=2542",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22425/1",
         "calidad": "HD"
       }
     ],
@@ -403,12 +373,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-toronto-tempo-vs-los-angeles-sparks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22389/1",
+        "url": "https://embedsports.top/embed/golf/22433/1",
         "calidad": "HD"
       }
     ],
@@ -424,21 +389,6 @@
       {
         "nombre": "2526",
         "url": "https://sharkstreams.net/player.php?channel=2526",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-sky-vs-phoenix-mercury/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22390/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_mercury-chicago-live-streaming-1210348440/1",
         "calidad": "HD"
       }
     ],
@@ -1538,6 +1488,11 @@
       },
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-buffalo-sabres-vs-montreal-canadiens/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22412/1",
         "calidad": "HD"
       }
@@ -1598,6 +1553,21 @@
       }
     ],
     "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-17T01:00Z",
+    "logo": "img/ufc.png",
+    "liga": "UFC",
+    "equipos": "Costa vs UFC Fight Night 276 Allen",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22451/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-17T01:05:00Z",
@@ -2244,6 +2214,36 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-inter-miami-cf-vs-portland-timbers/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-17T22:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Indiana Fever vs Seattle Storm",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22431/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-17T23:00Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Chicago Sky vs Minnesota Lynx",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22432/1",
         "calidad": "HD"
       }
     ],
