@@ -30,7 +30,7 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-15T22:40Z",
+    "hora_utc": "2026-05-15T22:45Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
     "equipos": "Philadelphia Phillies vs Pittsburgh Pirates",
@@ -39,11 +39,6 @@
       {
         "nombre": "2528",
         "url": "https://sharkstreams.net/player.php?channel=2528",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22417/1",
         "calidad": "HD"
       }
     ],
@@ -59,11 +54,6 @@
       {
         "nombre": "2529",
         "url": "https://sharkstreams.net/player.php?channel=2529",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22413/1",
         "calidad": "HD"
       }
     ],
@@ -100,26 +90,6 @@
         "nombre": "2515",
         "url": "https://sharkstreams.net/player.php?channel=2515",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-detroit-pistons-vs-cleveland-cavaliers/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22385/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_nba_cavaliers-pistons-live-streaming-1306878813/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/cleveland-cavaliers-vs-detroit-pistons-basketball-499422/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -155,31 +125,6 @@
         "nombre": "2531",
         "url": "https://sharkstreams.net/player.php?channel=2531",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22419/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-15T23:10Z",
-    "logo": "img/mlb.png",
-    "liga": "MLB",
-    "equipos": "Milwaukee Brewers vs Minnesota Twins",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "2537",
-        "url": "https://sharkstreams.net/player.php?channel=2537",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22421/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -194,11 +139,6 @@
       {
         "nombre": "2533",
         "url": "https://sharkstreams.net/player.php?channel=2533",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22424/1",
         "calidad": "HD"
       }
     ],
@@ -215,11 +155,6 @@
         "nombre": "2534",
         "url": "https://sharkstreams.net/player.php?channel=2534",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22423/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -234,21 +169,6 @@
       {
         "nombre": "2525",
         "url": "https://sharkstreams.net/player.php?channel=2525",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-las-vegas-aces-vs-connecticut-sun/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22387/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_connecticut-las-vegas-live-streaming-1210345443/1",
         "calidad": "HD"
       }
     ],
@@ -265,21 +185,6 @@
         "nombre": "2524",
         "url": "https://sharkstreams.net/player.php?channel=2524",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-indiana-fever/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22388/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_wnba_fever-mystics-live-streaming-1210346442/1",
-        "calidad": "HD"
       }
     ],
     "fuente": "github"
@@ -294,31 +199,6 @@
       {
         "nombre": "2535",
         "url": "https://sharkstreams.net/player.php?channel=2535",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22420/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T00:00Z",
-    "logo": "img/nfl.png",
-    "liga": "NFL",
-    "equipos": "Dallas Renegades vs Orlando Storm",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-orlando-storm-vs-dallas-renegades/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_ufl_dallas-renegades-orlando-storm-live-streaming-1277172549/1",
         "calidad": "HD"
       }
     ],
@@ -335,10 +215,25 @@
         "nombre": "2536",
         "url": "https://sharkstreams.net/player.php?channel=2536",
         "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-16T00:10Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Milwaukee Brewers vs Minnesota Twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "2537",
+        "url": "https://sharkstreams.net/player.php?channel=2537",
+        "calidad": "HD"
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22422/1",
+        "url": "https://embedsports.top/embed/golf/22421/1",
         "calidad": "HD"
       }
     ],
@@ -374,11 +269,6 @@
       {
         "nombre": "2539",
         "url": "https://sharkstreams.net/player.php?channel=2539",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/golf/22415/1",
         "calidad": "HD"
       }
     ],
@@ -433,17 +323,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-antonio-spurs-vs-minnesota-timberwolves/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22386/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/minnesota-timberwolves-vs-san-antonio-spurs-basketball-499361/1",
         "calidad": "HD"
       }
     ],
@@ -554,6 +434,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22390/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_wnba_mercury-chicago-live-streaming-1210348440/1",
         "calidad": "HD"
       }
     ],
