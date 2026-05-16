@@ -233,12 +233,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-milwaukee-brewers-vs-minnesota-twins/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22421/1",
+        "url": "https://embedsports.top/embed/golf/22442/1",
         "calidad": "HD"
       }
     ],
@@ -258,12 +253,7 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-kansas-city-royals-vs-st-louis-cardinals/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22414/1",
+        "url": "https://embedsports.top/embed/golf/22444/1",
         "calidad": "HD"
       }
     ],
@@ -396,6 +386,21 @@
   },
   {
     "hora_utc": "2026-05-16T12:00:00Z",
+    "logo": "img/en.png",
+    "liga": "Premier League",
+    "equipos": "Manchester City vs West Ham United",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T12:00:00Z",
     "logo": "img/es.png",
     "liga": "LaLiga SmartBank",
     "equipos": "Mirandés vs Real Sociedad II",
@@ -404,6 +409,11 @@
       {
         "nombre": "LaLiga TV Hypermotion ",
         "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
         "calidad": "HD"
       }
     ],
@@ -435,20 +445,35 @@
     "fuente": "pltvhd"
   },
   {
-    "hora_utc": "2026-05-16T13:30:00Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Eintracht Frankfurt vs VfB Stuttgart",
+    "hora_utc": "2026-05-16T13:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "Cerrito vs Uruguay Montevideo",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:00:00Z",
+    "logo": "img/it.png",
+    "liga": "Serie A",
+    "equipos": "AS Roma vs Genoa",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "DSports +",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       },
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-vf-b-stuttgart/1",
+        "nombre": "DSports + I OP2",
+        "url": "https://tvtvhd.com/canales.php?stream=dsportsplus",
         "calidad": "HD"
       }
     ],
@@ -463,7 +488,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       },
       {
@@ -478,12 +503,67 @@
     "hora_utc": "2026-05-16T13:30:00Z",
     "logo": "img/de.png",
     "liga": "Bundesliga",
+    "equipos": "Eintracht Frankfurt vs VfB Stuttgart",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-eintracht-frankfurt-vs-vf-b-stuttgart/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "FC Augsburg vs Union Berlin",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney10",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-fc-augsburg/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Bayern München vs Köln",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney6",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
     "equipos": "1. FC Heidenheim vs Mainz 05",
     "status": "pronto",
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney11",
         "calidad": "HD"
       }
     ],
@@ -512,43 +592,13 @@
         "calidad": "HD"
       },
       {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-borussia-dortmund/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30:00Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Bayern München vs Köln",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Sportv BR",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30:00Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "Borussia Mönchengladbach vs TSG Hoffenheim",
-    "status": "pronto",
-    "canales": [
-      {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney7",
         "calidad": "HD"
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/1",
+        "url": "https://embedsports.top/embed/admin/ppv-werder-bremen-vs-borussia-dortmund/1",
         "calidad": "HD"
       }
     ],
@@ -563,12 +613,52 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney3",
         "calidad": "HD"
       },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-st-pauli-vs-vf-l-wolfsburg/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "RB Leipzig vs SC Freiburg",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney8",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-rb-leipzig/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T13:30:00Z",
+    "logo": "img/de.png",
+    "liga": "Bundesliga",
+    "equipos": "Borussia Mönchengladbach vs TSG Hoffenheim",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney9",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/1",
         "calidad": "HD"
       }
     ],
@@ -591,21 +681,6 @@
   },
   {
     "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "RB Leipzig vs SC Freiburg",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-sc-freiburg-vs-rb-leipzig/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
-    "hora_utc": "2026-05-16T13:30Z",
     "logo": "img/default.png",
     "liga": "Soccer",
     "equipos": "FC Heidenheim vs Mainz 05",
@@ -620,27 +695,17 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-16T13:30Z",
-    "logo": "img/de.png",
-    "liga": "Bundesliga",
-    "equipos": "FC Augsburg vs Union Berlin",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-1-fc-union-berlin-vs-fc-augsburg/1",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "github"
-  },
-  {
     "hora_utc": "2026-05-16T14:00:00Z",
     "logo": "img/en.png",
     "liga": "Premier League",
     "equipos": "Chelsea vs Manchester City",
     "status": "pronto",
     "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
+        "calidad": "HD"
+      },
       {
         "nombre": "ESPN",
         "url": "https://tvtvhd.com/canales.php?stream=espn",
@@ -659,6 +724,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-manchester-city/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/chelsea-vs-manchester-city-football-1542889/1",
         "calidad": "HD"
       }
     ],
@@ -690,9 +760,29 @@
         "nombre": "LaLiga TV Hypermotion 2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney12",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T14:30Z",
+    "logo": "img/pt.png",
+    "liga": "Primeira Liga",
+    "equipos": "FC Porto vs Santa Clara",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/echo/fc-porto-vs-santa-clara-football-1396539/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-16T15:00:00Z",
@@ -703,7 +793,22 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney13",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T15:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Segunda División",
+    "equipos": "Paysandu vs River Plate",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney4",
         "calidad": "HD"
       }
     ],
@@ -795,6 +900,11 @@
         "nombre": "LaLiga TV Hypermotion ",
         "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney15",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -824,6 +934,11 @@
       {
         "nombre": "LaLiga TV Hypermotion 2",
         "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney16",
         "calidad": "HD"
       }
     ],
@@ -895,6 +1010,11 @@
         "nombre": "ESPN 2 NL",
         "url": "https://tvtvhd.com/canales.php?stream=espn2_nl",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney17",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -933,7 +1053,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney18",
         "calidad": "HD"
       }
     ],
@@ -964,6 +1084,21 @@
       {
         "nombre": "Fox Soccer Plus C.",
         "url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-16T18:00:00Z",
+    "logo": "img/default.png",
+    "liga": "Liga 2",
+    "equipos": "Alianza Universidad vs Estudiantil CNI",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Deportes TV. C",
+        "url": "https://tvtvhd.com/canales.php?stream=goltv",
         "calidad": "HD"
       }
     ],
@@ -1004,6 +1139,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-allen-vs-hrgovic/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22453/1",
         "calidad": "HD"
       }
     ],
@@ -1563,6 +1703,11 @@
     "canales": [
       {
         "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-ufc-fight-night-allen-vs-costa/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22451/1",
         "calidad": "HD"
       }
@@ -2019,6 +2164,21 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-sevilla-vs-real-madrid/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-17T17:30Z",
+    "logo": "img/nba.png",
+    "liga": "WNBA",
+    "equipos": "Atlanta Dream vs Las Vegas Aces",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22430/1",
         "calidad": "HD"
       }
     ],
