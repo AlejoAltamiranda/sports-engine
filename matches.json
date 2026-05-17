@@ -244,7 +244,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Hannover 96 vs Nürnberg",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -264,7 +264,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Dynamo Dresden vs Holstein Kiel",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -279,7 +279,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Darmstadt 98 vs Paderborn",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -299,7 +299,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Eintracht Braunschweig vs Schalke 04",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -314,7 +314,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Kaiserslautern vs Magdeburg",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -329,7 +329,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Bochum vs Karlsruher",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -344,7 +344,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Fortuna Düsseldorf vs Greuther Fürth",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -359,7 +359,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Elversberg vs Preußen Münster",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -379,7 +379,7 @@
     "hora_fin_utc": "2026-05-17T16:00:00Z",
     "liga": "2. Bundesliga",
     "equipos": "Arminia Bielefeld vs Hertha BSC",
-    "logo": "⚽",
+    "logo": "img/de.png",
     "sport": "football",
     "canales": [
       {
@@ -1288,7 +1288,7 @@
     "hora_utc": "2026-05-17T18:00:00Z",
     "hora_fin_utc": "2026-05-17T20:30:00Z",
     "liga": "Liga MX Femenil",
-    "equipos": "América de Cali vs Monterrey",
+    "equipos": "América vs Monterrey",
     "logo": "img/mx.png",
     "sport": "football",
     "canales": [
@@ -2019,7 +2019,7 @@
     "hora_fin_utc": "2026-05-18T00:00:00Z",
     "liga": "Brasileirão",
     "equipos": "Chapecoense vs Remo",
-    "logo": "⚽",
+    "logo": "img/br.png",
     "sport": "football",
     "canales": [
       {
