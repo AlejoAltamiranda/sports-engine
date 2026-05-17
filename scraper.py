@@ -537,7 +537,7 @@ def decodificar_url_embed(embed_iframe):
 TOURNAMENT_TO_COUNTRY = {
     'LaLiga': 'spain', 'LaLiga 2:': 'spain', 'LaLiga SmartBank': 'spain',
     'Bundesliga': 'germany', 'Bundesliga 2': 'germany', 'DFB Pokal': 'germany',
-    'Premier League': 'england',
+    'Premier League': 'england', 'Championship': 'england',
     'Eredivisie': 'netherlands',
     'Serie A': 'italy', 'Serie A:': 'italy',
     'Ligue 1': 'france', 'Ligue 2': 'france',
@@ -545,8 +545,9 @@ TOURNAMENT_TO_COUNTRY = {
     'Liga1': 'peru', 'Primera Division': 'peru',
     'Liga MX': 'mexico', 'Liga de Expansión MX': 'mexico', 'Liga MX Femenil': 'mexico',
     'Copa do Brasil': 'brazil', 'Brasilerao': 'brazil', 'Brasileirao Serie B' : 'brazil',
+    'Brasileirão': 'brazil', '2. Bundesliga': 'germany',
     'Liga Profesional': 'argentina', 'Primera División': 'argentina', 'Futbol Argentino': 'argentina',
-    'Liga BetPlay': 'colombia', 'Liga Betplay': 'colombia', 'Primera A': 'colombia',
+    'Liga BetPlay': 'colombia', 'Copa colombia': 'colombia', 'Primera A': 'colombia',
     'Liga de Primera': 'chile', 'Futbol Chileno': 'chile',
     'Liga Pro': 'ecuador',
     'Turkish Cup': 'turkey', 'Süper Lig': 'turkey',
@@ -829,8 +830,12 @@ def process_pltvhd_source(data):
         liga = limpiar_saltos_linea(liga)
         equipos = limpiar_saltos_linea(equipos)
         
-        # 🔥 NORMALIZAR NOMBRES DE EQUIPOS
-        equipos = normalizar_equipos_en_texto(equipos)
+        # 🔥 EXCEPCIÓN: Liga MX Femenil - NO normalizar nombres de equipos
+        if liga == 'Liga MX Femenil':
+            # Mantener equipos como están, sin normalizar
+            pass
+        else:
+            equipos = normalizar_equipos_en_texto(equipos)
         
         # 🔥 DETECTAR Y NORMALIZAR F1 (PRIORIDAD MÁXIMA)
         liga_nueva, sport, nombre_normalizado = detectar_evento_motor(equipos, liga)
@@ -910,7 +915,6 @@ def process_pltvhd_source(data):
         print(f"  🏉 TOTAL: {eventos_filtrados} eventos de Rugby filtrados y descartados")
     
     return matches
-
 
 def process_github_source(data):
     matches = []
@@ -1027,7 +1031,6 @@ def unificar_por_equipos(all_matches):
     """
     unificados = {}
     
-    # Ordenar para que las ligas específicas tengan prioridad
     def prioridad(liga):
         if liga in ['Soccer', 'Deportes', 'Evento Deportivo', 'Fútbol']:
             return 1
@@ -1039,8 +1042,10 @@ def unificar_por_equipos(all_matches):
         liga = m.get('liga', '')
         logo = m.get('logo', '')
         
-        # Normalizar equipos con alias de teams.json
-        if ' vs ' in equipos:
+        # 🔥 Normalizar equipos con alias de teams.json (EXCEPTO Liga MX Femenil)
+        if liga == 'Liga MX Femenil':
+            equipos_norm = equipos  # Mantener como está
+        elif ' vs ' in equipos:
             partes = equipos.split(' vs ')
             if len(partes) == 2:
                 eq1 = normalizar_nombre_equipo_con_alias(partes[0].strip())
@@ -1063,27 +1068,22 @@ def unificar_por_equipos(all_matches):
         else:
             existing = unificados[key]
             
-            # Priorizar la liga más específica
             ligas_genericas = ['Soccer', 'Deportes', 'Evento Deportivo', 'Fútbol']
             if existing['liga'] in ligas_genericas and liga not in ligas_genericas:
                 existing['liga'] = liga
                 existing['logo'] = logo
             elif liga not in ligas_genericas and existing['liga'] not in ligas_genericas:
-                # Ambas específicas, mantener la primera (ya está)
                 pass
             
-            # Unificar canales
             for canal in m.get('canales', []):
                 url = canal.get('url', '')
                 if url and not any(c.get('url') == url for c in existing['canales']):
                     existing['canales'].append(canal)
             
-            # Usar la hora más temprana
             if hora and (not existing.get('hora_utc') or hora < existing['hora_utc']):
                 existing['hora_utc'] = hora
     
     return list(unificados.values())
-
     
 
 # ============================================
