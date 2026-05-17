@@ -1,110 +1,5 @@
 [
   {
-    "hora_utc": "2026-05-17T11:30Z",
-    "hora_fin_utc": "2026-05-17T14:00:00Z",
-    "liga": "Premier League",
-    "equipos": "Manchester United vs Nottingham Forest",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-manchester-united-vs-nottingham-forest/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "AZ Alkmaar vs NAC Breda",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/az-alkmaar-vs-nac-breda-football-1381164/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Ajax vs SC Heerenveen",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/heerenveen-vs-ajax-football-1381166/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Go Ahead Eagles vs NEC Nijmegen",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/nec-nijmegen-vs-go-ahead-eagles-football-1381168/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "FC Twente vs PSV Eindhoven",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/psv-eindhoven-vs-twente-football-1381169/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Excelsior vs Sparta Rotterdam",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/sparta-rotterdam-vs-excelsior-football-1381170/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T12:30Z",
-    "hora_fin_utc": "2026-05-17T15:00:00Z",
-    "liga": "Eredivisie",
-    "equipos": "Feyenoord vs PEC Zwolle",
-    "logo": "img/nl.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/echo/pec-zwolle-vs-feyenoord-football-1381172/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-17T13:00Z",
     "hora_fin_utc": "2026-05-17T15:30:00Z",
     "liga": "Serie A",
@@ -116,127 +11,17 @@
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-inter-milan-vs-hellas-verona/1",
         "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_serie-a_inter-verona-live-streaming-1096563339/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/echo/inter-vs-hellas-verona-football-1378228/1",
-        "calidad": "HD"
       }
     ]
   },
   {
-    "hora_utc": "2026-05-17T14:00:00Z",
-    "hora_fin_utc": "2026-05-17T16:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Fulham vs Wolverhampton Wanderers",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-fulham/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22410/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T14:00:00Z",
-    "hora_fin_utc": "2026-05-17T16:30:00Z",
-    "liga": "Brasilerao",
-    "equipos": "Coritiba vs Santos",
-    "logo": "img/br.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Premiere BR ",
-        "url": "https://tvtvhd.com/canales.php?stream=premiere1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "fanatiz 01",
-        "url": "https://tvtvhd.com/canales.php?stream=fanatiz1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsports",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports ┃OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsports",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T14:00:00Z",
-    "hora_fin_utc": "2026-05-17T16:30:00Z",
-    "liga": "Premier League",
-    "equipos": "Brighton & Hove Albion vs Leeds United",
-    "logo": "img/en.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Telemundo 2 C.",
-        "url": "https://Tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-brighton-hove-albion/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/golf/22409/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_premier-league_leeds-brighton-live-streaming-1096555347/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/leeds-vs-brighton-football-1379335/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-17T14:00:00Z",
+    "hora_utc": "2026-05-17T14:00Z",
     "hora_fin_utc": "2026-05-17T16:30:00Z",
     "liga": "Premier League",
     "equipos": "Brentford vs Crystal Palace",
     "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney3pl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-brentford-vs-crystal-palace/1",
@@ -260,18 +45,13 @@
     ]
   },
   {
-    "hora_utc": "2026-05-17T14:00:00Z",
+    "hora_utc": "2026-05-17T14:00Z",
     "hora_fin_utc": "2026-05-17T16:30:00Z",
     "liga": "Premier League",
     "equipos": "Everton vs Sunderland",
     "logo": "img/en.png",
     "sport": "football",
     "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney4pl",
-        "calidad": "HD"
-      },
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-everton-vs-sunderland/1",
@@ -295,26 +75,56 @@
     ]
   },
   {
-    "hora_utc": "2026-05-17T15:00:00Z",
-    "hora_fin_utc": "2026-05-17T17:30:00Z",
-    "liga": "Deportes",
-    "equipos": "Tenis – Internazionali BNL d’Italia – Final",
-    "logo": "⚽",
+    "hora_utc": "2026-05-17T14:00Z",
+    "hora_fin_utc": "2026-05-17T16:30:00Z",
+    "liga": "Premier League",
+    "equipos": "Brighton & Hove Albion vs Leeds United",
+    "logo": "img/en.png",
     "sport": "football",
     "canales": [
       {
-        "nombre": "ESPN 2",
-        "url": "https://tvtvhd.com/canales.php?stream=espn2",
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-leeds-united-vs-brighton-hove-albion/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22409/1",
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN 2 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_leeds-brighton-live-streaming-1096555347/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
+        "url": "https://embedsports.top/embed/echo/leeds-vs-brighton-football-1379335/1",
+        "calidad": "HD"
+      }
+    ]
+  },
+  {
+    "hora_utc": "2026-05-17T14:00Z",
+    "hora_fin_utc": "2026-05-17T16:30:00Z",
+    "liga": "Premier League",
+    "equipos": "Fulham vs Wolverhampton Wanderers",
+    "logo": "img/en.png",
+    "sport": "football",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-wolverhampton-wanderers-vs-fulham/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22410/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_wolves-fulham-live-streaming-1096558344/1",
         "calidad": "HD"
       }
     ]
@@ -416,6 +226,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22434/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_mlb_rays-marlins-live-streaming-1277480241/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -444,12 +259,7 @@
     "canales": [
       {
         "nombre": "Telemundo 2 C.",
-        "url": "https://Tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
         "calidad": "HD"
       },
       {
@@ -658,6 +468,11 @@
         "calidad": "HD"
       },
       {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      },
+      {
         "nombre": "ESPN Deportes",
         "url": "https://tvtvhd.com/canales.php?stream=espndeportes",
         "calidad": "HD"
@@ -680,6 +495,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22466/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/sevilla-vs-real-madrid-football-1391188/1",
         "calidad": "HD"
       }
     ]
@@ -901,6 +721,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22436/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/atlanta-braves-vs-boston-red-sox-baseball-178710/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -951,6 +776,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22435/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/washington-nationals-vs-baltimore-orioles-baseball-178698/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -975,6 +805,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22438/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/cleveland-guardians-vs-cincinnati-reds-baseball-178708/1",
         "calidad": "HD"
       }
     ]
@@ -1145,6 +980,11 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22442/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/minnesota-twins-vs-milwaukee-brewers-baseball-178697/1",
         "calidad": "HD"
       }
     ]
@@ -1671,6 +1511,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22467/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/barcelona-vs-real-betis-football-1391181/1",
+        "calidad": "HD"
       }
     ]
   },
@@ -1935,6 +1780,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-inter-miami-cf-vs-portland-timbers/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22492/1",
         "calidad": "HD"
       }
     ]
