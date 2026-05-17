@@ -463,14 +463,14 @@
   },
   "remo": {
     "name": "Remo",
-    "aliases": ["remo"],
+    "aliases": ["remo", "Remo"],
     "country": "brazil",
     "league": "Brasileirao",
     "sport": "football"
   },
   "chapecoense": {
     "name": "Chapecoense",
-    "aliases": ["chapecoense", "chape"],
+    "aliases": ["chapecoense", "Chapecoense"],
     "country": "brazil",
     "league": "Brasilerao",
     "sport": "football"
@@ -1144,7 +1144,7 @@
   },
   "brighton": {
     "name": "Brighton & Hove Albion",
-    "aliases": ["brighton"],
+    "aliases": ["brighton","Brighton and Hove Albion" ],
     "country": "england",
     "league": "Premier League",
     "sport": "football"
@@ -1850,6 +1850,13 @@
   "league": "Liga1",
   "sport": "football"
 },
+"ADT": {
+  "name": "ADT",
+  "aliases": ["Asociación Deportiva Tarma", "ADT"],
+  "country": "peru",
+  "league": "Liga1",
+  "sport": "football"
+},
   "barcelona": {
     "name": "FC Barcelona",
     "aliases": ["barcelona", "fc barcelona"],
@@ -1894,7 +1901,7 @@
   },
   "celta": {
     "name": "Celta de Vigo",
-    "aliases": ["celta", "celta de vigo"],
+    "aliases": ["Celta Vigo", "celta de vigo"],
     "country": "spain",
     "league": "LaLiga",
     "sport": "football"
@@ -1908,7 +1915,7 @@
   },
   "athletic_bilbao": {
     "name": "Athletic Club",
-    "aliases": ["athletic", "athletic club", "bilbao"],
+    "aliases": ["athletic", "athletic club", "Athletic bilbao"],
     "country": "spain",
     "league": "LaLiga",
     "sport": "football"
