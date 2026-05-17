@@ -25,31 +25,6 @@
     "fuente": "github"
   },
   {
-    "hora_utc": "2026-05-17T08:45:00Z",
-    "logo": "img/formula1.png",
-    "liga": "Formula 1",
-    "equipos": "F1 Catalu - Grand Prix",
-    "status": "pronto",
-    "canales": [
-      {
-        "nombre": "ESPN 3",
-        "url": "https://tvtvhd.com/canales.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP2",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "ESPN 3 | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-        "calidad": "HD"
-      }
-    ],
-    "fuente": "pltvhd"
-  },
-  {
     "hora_utc": "2026-05-17T10:00Z",
     "logo": "img/it.png",
     "liga": "Serie A",
@@ -145,6 +120,11 @@
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/delta/live_serie-a_juventus-fiorentina-live-streaming-1096564338/1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/echo/juventus-vs-fiorentina-football-1378229/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -168,7 +148,7 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_serie-a_como-parma-live-streaming-1096561341/1",
+        "url": "https://embedsports.top/embed/echo/como-vs-parma-football-1378226/1",
         "calidad": "HD"
       }
     ],
@@ -189,6 +169,11 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/admin/ppv-pisa-vs-napoli/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/echo/pisa-vs-napoli-football-1378230/1",
         "calidad": "HD"
       }
     ],
@@ -228,7 +213,7 @@
       },
       {
         "nombre": "Server 2",
-        "url": "https://embedsports.top/embed/delta/live_serie-a_genoa-milan-live-streaming-1096562340/1",
+        "url": "https://embedsports.top/embed/echo/genoa-vs-ac-milan-football-1378227/1",
         "calidad": "HD"
       }
     ],
