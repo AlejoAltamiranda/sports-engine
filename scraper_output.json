@@ -410,6 +410,51 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-18T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Cincinnati Reds vs Philadelphia Phillies",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22498/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Atlanta Braves vs Miami Marlins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22496/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T22:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Cleveland Guardians vs Detroit Tigers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22499/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-18T22:45Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -474,6 +519,71 @@
       {
         "nombre": "Main Server",
         "url": "https://embedsports.top/embed/golf/22501/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T23:30Z",
+    "logo": "img/nhl.png",
+    "liga": "NHL",
+    "equipos": "Buffalo Sabres vs Montreal Canadiens",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22472/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Houston Astros vs Minnesota Twins",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22503/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Boston Red Sox vs Kansas City Royals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22502/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-18T23:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Chicago Cubs vs Milwaukee Brewers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22504/1",
         "calidad": "HD"
       }
     ],
@@ -555,6 +665,26 @@
     "fuente": "github"
   },
   {
+    "hora_utc": "2026-05-19T00:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Colorado Rockies vs Texas Rangers",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-colorado-rockies/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22482/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
     "hora_utc": "2026-05-19T01:30:00Z",
     "logo": "img/mlb.png",
     "liga": "MLB",
@@ -574,6 +704,16 @@
       {
         "nombre": "ESPN 5 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn5",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-seattle-mariners/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22484/1",
         "calidad": "HD"
       }
     ],
@@ -600,9 +740,59 @@
         "nombre": "ESPN 3 | OP3",
         "url": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22485/1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
+  },
+  {
+    "hora_utc": "2026-05-19T01:38Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Athletics vs Los Angeles Angels",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22483/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-19T01:40Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Arizona Diamondbacks vs San Francisco Giants",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 2",
+        "url": "https://embedsports.top/embed/golf/22486/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
   },
   {
     "hora_utc": "2026-05-19T02:00Z",
@@ -684,6 +874,21 @@
       {
         "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22450/1",
+        "calidad": "HD"
+      }
+    ],
+    "fuente": "github"
+  },
+  {
+    "hora_utc": "2026-05-19T23:45Z",
+    "logo": "img/mlb.png",
+    "liga": "MLB",
+    "equipos": "Pittsburgh Pirates vs St. Louis Cardinals",
+    "status": "pronto",
+    "canales": [
+      {
+        "nombre": "Main Server",
+        "url": "https://embedsports.top/embed/golf/22505/1",
         "calidad": "HD"
       }
     ],
