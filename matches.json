@@ -333,8 +333,18 @@
         "calidad": "HD"
       },
       {
-        "nombre": "ESPN PL.",
-        "url": "https://tvtvhd.com/vivo/pl.php?stream=espn",
+        "nombre": "ESPN",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP2",
+        "url": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN AR┃OP3",
+        "url": "https://tvtvhd.com/vivo/canales.php?stream=espn",
         "calidad": "HD"
       },
       {
@@ -349,6 +359,11 @@
       },
       {
         "nombre": "Server 3",
+        "url": "https://embedsports.top/embed/delta/live_premier-league_arsenal-burnley-live-streaming-1096549353/1",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "Server 4",
         "url": "https://embedsports.top/embed/echo/arsenal-vs-burnley-football-1379329/1",
         "calidad": "HD"
       }
