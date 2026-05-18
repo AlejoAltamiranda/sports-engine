@@ -310,6 +310,11 @@
         "nombre": "LaLiga TV Hypermotion ",
         "url": "https://tvtvhd.com/canales.php?stream=hypermotion1",
         "calidad": "HD"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://tvtvhd.com/canales.php?stream=disney1",
+        "calidad": "HD"
       }
     ],
     "fuente": "pltvhd"
@@ -324,6 +329,11 @@
       {
         "nombre": "Disney+",
         "url": "https://tvtvhd.com/canales.php?stream=disney1pl",
+        "calidad": "HD"
+      },
+      {
+        "nombre": "ESPN PL.",
+        "url": "https://tvtvhd.com/vivo/pl.php?stream=espn",
         "calidad": "HD"
       },
       {
@@ -373,7 +383,7 @@
     "canales": [
       {
         "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "url": "https://tvtvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ],
