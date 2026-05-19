@@ -9,57 +9,7 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-arsenal-vs-burnley/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22428/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 3",
-        "url": "https://embedsports.top/embed/delta/live_premier-league_arsenal-burnley-live-streaming-1096549353/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 4",
-        "url": "https://embedsports.top/embed/echo/arsenal-vs-burnley-football-1379329/1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-18T20:00:00Z",
-    "hora_fin_utc": "2026-05-18T22:30:00Z",
-    "liga": "Primera B",
-    "equipos": "Deportes Quindío vs Envigado",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Win Sports +",
-        "url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Win Sports + | OP3",
-        "url": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-18T21:30:00Z",
-    "hora_fin_utc": "2026-05-19T00:00:00Z",
-    "liga": "Liga AUF Uruguaya",
-    "equipos": "Danubio FC vs Deportivo Maldonado",
-    "logo": "img/uy.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://tvtvhd.com/canales.php?stream=disney2",
         "calidad": "HD"
       }
     ]
@@ -165,36 +115,6 @@
     ]
   },
   {
-    "hora_utc": "2026-05-18T23:00:00Z",
-    "hora_fin_utc": "2026-05-19T01:30:00Z",
-    "liga": "Primera B",
-    "equipos": "Deportes Iquique vs Unión Española",
-    "logo": "⚽",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "TNT Sports Premiun CL",
-        "url": "https://tvtvhd.com/canales.php?stream=tntsportschile",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
-    "hora_utc": "2026-05-18T23:00:00Z",
-    "hora_fin_utc": "2026-05-19T01:30:00Z",
-    "liga": "Primera División",
-    "equipos": "Real Potosí vs San Antonio Bulo Bulo",
-    "logo": "img/bo.png",
-    "sport": "football",
-    "canales": [
-      {
-        "nombre": "Futbol Canal",
-        "url": "https://tvtvhd.com/tv/canal.php?stream=even1",
-        "calidad": "HD"
-      }
-    ]
-  },
-  {
     "hora_utc": "2026-05-18T23:05Z",
     "hora_fin_utc": "2026-05-19T02:20:00Z",
     "liga": "MLB",
@@ -229,11 +149,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-montreal-canadiens-vs-buffalo-sabres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22472/1",
         "calidad": "HD"
       }
@@ -364,11 +279,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-washington-mystics-vs-dallas-wings/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22470/1",
         "calidad": "HD"
       }
@@ -419,11 +329,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-texas-rangers-vs-colorado-rockies/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22482/1",
         "calidad": "HD"
       }
@@ -459,11 +364,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chicago-white-sox-vs-seattle-mariners/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22484/1",
         "calidad": "HD"
       }
@@ -499,11 +399,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-los-angeles-dodgers-vs-san-diego-padres/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22485/1",
         "calidad": "HD"
       }
@@ -524,11 +419,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-athletics-vs-los-angeles-angels/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22483/1",
         "calidad": "HD"
       }
@@ -549,11 +439,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-san-francisco-giants-vs-arizona-diamondbacks/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22486/1",
         "calidad": "HD"
       }
@@ -574,11 +459,6 @@
       },
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-connecticut-sun-vs-portland-fire/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22471/1",
         "calidad": "HD"
       }
@@ -614,11 +494,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-afc-bournemouth-vs-manchester-city/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22449/1",
         "calidad": "HD"
       }
@@ -634,11 +509,6 @@
     "canales": [
       {
         "nombre": "Main Server",
-        "url": "https://embedsports.top/embed/admin/ppv-chelsea-vs-tottenham-hotspur/1",
-        "calidad": "HD"
-      },
-      {
-        "nombre": "Server 2",
         "url": "https://embedsports.top/embed/golf/22450/1",
         "calidad": "HD"
       }
